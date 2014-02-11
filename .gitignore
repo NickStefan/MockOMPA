@@ -1,0 +1,6 @@
+*.log
+*.json
+*.pyc
+gitmanager.py
+PoCMockOMPA/
+repo_name

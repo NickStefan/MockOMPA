@@ -1,0 +1,2292 @@
+mockompasansoccsh
+========================================================================
+========================       MOCK OMPA        ========================
+========================================================================
+
+========================
+6/Under Girls Free:
+========================
+1 {'MCC': 17.81} Points:24
+2 {'MIRA': 18.02} Points:21
+3 {'CCC': 19.64} Points:20
+4 {'MRSC': 19.75} Points:19
+5 {'MRSC': 19.78} Points:18
+6 {'MIRA': 21.14} Points:17
+7 {'MCC': 21.3} Points:16
+8 {'MEAD': 21.53} Points:15
+9 {'MRSC': 21.78} Points:14
+10 {'MRSC': 21.85} Points:13
+10 {'MRSC': 21.85} Points:13
+12 {'MVP': 22.0} Points:9
+13 {'CCC': 22.21} Points:8
+14 {'MIRA': 22.3} Points:7
+15 {'MVP': 22.57} Points:6
+16 {'MEAD': 22.88} Points:5
+17 {'MCC': 23.14} Points:4
+18 {'MCC': 23.41} Points:3
+19 {'PARK': 23.59} Points:2
+20 {'CCC': 23.7} Points:1
+
+6/Under Girls Free Points: 
+[('MRSC', 77), ('MCC', 47), ('MIRA', 45), ('CCC', 29), ('MEAD', 20), ('MVP', 15), ('PARK', 2)]
+
+========================
+6/Under Girls Breast:
+========================
+1 {'MEAD': 24.49} Points:24
+2 {'CCC': 26.2} Points:21
+3 {'MCC': 28.22} Points:20
+4 {'MVP': 29.54} Points:19
+5 {'MCC': 29.72} Points:18
+6 {'PARK': 30.32} Points:17
+7 {'MIRA': 30.86} Points:16
+8 {'MCC': 31.0} Points:15
+9 {'MCC': 32.2} Points:14
+10 {'MCC': 32.77} Points:13
+11 {'MVP': 32.87} Points:11
+12 {'MEAD': 34.19} Points:9
+13 {'MCC': 36.23} Points:8
+14 {'MVP': 36.42} Points:7
+15 {'MVP': 37.8} Points:6
+16 {'PARK': 38.61} Points:5
+17 {'MVP': 38.85} Points:4
+18 {'PARK': 41.29} Points:3
+19 {'MRSC': 41.82} Points:2
+20 {'PARK': 41.97} Points:1
+
+6/Under Girls Breast Points: 
+[('MCC', 88), ('MVP', 47), ('MEAD', 33), ('PARK', 26), ('CCC', 21), ('MIRA', 16), ('MRSC', 2)]
+
+========================
+6/Under Girls Back:
+========================
+1 {'MIRA': 23.33} Points:24
+2 {'CCC': 23.55} Points:21
+3 {'MEAD': 24.01} Points:20
+4 {'MVP': 25.39} Points:19
+5 {'MRSC': 25.48} Points:18
+6 {'MRSC': 25.97} Points:17
+7 {'PARK': 26.01} Points:16
+8 {'MEAD': 26.05} Points:15
+9 {'MCC': 26.24} Points:14
+10 {'CCC': 26.31} Points:13
+11 {'CCC': 26.75} Points:11
+12 {'MVP': 26.88} Points:9
+13 {'MRSC': 27.16} Points:8
+14 {'MEAD': 27.27} Points:7
+15 {'MCC': 27.47} Points:6
+16 {'MCC': 27.6} Points:5
+17 {'MIRA': 27.67} Points:4
+18 {'MEAD': 27.87} Points:3
+19 {'MEAD': 28.04} Points:2
+20 {'PARK': 28.09} Points:1
+
+6/Under Girls Back Points: 
+[('MEAD', 47), ('CCC', 45), ('MRSC', 43), ('MVP', 28), ('MIRA', 28), ('MCC', 25), ('PARK', 17)]
+
+========================
+6/Under Girls Fly:
+========================
+1 {'MIRA': 18.71} Points:24
+2 {'MCC': 22.09} Points:21
+3 {'MRSC': 22.51} Points:20
+4 {'CCC': 23.12} Points:19
+5 {'MEAD': 23.72} Points:18
+6 {'MIRA': 25.68} Points:17
+7 {'MRSC': 25.92} Points:16
+8 {'MVP': 26.17} Points:15
+9 {'MVP': 26.41} Points:14
+10 {'MRSC': 27.13} Points:13
+11 {'MRSC': 27.16} Points:11
+12 {'PARK': 27.39} Points:9
+13 {'MEAD': 28.37} Points:8
+14 {'MRSC': 29.64} Points:7
+15 {'MRSC': 30.87} Points:6
+16 {'MRSC': 31.88} Points:5
+17 {'MEAD': 32.65} Points:4
+18 {'MRSC': 33.77} Points:3
+19 {'MEAD': 34.9} Points:2
+20 {'PARK': 1000} Points:1
+20 {'PARK': 1000} Points:1
+20 {'PARK': 1000} Points:1
+20 {'PARK': 1000} Points:1
+20 {'PARK': 1000} Points:1
+
+6/Under Girls Fly Points: 
+[('MRSC', 81), ('MIRA', 41), ('MEAD', 32), ('MVP', 29), ('MCC', 21), ('CCC', 19), ('PARK', 14)]
+
+========================
+6/Under Girls Free Relay:
+========================
+1 {'MRSC': 83.16} Points:48
+2 {'MCC': 85.66} Points:42
+3 {'MIRA': 85.78} Points:40
+4 {'CCC': 88.0} Points:38
+5 {'MEAD': 89.96000000000001} Points:36
+6 {'MVP': 93.33000000000001} Points:34
+7 {'PARK': 1072.6699999999998} Points:32
+
+6/Under Girls Free Relay Points: 
+[('MRSC', 48), ('MCC', 42), ('MIRA', 40), ('CCC', 38), ('MEAD', 36), ('MVP', 34), ('PARK', 32)]
+
+========================
+6/Under Boys Free:
+========================
+1 {'MEAD': 15.93} Points:24
+2 {'MCC': 18.56} Points:21
+3 {'MRSC': 19.0} Points:20
+4 {'MEAD': 19.71} Points:19
+5 {'MCC': 19.85} Points:18
+6 {'MRSC': 20.94} Points:17
+7 {'MVP': 21.33} Points:16
+8 {'MEAD': 21.44} Points:15
+9 {'MEAD': 21.45} Points:14
+10 {'MCC': 22.25} Points:13
+11 {'MCC': 22.89} Points:11
+12 {'MIRA': 23.15} Points:9
+13 {'PARK': 23.25} Points:8
+14 {'MCC': 23.37} Points:7
+15 {'PARK': 23.77} Points:6
+16 {'MCC': 23.85} Points:5
+17 {'PARK': 23.9} Points:4
+18 {'MCC': 24.03} Points:3
+19 {'MIRA': 24.35} Points:2
+20 {'MRSC': 24.52} Points:1
+
+6/Under Boys Free Points: 
+[('MCC', 78), ('MEAD', 72), ('MRSC', 38), ('PARK', 18), ('MVP', 16), ('MIRA', 11), ('CCC', 0)]
+
+========================
+6/Under BoysBoys Breast:
+========================
+1 {'MIRA': 20.74} Points:24
+2 {'MRSC': 24.4} Points:21
+3 {'MCC': 24.72} Points:20
+4 {'MRSC': 25.53} Points:19
+5 {'MRSC': 25.55} Points:18
+6 {'MCC': 27.48} Points:17
+7 {'MEAD': 28.16} Points:16
+8 {'MVP': 28.35} Points:15
+9 {'PARK': 28.84} Points:14
+10 {'MCC': 29.87} Points:13
+11 {'MCC': 32.05} Points:11
+12 {'PARK': 33.85} Points:9
+13 {'MCC': 34.46} Points:8
+14 {'MCC': 34.48} Points:7
+15 {'MEAD': 35.56} Points:6
+16 {'MCC': 41.25} Points:5
+17 {'PARK': 42.02} Points:4
+18 {'MVP': 42.16} Points:3
+19 {'MIRA': 43.16} Points:2
+20 {'MEAD': 43.39} Points:1
+
+6/Under Boys Breast Points: 
+[('MCC', 81), ('MRSC', 58), ('PARK', 27), ('MIRA', 26), ('MEAD', 23), ('MVP', 18), ('CCC', 0)]
+
+========================
+6/Under Boys Back:
+========================
+1 {'MRSC': 13.4} Points:24
+2 {'MCC': 23.56} Points:21
+3 {'MCC': 24.37} Points:20
+4 {'MVP': 25.19} Points:19
+5 {'PARK': 25.91} Points:18
+6 {'MCC': 26.01} Points:17
+7 {'MIRA': 26.67} Points:16
+8 {'MCC': 27.1} Points:15
+9 {'MVP': 27.53} Points:14
+10 {'MEAD': 27.64} Points:13
+11 {'MCC': 27.82} Points:11
+12 {'PARK': 28.2} Points:9
+13 {'MCC': 28.4} Points:8
+14 {'MEAD': 28.45} Points:7
+15 {'MCC': 28.53} Points:6
+16 {'CCC': 28.89} Points:5
+17 {'MEAD': 29.5} Points:4
+18 {'MIRA': 29.81} Points:3
+19 {'MEAD': 29.98} Points:2
+20 {'MEAD': 30.54} Points:1
+
+6/Under Boys Back Points: 
+[('MCC', 98), ('MVP', 33), ('PARK', 27), ('MEAD', 27), ('MRSC', 24), ('MIRA', 19), ('CCC', 5)]
+
+========================
+6/Under Boys Fly:
+========================
+1 {'MIRA': 18.42} Points:24
+2 {'MEAD': 18.81} Points:21
+3 {'MCC': 22.67} Points:20
+4 {'MVP': 22.7} Points:19
+5 {'MCC': 25.1} Points:18
+6 {'PARK': 25.23} Points:17
+7 {'MRSC': 26.89} Points:16
+8 {'PARK': 27.98} Points:15
+9 {'MVP': 28.11} Points:14
+10 {'MCC': 28.11} Points:13
+11 {'MCC': 29.13} Points:11
+12 {'MVP': 29.71} Points:9
+13 {'MVP': 30.94} Points:8
+14 {'MCC': 33.14} Points:7
+15 {'PARK': 34.65} Points:6
+16 {'PARK': 35.79} Points:5
+17 {'MEAD': 36.0} Points:4
+18 {'PARK': 36.08} Points:3
+19 {'MRSC': 36.44} Points:2
+20 {'MCC': 38.16} Points:1
+
+6/Under Boys Fly Points: 
+[('MCC', 70), ('MVP', 50), ('PARK', 46), ('MEAD', 25), ('MIRA', 24), ('MRSC', 18), ('CCC', 0)]
+
+========================
+6/Under Boys Free Relay:
+========================
+1 {'MEAD': 78.53} Points:48
+2 {'MCC': 79.74000000000001} Points:42
+3 {'MRSC': 88.22} Points:40
+4 {'MIRA': 89.44} Points:38
+5 {'MVP': 92.63} Points:36
+6 {'PARK': 93.49000000000001} Points:34
+7 {'CCC': 1000} Points:32
+
+6/Under Boys Free Relay Points: 
+[('MEAD', 48), ('MCC', 42), ('MRSC', 40), ('MIRA', 38), ('MVP', 36), ('PARK', 34), ('CCC', 32)]
+
+========================
+7/8 Girls Free:
+========================
+1 {'MEAD': 14.52} Points:24
+2 {'MEAD': 14.86} Points:21
+3 {'MEAD': 15.77} Points:20
+4 {'MRSC': 15.93} Points:19
+5 {'MCC': 16.01} Points:18
+6 {'MEAD': 16.23} Points:17
+7 {'MCC': 16.24} Points:16
+8 {'MCC': 16.48} Points:15
+9 {'MCC': 16.58} Points:14
+10 {'MIRA': 16.7} Points:13
+11 {'MEAD': 16.73} Points:11
+12 {'MRSC': 16.74} Points:9
+13 {'MIRA': 16.81} Points:8
+14 {'MCC': 16.82} Points:7
+15 {'MVP': 16.84} Points:6
+16 {'MRSC': 16.93} Points:5
+17 {'MVP': 16.95} Points:4
+18 {'MCC': 17.01} Points:3
+19 {'CCC': 17.08} Points:2
+20 {'MRSC': 17.19} Points:1
+
+7/8 Girls Free Points: 
+[('MEAD', 93), ('MCC', 73), ('MRSC', 34), ('MIRA', 21), ('MVP', 10), ('CCC', 2), ('PARK', 0)]
+
+========================
+7/8 Girls Breast:
+========================
+1 {'MVP': 19.94} Points:24
+2 {'MVP': 21.01} Points:21
+3 {'PARK': 21.78} Points:20
+4 {'MIRA': 21.86} Points:19
+5 {'MCC': 21.95} Points:18
+6 {'MVP': 22.05} Points:17
+7 {'CCC': 22.5} Points:16
+8 {'PARK': 22.54} Points:15
+9 {'MRSC': 22.54} Points:14
+10 {'MCC': 22.77} Points:13
+11 {'MIRA': 23.44} Points:11
+12 {'CCC': 23.51} Points:9
+13 {'MEAD': 23.55} Points:8
+14 {'MEAD': 23.6} Points:7
+15 {'MRSC': 23.7} Points:6
+16 {'MVP': 23.77} Points:5
+17 {'PARK': 23.84} Points:4
+18 {'PARK': 24.34} Points:3
+19 {'MCC': 24.46} Points:2
+20 {'MCC': 24.49} Points:1
+
+7/8 Girls Breast Points: 
+[('MVP', 67), ('PARK', 42), ('MCC', 34), ('MIRA', 30), ('CCC', 25), ('MRSC', 20), ('MEAD', 15)]
+
+========================
+7/8 Girls Back:
+========================
+1 {'MEAD': 19.47} Points:24
+2 {'MEAD': 19.82} Points:21
+3 {'PARK': 19.91} Points:20
+4 {'MCC': 20.04} Points:19
+5 {'MCC': 20.14} Points:18
+6 {'MCC': 20.15} Points:17
+7 {'MCC': 20.39} Points:16
+8 {'MEAD': 20.58} Points:15
+9 {'MVP': 20.7} Points:14
+10 {'MRSC': 20.84} Points:13
+11 {'MIRA': 20.91} Points:11
+12 {'MCC': 20.95} Points:9
+13 {'MRSC': 21.14} Points:8
+14 {'PARK': 21.24} Points:7
+15 {'MIRA': 21.35} Points:6
+16 {'MRSC': 21.36} Points:5
+17 {'PARK': 21.41} Points:4
+18 {'PARK': 21.48} Points:3
+19 {'MEAD': 21.67} Points:2
+20 {'MEAD': 21.73} Points:1
+
+7/8 Girls Back Points: 
+[('MCC', 79), ('MEAD', 63), ('PARK', 34), ('MRSC', 26), ('MIRA', 17), ('MVP', 14), ('CCC', 0)]
+
+========================
+7/8 Girls Fly:
+========================
+1 {'MEAD': 16.35} Points:24
+2 {'MEAD': 16.47} Points:21
+3 {'PARK': 17.74} Points:20
+4 {'PARK': 17.8} Points:19
+5 {'MRSC': 17.86} Points:18
+6 {'MCC': 17.87} Points:17
+7 {'MEAD': 17.94} Points:16
+8 {'MCC': 17.96} Points:15
+9 {'MRSC': 18.09} Points:14
+10 {'MVP': 18.26} Points:13
+11 {'MCC': 18.36} Points:11
+12 {'MVP': 18.43} Points:9
+13 {'MCC': 18.46} Points:8
+14 {'MVP': 18.64} Points:7
+15 {'MRSC': 18.65} Points:6
+16 {'MIRA': 18.98} Points:5
+17 {'MRSC': 19.29} Points:4
+18 {'MVP': 19.38} Points:3
+19 {'MRSC': 19.81} Points:2
+20 {'MCC': 19.96} Points:1
+
+7/8 Girls Fly Points: 
+[('MEAD', 61), ('MCC', 52), ('MRSC', 44), ('PARK', 39), ('MVP', 32), ('MIRA', 5), ('CCC', 0)]
+
+========================
+7/8 Girls IM:
+========================
+1 {'MEAD': 88.82} Points:24
+2 {'MVP': 90.16} Points:21
+3 {'MEAD': 90.23} Points:20
+4 {'MEAD': 90.81} Points:19
+5 {'MVP': 92.67} Points:18
+6 {'MEAD': 92.99} Points:17
+7 {'PARK': 93.87} Points:16
+8 {'MCC': 94.3} Points:15
+9 {'PARK': 98.61} Points:14
+10 {'MCC': 98.65} Points:13
+11 {'MEAD': 98.9} Points:11
+12 {'MCC': 100.83} Points:9
+13 {'MCC': 101.83} Points:8
+14 {'MCC': 102.77} Points:7
+15 {'MVP': 103.06} Points:6
+16 {'MIRA': 103.22} Points:5
+17 {'CCC': 106.48} Points:4
+18 {'PARK': 106.52} Points:3
+19 {'MEAD': 106.77} Points:2
+20 {'PARK': 107.37} Points:1
+
+7/8 Girls IM Points: 
+[('MEAD', 93), ('MCC', 52), ('MVP', 45), ('PARK', 34), ('MIRA', 5), ('CCC', 4), ('MRSC', 0)]
+
+========================
+7/8 Girls Free Relay:
+========================
+1 {'MEAD': 61.379999999999995} Points:48
+2 {'MCC': 65.31} Points:42
+3 {'MRSC': 66.79} Points:40
+4 {'PARK': 69.57} Points:38
+5 {'CCC': 1000} Points:36
+6 {'MVP': 1050.95} Points:34
+7 {'MIRA': 2033.51} Points:32
+
+7/8 Girls Free Relay Points: 
+[('MEAD', 48), ('MCC', 42), ('MRSC', 40), ('PARK', 38), ('CCC', 36), ('MVP', 34), ('MIRA', 32)]
+
+========================
+7/8 Boys Free:
+========================
+1 {'MEAD': 14.64} Points:24
+2 {'MCC': 15.15} Points:21
+3 {'MEAD': 15.2} Points:20
+4 {'PARK': 15.6} Points:19
+5 {'CCC': 15.74} Points:18
+6 {'MCC': 15.75} Points:17
+7 {'MEAD': 15.84} Points:16
+8 {'MEAD': 15.9} Points:15
+9 {'MCC': 15.94} Points:14
+10 {'MCC': 16.09} Points:13
+11 {'MRSC': 16.22} Points:11
+12 {'MVP': 16.46} Points:9
+13 {'MVP': 16.81} Points:8
+14 {'MEAD': 16.82} Points:7
+15 {'PARK': 16.85} Points:6
+16 {'MIRA': 16.87} Points:5
+17 {'MRSC': 16.88} Points:4
+18 {'MCC': 16.99} Points:3
+19 {'MCC': 17.13} Points:2
+20 {'MEAD': 17.18} Points:1
+
+7/8 Boys Free Points: 
+[('MEAD', 83), ('MCC', 70), ('PARK', 25), ('CCC', 18), ('MVP', 17), ('MRSC', 15), ('MIRA', 5)]
+
+========================
+7/8 Boys Breast:
+========================
+1 {'MEAD': 19.44} Points:24
+2 {'MCC': 19.44} Points:21
+3 {'MVP': 19.96} Points:20
+4 {'MVP': 21.14} Points:19
+5 {'PARK': 21.31} Points:18
+6 {'CCC': 22.15} Points:17
+7 {'MCC': 22.19} Points:16
+8 {'MCC': 22.23} Points:15
+9 {'MIRA': 22.31} Points:14
+10 {'MCC': 22.34} Points:13
+11 {'CCC': 22.77} Points:11
+12 {'MCC': 22.93} Points:9
+13 {'MEAD': 23.29} Points:8
+14 {'MVP': 23.29} Points:7
+15 {'PARK': 23.32} Points:6
+16 {'MCC': 23.35} Points:5
+17 {'MCC': 23.39} Points:4
+18 {'MIRA': 24.31} Points:3
+19 {'MEAD': 24.36} Points:2
+20 {'MRSC': 24.63} Points:1
+
+7/8 Boys Breast Points: 
+[('MCC', 83), ('MVP', 46), ('MEAD', 34), ('CCC', 28), ('PARK', 24), ('MIRA', 17), ('MRSC', 1)]
+
+========================
+7/8 Boys Back:
+========================
+1 {'MEAD': 18.08} Points:24
+2 {'MVP': 19.35} Points:21
+3 {'MCC': 19.45} Points:20
+4 {'MEAD': 19.55} Points:19
+5 {'MCC': 19.65} Points:18
+6 {'MEAD': 19.96} Points:17
+7 {'MCC': 20.51} Points:16
+8 {'CCC': 20.76} Points:15
+9 {'MVP': 20.87} Points:14
+10 {'MCC': 20.99} Points:13
+11 {'MRSC': 21.06} Points:11
+12 {'MVP': 21.26} Points:9
+13 {'PARK': 21.47} Points:8
+14 {'CCC': 21.81} Points:7
+15 {'MCC': 21.83} Points:6
+16 {'MCC': 22.01} Points:5
+17 {'PARK': 22.03} Points:4
+18 {'PARK': 22.22} Points:3
+19 {'MCC': 22.38} Points:2
+20 {'MCC': 22.6} Points:1
+
+7/8 Boys Back Points: 
+[('MCC', 81), ('MEAD', 60), ('MVP', 44), ('CCC', 22), ('PARK', 15), ('MRSC', 11), ('MIRA', 0)]
+
+========================
+7/8 Boys Fly:
+========================
+1 {'MEAD': 16.51} Points:24
+2 {'MVP': 17.13} Points:21
+3 {'MEAD': 17.14} Points:20
+4 {'MEAD': 17.31} Points:19
+5 {'MVP': 17.38} Points:18
+6 {'MIRA': 17.65} Points:17
+7 {'PARK': 17.74} Points:16
+8 {'PARK': 17.81} Points:15
+9 {'MCC': 17.83} Points:14
+10 {'PARK': 18.09} Points:13
+11 {'MEAD': 18.29} Points:11
+12 {'CCC': 18.35} Points:9
+13 {'MRSC': 19.08} Points:8
+14 {'MRSC': 19.49} Points:7
+15 {'MEAD': 19.66} Points:6
+16 {'MEAD': 19.95} Points:5
+17 {'MRSC': 19.98} Points:4
+18 {'PARK': 20.0} Points:3
+19 {'MCC': 20.16} Points:2
+20 {'MCC': 20.25} Points:1
+
+7/8 Boys Fly Points: 
+[('MEAD', 85), ('PARK', 47), ('MVP', 39), ('MRSC', 19), ('MCC', 17), ('MIRA', 17), ('CCC', 9)]
+
+========================
+7/8 Boys IM:
+========================
+1 {'MEAD': 86.61} Points:24
+2 {'PARK': 89.8} Points:21
+3 {'MVP': 90.66} Points:20
+4 {'MVP': 93.4} Points:19
+5 {'CCC': 93.86} Points:18
+6 {'MCC': 94.21} Points:17
+7 {'MEAD': 94.72} Points:16
+8 {'PARK': 95.19} Points:15
+9 {'MCC': 96.02} Points:14
+10 {'PARK': 96.68} Points:13
+11 {'MCC': 97.23} Points:11
+12 {'MEAD': 97.37} Points:9
+13 {'MCC': 101.21} Points:8
+14 {'CCC': 101.47} Points:7
+15 {'MVP': 103.28} Points:6
+16 {'MIRA': 103.68} Points:5
+17 {'MCC': 104.2} Points:4
+18 {'MCC': 105.69} Points:3
+19 {'CCC': 106.14} Points:2
+20 {'PARK': 107.07} Points:1
+
+7/8 Boys IM Points: 
+[('MCC', 57), ('PARK', 50), ('MEAD', 49), ('MVP', 45), ('CCC', 27), ('MIRA', 5), ('MRSC', 0)]
+
+========================
+7/8 Boys Free Relay:
+========================
+1 {'MEAD': 60.67} Points:48
+2 {'MCC': 62.93} Points:42
+3 {'MVP': 67.13} Points:40
+4 {'PARK': 1048.51} Points:38
+5 {'CCC': 1050.3600000000001} Points:36
+6 {'MRSC': 1050.83} Points:34
+7 {'MIRA': 1051.93} Points:32
+
+7/8 Boys Free Relay Points: 
+[('MEAD', 48), ('MCC', 42), ('MVP', 40), ('PARK', 38), ('CCC', 36), ('MRSC', 34), ('MIRA', 32)]
+
+========================
+9/10 Girls Free:
+========================
+1 {'PARK': 28.19} Points:24
+2 {'MEAD': 28.4} Points:21
+3 {'PARK': 29.53} Points:20
+4 {'MCC': 29.6} Points:19
+5 {'MRSC': 29.89} Points:18
+6 {'MCC': 30.32} Points:17
+7 {'MIRA': 30.6} Points:16
+8 {'CCC': 30.78} Points:15
+9 {'PARK': 31.37} Points:14
+10 {'MCC': 31.52} Points:13
+11 {'MEAD': 31.83} Points:11
+12 {'MCC': 31.88} Points:9
+13 {'CCC': 32.43} Points:8
+14 {'CCC': 32.54} Points:7
+15 {'MEAD': 33.03} Points:6
+16 {'MCC': 33.15} Points:5
+17 {'PARK': 33.4} Points:4
+18 {'MCC': 33.53} Points:3
+19 {'MEAD': 33.57} Points:2
+20 {'MEAD': 33.62} Points:1
+
+9/10 Girls Free Points: 
+[('MCC', 66), ('PARK', 62), ('MEAD', 41), ('CCC', 30), ('MRSC', 18), ('MIRA', 16), ('MVP', 0)]
+
+========================
+9/10 Girls Breast:
+========================
+1 {'MEAD': 36.07} Points:24
+2 {'MCC': 37.08} Points:21
+3 {'PARK': 37.51} Points:20
+4 {'CCC': 38.58} Points:19
+5 {'MVP': 38.6} Points:18
+6 {'MEAD': 39.26} Points:17
+7 {'CCC': 39.73} Points:16
+8 {'MIRA': 41.56} Points:15
+9 {'MRSC': 43.16} Points:14
+10 {'MRSC': 43.27} Points:13
+11 {'MCC': 43.32} Points:11
+12 {'MCC': 43.98} Points:9
+13 {'MEAD': 44.0} Points:8
+14 {'MCC': 44.2} Points:7
+15 {'MCC': 44.63} Points:6
+16 {'MRSC': 44.93} Points:5
+17 {'MEAD': 44.96} Points:4
+18 {'MCC': 45.17} Points:3
+19 {'MEAD': 45.46} Points:2
+20 {'MIRA': 45.99} Points:1
+
+9/10 Girls Breast Points: 
+[('MCC', 57), ('MEAD', 55), ('CCC', 35), ('MRSC', 32), ('PARK', 20), ('MVP', 18), ('MIRA', 16)]
+
+========================
+9/10 Girls Back:
+========================
+1 {'MCC': 32.99} Points:24
+2 {'MEAD': 33.29} Points:21
+3 {'MCC': 34.63} Points:20
+4 {'CCC': 35.16} Points:19
+5 {'PARK': 35.52} Points:18
+6 {'MIRA': 35.77} Points:17
+7 {'PARK': 35.78} Points:16
+8 {'MEAD': 35.8} Points:15
+9 {'CCC': 36.25} Points:14
+10 {'MCC': 37.0} Points:13
+11 {'CCC': 37.12} Points:11
+12 {'MVP': 37.28} Points:9
+13 {'MIRA': 37.39} Points:8
+14 {'MCC': 37.44} Points:7
+15 {'MEAD': 38.21} Points:6
+16 {'MEAD': 38.49} Points:5
+17 {'MIRA': 38.73} Points:4
+18 {'CCC': 39.38} Points:3
+19 {'MCC': 39.57} Points:2
+19 {'MCC': 39.57} Points:2
+
+9/10 Girls Back Points: 
+[('MCC', 68), ('MEAD', 47), ('CCC', 47), ('PARK', 34), ('MIRA', 29), ('MVP', 9), ('MRSC', 0)]
+
+========================
+9/10 Girls Fly:
+========================
+1 {'PARK': 30.63} Points:24
+2 {'CCC': 31.6} Points:21
+3 {'MEAD': 32.76} Points:20
+4 {'MEAD': 32.86} Points:19
+5 {'MCC': 33.33} Points:18
+6 {'PARK': 33.52} Points:17
+7 {'PARK': 34.35} Points:16
+8 {'MVP': 34.63} Points:15
+9 {'MRSC': 35.16} Points:14
+10 {'MIRA': 35.39} Points:13
+11 {'PARK': 36.15} Points:11
+12 {'MCC': 36.18} Points:9
+13 {'MCC': 36.44} Points:8
+14 {'MCC': 36.68} Points:7
+15 {'PARK': 36.83} Points:6
+16 {'MEAD': 37.67} Points:5
+17 {'MVP': 37.68} Points:4
+18 {'MRSC': 38.27} Points:3
+19 {'CCC': 38.33} Points:2
+20 {'MVP': 38.47} Points:1
+
+9/10 Girls Fly Points: 
+[('PARK', 74), ('MEAD', 44), ('MCC', 42), ('CCC', 23), ('MVP', 20), ('MRSC', 17), ('MIRA', 13)]
+
+========================
+9/10 Girls IM:
+========================
+1 {'PARK': 71.19} Points:24
+2 {'MEAD': 72.35} Points:21
+3 {'MCC': 73.62} Points:20
+4 {'PARK': 76.02} Points:19
+5 {'PARK': 76.76} Points:18
+6 {'MCC': 77.65} Points:17
+7 {'CCC': 78.18} Points:16
+8 {'CCC': 79.72} Points:15
+9 {'MIRA': 80.48} Points:14
+10 {'MVP': 81.23} Points:13
+11 {'PARK': 81.35} Points:11
+12 {'MIRA': 81.47} Points:9
+13 {'MCC': 81.49} Points:8
+14 {'PARK': 81.85} Points:7
+15 {'MEAD': 82.29} Points:6
+16 {'PARK': 83.04} Points:5
+17 {'MCC': 83.74} Points:4
+18 {'MVP': 83.96} Points:3
+19 {'MIRA': 84.07} Points:2
+20 {'MCC': 86.17} Points:1
+
+9/10 Girls IM Points: 
+[('PARK', 84), ('MCC', 50), ('CCC', 31), ('MEAD', 27), ('MIRA', 25), ('MVP', 16), ('MRSC', 0)]
+
+========================
+9/10 Girls Free Relay:
+========================
+1 {'PARK': 120.88} Points:48
+2 {'MCC': 123.32} Points:42
+3 {'MEAD': 123.81} Points:40
+4 {'CCC': 127.34} Points:38
+5 {'MRSC': 131.53} Points:36
+6 {'MIRA': 132.73} Points:34
+7 {'MVP': 1100.63} Points:32
+
+9/10 Girls Free Relay Points: 
+[('PARK', 48), ('MCC', 42), ('MEAD', 40), ('CCC', 38), ('MRSC', 36), ('MIRA', 34), ('MVP', 32)]
+
+========================
+9/10 Boys Free:
+========================
+1 {'MEAD': 27.8} Points:24
+2 {'MEAD': 28.4} Points:21
+3 {'MEAD': 28.72} Points:20
+4 {'MRSC': 29.34} Points:19
+5 {'MRSC': 29.65} Points:18
+6 {'MVP': 30.02} Points:17
+7 {'PARK': 30.24} Points:16
+8 {'MCC': 30.26} Points:15
+9 {'MRSC': 30.58} Points:14
+10 {'PARK': 30.94} Points:13
+11 {'MCC': 31.26} Points:11
+12 {'MCC': 31.53} Points:9
+13 {'MEAD': 32.86} Points:8
+14 {'MCC': 32.88} Points:7
+15 {'PARK': 32.9} Points:6
+16 {'MRSC': 32.94} Points:5
+17 {'MIRA': 33.07} Points:4
+18 {'CCC': 33.15} Points:3
+19 {'PARK': 33.42} Points:2
+20 {'MCC': 33.55} Points:1
+
+9/10 Boys Free Points: 
+[('MEAD', 73), ('MRSC', 56), ('MCC', 43), ('PARK', 37), ('MVP', 17), ('MIRA', 4), ('CCC', 3)]
+
+========================
+9/10 Boys Breast:
+========================
+1 {'MEAD': 39.68} Points:24
+2 {'MCC': 39.82} Points:21
+3 {'MEAD': 40.2} Points:20
+4 {'PARK': 41.4} Points:19
+5 {'MCC': 42.38} Points:18
+6 {'MVP': 43.61} Points:17
+7 {'PARK': 43.95} Points:16
+8 {'CCC': 43.99} Points:15
+9 {'MRSC': 44.69} Points:14
+10 {'MRSC': 44.74} Points:13
+11 {'MCC': 44.87} Points:11
+12 {'MCC': 45.03} Points:9
+13 {'CCC': 45.55} Points:8
+14 {'PARK': 45.77} Points:7
+15 {'MEAD': 46.44} Points:6
+16 {'MCC': 46.52} Points:5
+17 {'MEAD': 46.65} Points:4
+18 {'MCC': 46.76} Points:3
+19 {'PARK': 47.19} Points:2
+20 {'MIRA': 47.28} Points:1
+
+9/10 Boys Breast Points: 
+[('MCC', 67), ('MEAD', 54), ('PARK', 44), ('MRSC', 27), ('CCC', 23), ('MVP', 17), ('MIRA', 1)]
+
+========================
+9/10 Boys Back:
+========================
+1 {'PARK': 33.87} Points:24
+2 {'MCC': 35.44} Points:21
+3 {'PARK': 35.7} Points:20
+4 {'MRSC': 36.19} Points:19
+5 {'MRSC': 36.63} Points:18
+6 {'MCC': 37.07} Points:17
+7 {'MIRA': 37.29} Points:16
+8 {'MCC': 38.12} Points:15
+9 {'PARK': 38.19} Points:14
+10 {'MRSC': 38.82} Points:13
+11 {'MEAD': 39.08} Points:11
+12 {'MCC': 39.19} Points:9
+13 {'MEAD': 39.2} Points:8
+14 {'MRSC': 39.34} Points:7
+15 {'MCC': 39.39} Points:6
+16 {'MRSC': 39.56} Points:5
+17 {'MCC': 40.3} Points:4
+18 {'MEAD': 40.84} Points:3
+19 {'MRSC': 40.94} Points:2
+20 {'PARK': 41.09} Points:1
+
+9/10 Boys Back Points: 
+[('MCC', 72), ('MRSC', 64), ('PARK', 59), ('MEAD', 22), ('MIRA', 16), ('MVP', 0), ('CCC', 0)]
+
+========================
+9/10 Boys Fly:
+========================
+1 {'MEAD': 30.5} Points:24
+2 {'MVP': 32.69} Points:21
+3 {'PARK': 33.16} Points:20
+4 {'MIRA': 33.42} Points:19
+5 {'MEAD': 33.52} Points:18
+6 {'MEAD': 33.79} Points:17
+7 {'MEAD': 34.28} Points:16
+8 {'MRSC': 34.43} Points:15
+9 {'MCC': 34.44} Points:14
+10 {'MRSC': 34.8} Points:13
+11 {'PARK': 35.54} Points:11
+12 {'PARK': 35.87} Points:9
+13 {'MRSC': 36.05} Points:8
+14 {'MCC': 36.79} Points:7
+15 {'PARK': 36.97} Points:6
+16 {'PARK': 37.2} Points:5
+17 {'MCC': 38.16} Points:4
+18 {'MCC': 38.19} Points:3
+19 {'MEAD': 38.76} Points:2
+20 {'MEAD': 38.94} Points:1
+
+9/10 Boys Fly Points: 
+[('MEAD', 78), ('PARK', 51), ('MRSC', 36), ('MCC', 28), ('MVP', 21), ('MIRA', 19), ('CCC', 0)]
+
+========================
+9/10 Boys IM:
+========================
+1 {'CCC': 53.78} Points:24
+2 {'MEAD': 72.44} Points:21
+3 {'PARK': 73.64} Points:20
+4 {'MEAD': 75.07} Points:19
+5 {'MEAD': 76.85} Points:18
+6 {'MVP': 76.87} Points:17
+7 {'MRSC': 77.64} Points:16
+8 {'MCC': 78.22} Points:15
+9 {'MEAD': 78.62} Points:14
+10 {'MIRA': 80.39} Points:13
+11 {'MRSC': 80.45} Points:11
+12 {'MCC': 80.62} Points:9
+13 {'PARK': 81.39} Points:8
+14 {'MCC': 81.88} Points:7
+15 {'PARK': 81.9} Points:6
+16 {'MCC': 81.94} Points:5
+17 {'PARK': 84.64} Points:4
+18 {'CCC': 86.16} Points:3
+19 {'MVP': 86.64} Points:2
+20 {'MCC': 86.65} Points:1
+
+9/10 Boys IM Points: 
+[('MEAD', 72), ('PARK', 38), ('MCC', 37), ('MRSC', 27), ('CCC', 27), ('MVP', 19), ('MIRA', 13)]
+
+========================
+9/10 Boys Free Relay:
+========================
+1 {'MEAD': 116.67} Points:48
+2 {'MRSC': 121.69} Points:42
+3 {'PARK': 123.81} Points:40
+4 {'MCC': 124.52000000000001} Points:38
+5 {'MVP': 1000} Points:36
+6 {'MIRA': 1000} Points:34
+7 {'CCC': 3033.15} Points:32
+
+9/10 Boys Free Relay Points: 
+[('MEAD', 48), ('MRSC', 42), ('PARK', 40), ('MCC', 38), ('MVP', 36), ('MIRA', 34), ('CCC', 32)]
+
+========================
+11/12 Girls Free:
+========================
+1 {'MEAD': 26.84} Points:24
+2 {'MCC': 27.4} Points:21
+3 {'PARK': 27.84} Points:20
+4 {'PARK': 28.47} Points:19
+5 {'MVP': 28.6} Points:18
+6 {'MRSC': 28.83} Points:17
+7 {'MRSC': 28.85} Points:16
+8 {'MRSC': 28.88} Points:15
+9 {'MRSC': 28.9} Points:14
+10 {'MEAD': 28.93} Points:13
+11 {'MEAD': 28.94} Points:11
+12 {'MEAD': 28.95} Points:9
+13 {'MEAD': 29.07} Points:8
+14 {'MRSC': 29.35} Points:7
+15 {'PARK': 29.85} Points:6
+16 {'PARK': 29.86} Points:5
+17 {'PARK': 29.89} Points:4
+18 {'MCC': 29.94} Points:3
+19 {'MEAD': 30.13} Points:2
+20 {'MEAD': 30.18} Points:1
+
+11/12 Girls Free Points: 
+[('MRSC', 69), ('MEAD', 68), ('PARK', 54), ('MCC', 24), ('MVP', 18), ('MIRA', 0), ('CCC', 0)]
+
+========================
+11/12 Girls Breast:
+========================
+1 {'PARK': 34.08} Points:24
+2 {'MEAD': 35.07} Points:21
+3 {'PARK': 36.83} Points:20
+4 {'PARK': 36.87} Points:19
+5 {'CCC': 36.89} Points:18
+6 {'PARK': 37.56} Points:17
+7 {'MCC': 37.86} Points:16
+8 {'PARK': 38.37} Points:15
+9 {'MCC': 38.71} Points:14
+10 {'MVP': 38.73} Points:13
+11 {'MIRA': 39.08} Points:11
+12 {'MCC': 39.2} Points:9
+13 {'MEAD': 39.3} Points:8
+14 {'MRSC': 39.92} Points:7
+15 {'MEAD': 40.4} Points:6
+16 {'MRSC': 40.53} Points:5
+17 {'MVP': 40.8} Points:4
+18 {'CCC': 40.8} Points:3
+19 {'MRSC': 40.92} Points:2
+20 {'PARK': 41.25} Points:1
+
+11/12 Girls Breast Points: 
+[('PARK', 96), ('MCC', 39), ('MEAD', 35), ('CCC', 21), ('MVP', 17), ('MRSC', 14), ('MIRA', 11)]
+
+========================
+11/12 Girls Back:
+========================
+1 {'MCC': 31.52} Points:24
+2 {'MRSC': 32.74} Points:21
+3 {'MCC': 32.81} Points:20
+4 {'PARK': 33.6} Points:19
+5 {'MEAD': 33.7} Points:18
+6 {'MEAD': 34.21} Points:17
+7 {'CCC': 34.98} Points:16
+8 {'CCC': 35.1} Points:15
+9 {'MRSC': 35.38} Points:14
+10 {'MCC': 35.87} Points:13
+11 {'MCC': 35.92} Points:11
+12 {'MEAD': 36.91} Points:9
+13 {'MVP': 37.0} Points:8
+14 {'MEAD': 37.08} Points:7
+15 {'MVP': 37.64} Points:6
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+16 {'PARK': 1000} Points:5
+
+11/12 Girls Back Points: 
+[('MCC', 68), ('PARK', 64), ('MEAD', 51), ('MRSC', 35), ('CCC', 31), ('MVP', 14), ('MIRA', 0)]
+
+========================
+11/12 Girls Fly:
+========================
+1 {'MEAD': 29.85} Points:24
+2 {'MEAD': 30.13} Points:21
+3 {'MRSC': 30.64} Points:20
+4 {'MCC': 30.66} Points:19
+5 {'MIRA': 30.77} Points:18
+6 {'PARK': 31.22} Points:17
+7 {'MEAD': 31.27} Points:16
+8 {'PARK': 31.89} Points:15
+9 {'MVP': 31.91} Points:14
+10 {'PARK': 31.97} Points:13
+11 {'PARK': 32.67} Points:11
+12 {'MCC': 32.7} Points:9
+13 {'MEAD': 32.99} Points:8
+14 {'MRSC': 33.22} Points:7
+15 {'CCC': 33.37} Points:6
+16 {'MRSC': 33.5} Points:5
+17 {'MRSC': 33.72} Points:4
+18 {'PARK': 34.05} Points:3
+19 {'MEAD': 34.35} Points:2
+20 {'PARK': 34.49} Points:1
+
+11/12 Girls Fly Points: 
+[('MEAD', 71), ('PARK', 60), ('MRSC', 36), ('MCC', 28), ('MIRA', 18), ('MVP', 14), ('CCC', 6)]
+
+========================
+11/12 Girls IM:
+========================
+1 {'PARK': 68.31} Points:24
+2 {'MEAD': 70.26} Points:21
+3 {'PARK': 70.56} Points:20
+4 {'MEAD': 71.28} Points:19
+5 {'MRSC': 71.88} Points:18
+6 {'MCC': 72.7} Points:17
+7 {'MEAD': 73.21} Points:16
+8 {'MEAD': 73.31} Points:15
+9 {'MIRA': 74.06} Points:14
+10 {'PARK': 74.49} Points:13
+11 {'MCC': 74.65} Points:11
+12 {'MVP': 74.73} Points:9
+13 {'PARK': 74.79} Points:8
+14 {'MEAD': 74.82} Points:7
+15 {'MRSC': 75.06} Points:6
+16 {'MRSC': 75.12} Points:5
+17 {'PARK': 75.18} Points:4
+18 {'MEAD': 75.53} Points:3
+19 {'MRSC': 75.59} Points:2
+20 {'MVP': 75.79} Points:1
+
+11/12 Girls IM Points: 
+[('MEAD', 81), ('PARK', 69), ('MRSC', 31), ('MCC', 28), ('MIRA', 14), ('MVP', 10), ('CCC', 0)]
+
+========================
+11/12 Girls Free Relay:
+========================
+1 {'MEAD': 113.66} Points:48
+2 {'MRSC': 115.46000000000001} Points:42
+3 {'PARK': 115.75} Points:40
+4 {'MCC': 115.88} Points:38
+5 {'MIRA': 1000} Points:36
+6 {'MVP': 3028.6} Points:34
+7 {'CCC': 3030.33} Points:32
+
+11/12 Girls Free Relay Points: 
+[('MEAD', 48), ('MRSC', 42), ('PARK', 40), ('MCC', 38), ('MIRA', 36), ('MVP', 34), ('CCC', 32)]
+
+========================
+11/12 Boys Free:
+========================
+1 {'PARK': 24.99} Points:24
+2 {'MRSC': 26.98} Points:21
+3 {'CCC': 27.11} Points:20
+4 {'CCC': 27.52} Points:19
+5 {'MEAD': 27.69} Points:18
+6 {'CCC': 27.77} Points:17
+7 {'MEAD': 27.94} Points:16
+8 {'MRSC': 27.95} Points:15
+9 {'PARK': 28.13} Points:14
+10 {'MRSC': 28.27} Points:13
+11 {'PARK': 28.31} Points:11
+12 {'MEAD': 28.39} Points:9
+13 {'MEAD': 28.69} Points:8
+14 {'MCC': 28.77} Points:7
+15 {'MEAD': 29.09} Points:6
+16 {'MCC': 29.2} Points:5
+17 {'MCC': 29.23} Points:4
+18 {'MEAD': 29.36} Points:3
+19 {'MCC': 29.64} Points:2
+20 {'MVP': 29.69} Points:1
+
+11/12 Boys Free Points: 
+[('MEAD', 60), ('CCC', 56), ('MRSC', 49), ('PARK', 49), ('MCC', 18), ('MVP', 1), ('MIRA', 0)]
+
+========================
+11/12 Boys Breast:
+========================
+1 {'MRSC': 33.44} Points:24
+2 {'PARK': 33.87} Points:21
+3 {'MRSC': 34.74} Points:20
+4 {'PARK': 35.46} Points:19
+5 {'PARK': 36.52} Points:18
+6 {'MRSC': 36.98} Points:17
+7 {'MEAD': 37.31} Points:16
+8 {'MIRA': 37.66} Points:15
+9 {'MEAD': 37.76} Points:14
+10 {'CCC': 38.3} Points:13
+11 {'PARK': 38.45} Points:11
+12 {'MIRA': 38.64} Points:9
+13 {'MVP': 39.54} Points:8
+14 {'MCC': 39.86} Points:7
+15 {'MRSC': 40.05} Points:6
+16 {'MEAD': 40.21} Points:5
+17 {'MVP': 40.23} Points:4
+18 {'MRSC': 41.1} Points:3
+19 {'MVP': 41.12} Points:2
+20 {'PARK': 41.13} Points:1
+
+11/12 Boys Breast Points: 
+[('MRSC', 70), ('PARK', 70), ('MEAD', 35), ('MIRA', 24), ('MVP', 14), ('CCC', 13), ('MCC', 7)]
+
+========================
+11/12 Boys Back:
+========================
+1 {'MRSC': 31.37} Points:24
+2 {'MEAD': 31.59} Points:21
+3 {'MEAD': 32.27} Points:20
+4 {'CCC': 33.41} Points:19
+5 {'MCC': 33.93} Points:18
+6 {'PARK': 34.13} Points:17
+7 {'PARK': 34.18} Points:16
+8 {'MCC': 34.53} Points:15
+9 {'MEAD': 34.58} Points:14
+10 {'MRSC': 34.95} Points:13
+11 {'MCC': 35.02} Points:11
+12 {'MVP': 35.14} Points:9
+13 {'PARK': 35.3} Points:8
+14 {'MVP': 35.6} Points:7
+15 {'MRSC': 35.83} Points:6
+16 {'MRSC': 36.02} Points:5
+17 {'MRSC': 36.49} Points:4
+18 {'MCC': 36.56} Points:3
+19 {'MIRA': 36.8} Points:2
+20 {'MCC': 37.1} Points:1
+
+11/12 Boys Back Points: 
+[('MEAD', 55), ('MRSC', 52), ('MCC', 48), ('PARK', 41), ('CCC', 19), ('MVP', 16), ('MIRA', 2)]
+
+========================
+11/12 Boys Fly:
+========================
+1 {'CCC': 28.96} Points:24
+2 {'MEAD': 29.09} Points:21
+3 {'MRSC': 29.67} Points:20
+4 {'PARK': 29.69} Points:19
+5 {'MEAD': 29.77} Points:18
+6 {'CCC': 30.23} Points:17
+7 {'MRSC': 31.74} Points:16
+8 {'MCC': 31.87} Points:15
+9 {'MRSC': 32.2} Points:14
+10 {'MEAD': 32.26} Points:13
+11 {'MCC': 32.49} Points:11
+12 {'MVP': 32.77} Points:9
+13 {'MCC': 33.19} Points:8
+14 {'PARK': 33.47} Points:7
+15 {'MRSC': 33.65} Points:6
+16 {'MEAD': 33.8} Points:5
+17 {'MVP': 33.84} Points:4
+18 {'PARK': 33.88} Points:3
+19 {'PARK': 33.93} Points:2
+20 {'PARK': 34.28} Points:1
+
+11/12 Boys Fly Points: 
+[('MEAD', 57), ('MRSC', 56), ('CCC', 41), ('MCC', 34), ('PARK', 32), ('MVP', 13), ('MIRA', 0)]
+
+========================
+11/12 Boys IM:
+========================
+1 {'MEAD': 66.97} Points:24
+2 {'PARK': 67.2} Points:21
+3 {'MRSC': 68.68} Points:20
+4 {'CCC': 69.02} Points:19
+5 {'PARK': 69.84} Points:18
+6 {'MEAD': 70.42} Points:17
+7 {'MRSC': 71.65} Points:16
+8 {'MCC': 73.36} Points:15
+9 {'CCC': 74.94} Points:14
+10 {'PARK': 75.13} Points:13
+11 {'PARK': 75.35} Points:11
+12 {'MRSC': 76.36} Points:9
+13 {'PARK': 76.42} Points:8
+14 {'MEAD': 76.69} Points:7
+15 {'MVP': 77.52} Points:6
+16 {'MIRA': 78.15} Points:5
+17 {'MCC': 78.46} Points:4
+18 {'PARK': 78.97} Points:3
+19 {'MEAD': 79.07} Points:2
+20 {'MCC': 79.26} Points:1
+
+11/12 Boys IM Points: 
+[('PARK', 74), ('MEAD', 50), ('MRSC', 45), ('CCC', 33), ('MCC', 20), ('MVP', 6), ('MIRA', 5)]
+
+========================
+11/12 Boys Free Relay:
+========================
+1 {'PARK': 109.56} Points:48
+2 {'MEAD': 112.71000000000001} Points:42
+3 {'MRSC': 113.11} Points:40
+4 {'MCC': 116.84} Points:38
+5 {'CCC': 1000} Points:36
+6 {'MVP': 2059.86} Points:34
+7 {'MIRA': 2059.98} Points:32
+
+11/12 Boys Free Relay Points: 
+[('PARK', 48), ('MEAD', 42), ('MRSC', 40), ('MCC', 38), ('CCC', 36), ('MVP', 34), ('MIRA', 32)]
+
+========================
+13/14 Girls Free:
+========================
+1 {'MEAD': 25.23} Points:24
+2 {'PARK': 25.73} Points:21
+3 {'MIRA': 26.17} Points:20
+4 {'MEAD': 26.24} Points:19
+5 {'MEAD': 26.48} Points:18
+6 {'MVP': 26.51} Points:17
+7 {'MVP': 26.64} Points:16
+8 {'MIRA': 27.3} Points:15
+9 {'MVP': 27.33} Points:14
+10 {'MEAD': 27.42} Points:13
+11 {'MVP': 27.48} Points:11
+12 {'MCC': 27.77} Points:9
+13 {'CCC': 27.94} Points:8
+14 {'MEAD': 27.97} Points:7
+15 {'MCC': 28.05} Points:6
+16 {'MCC': 28.1} Points:5
+17 {'MCC': 28.45} Points:4
+18 {'MEAD': 28.48} Points:3
+19 {'PARK': 28.58} Points:2
+20 {'CCC': 28.61} Points:1
+
+13/14 Girls Free Points: 
+[('MEAD', 84), ('MVP', 58), ('MIRA', 35), ('MCC', 24), ('PARK', 23), ('CCC', 9), ('MRSC', 0)]
+
+========================
+13/14 Girls Breast:
+========================
+1 {'MEAD': 32.43} Points:24
+2 {'MVP': 33.21} Points:21
+3 {'MEAD': 34.31} Points:20
+4 {'PARK': 34.56} Points:19
+5 {'MVP': 34.57} Points:18
+6 {'MEAD': 35.16} Points:17
+6 {'MEAD': 35.16} Points:17
+8 {'MCC': 35.28} Points:15
+9 {'MVP': 35.32} Points:14
+10 {'CCC': 35.51} Points:13
+11 {'PARK': 35.57} Points:11
+12 {'MCC': 35.71} Points:9
+13 {'CCC': 36.12} Points:8
+14 {'CCC': 36.47} Points:7
+15 {'MCC': 37.17} Points:6
+16 {'MVP': 38.19} Points:5
+17 {'MEAD': 38.3} Points:4
+18 {'MRSC': 38.3} Points:3
+19 {'MRSC': 38.48} Points:2
+20 {'MVP': 38.51} Points:1
+
+13/14 Girls Breast Points: 
+[('MEAD', 82), ('MVP', 59), ('PARK', 30), ('MCC', 30), ('CCC', 28), ('MRSC', 5), ('MIRA', 0)]
+
+========================
+13/14 Girls Back:
+========================
+1 {'MCC': 29.97} Points:24
+2 {'MCC': 31.6} Points:21
+3 {'MCC': 31.96} Points:20
+4 {'MVP': 32.24} Points:19
+5 {'MEAD': 32.44} Points:18
+6 {'MCC': 32.66} Points:17
+7 {'CCC': 32.87} Points:16
+8 {'MVP': 32.91} Points:15
+9 {'PARK': 32.97} Points:14
+10 {'MCC': 33.02} Points:13
+11 {'PARK': 33.04} Points:11
+12 {'MIRA': 33.05} Points:9
+13 {'MCC': 33.22} Points:8
+14 {'MEAD': 33.38} Points:7
+15 {'CCC': 33.47} Points:6
+16 {'MIRA': 33.68} Points:5
+17 {'MIRA': 33.87} Points:4
+18 {'MEAD': 33.94} Points:3
+19 {'MEAD': 34.41} Points:2
+20 {'MRSC': 34.73} Points:1
+
+13/14 Girls Back Points: 
+[('MCC', 103), ('MVP', 34), ('MEAD', 30), ('PARK', 25), ('CCC', 22), ('MIRA', 18), ('MRSC', 1)]
+
+========================
+13/14 Girls Fly:
+========================
+1 {'PARK': 28.28} Points:24
+2 {'MCC': 28.39} Points:21
+3 {'MEAD': 28.83} Points:20
+4 {'MEAD': 28.88} Points:19
+5 {'MEAD': 28.9} Points:18
+6 {'MVP': 29.12} Points:17
+7 {'MIRA': 29.42} Points:16
+8 {'MCC': 29.42} Points:15
+9 {'MIRA': 29.8} Points:14
+10 {'MRSC': 30.21} Points:13
+11 {'MCC': 30.41} Points:11
+12 {'MVP': 30.54} Points:9
+13 {'MVP': 30.58} Points:8
+14 {'CCC': 30.63} Points:7
+15 {'PARK': 30.67} Points:6
+16 {'MIRA': 30.71} Points:5
+17 {'MVP': 30.8} Points:4
+18 {'PARK': 30.83} Points:3
+19 {'CCC': 30.84} Points:2
+20 {'MIRA': 31.24} Points:1
+
+13/14 Girls Fly Points: 
+[('MEAD', 57), ('MCC', 47), ('MVP', 38), ('MIRA', 36), ('PARK', 33), ('MRSC', 13), ('CCC', 9)]
+
+========================
+13/14 Girls IM:
+========================
+1 {'PARK': 66.38} Points:24
+2 {'MEAD': 66.79} Points:21
+3 {'MEAD': 67.14} Points:20
+4 {'MVP': 68.56} Points:19
+5 {'MEAD': 69.16} Points:18
+6 {'MCC': 69.28} Points:17
+7 {'PARK': 69.41} Points:16
+8 {'MVP': 69.8} Points:15
+9 {'MVP': 70.55} Points:14
+10 {'MEAD': 70.64} Points:13
+11 {'MCC': 70.86} Points:11
+12 {'MVP': 71.0} Points:9
+13 {'PARK': 71.62} Points:8
+14 {'MIRA': 72.16} Points:7
+15 {'CCC': 72.53} Points:6
+16 {'CCC': 73.05} Points:5
+17 {'MEAD': 73.11} Points:4
+18 {'MCC': 73.79} Points:3
+19 {'CCC': 73.83} Points:2
+20 {'MIRA': 73.95} Points:1
+
+13/14 Girls IM Points: 
+[('MEAD', 76), ('MVP', 57), ('PARK', 48), ('MCC', 31), ('CCC', 13), ('MIRA', 8), ('MRSC', 0)]
+
+========================
+13/14 Girls Free Relay:
+========================
+1 {'MEAD': 105.37} Points:48
+2 {'MVP': 107.96000000000001} Points:42
+3 {'MCC': 111.24000000000001} Points:40
+4 {'PARK': 111.57} Points:38
+5 {'MIRA': 1082.3600000000001} Points:36
+6 {'CCC': 2056.55} Points:34
+7 {'MRSC': 3028.7799999999997} Points:32
+
+13/14 Girls Free Relay Points: 
+[('MEAD', 48), ('MVP', 42), ('MCC', 40), ('PARK', 38), ('MIRA', 36), ('CCC', 34), ('MRSC', 32)]
+
+========================
+13/14 Boys Free:
+========================
+1 {'MEAD': 23.43} Points:24
+2 {'MEAD': 24.06} Points:21
+3 {'MEAD': 24.29} Points:20
+4 {'MEAD': 24.61} Points:19
+5 {'CCC': 24.68} Points:18
+6 {'MRSC': 25.02} Points:17
+7 {'MVP': 25.22} Points:16
+8 {'MEAD': 25.27} Points:15
+9 {'MRSC': 25.5} Points:14
+10 {'PARK': 25.74} Points:13
+11 {'MRSC': 26.09} Points:11
+12 {'MEAD': 26.22} Points:9
+13 {'MCC': 26.26} Points:8
+14 {'MEAD': 26.54} Points:7
+15 {'MCC': 26.64} Points:6
+16 {'MEAD': 26.71} Points:5
+17 {'CCC': 26.99} Points:4
+18 {'MEAD': 27.01} Points:3
+19 {'MRSC': 27.01} Points:2
+20 {'MVP': 27.13} Points:1
+
+13/14 Boys Free Points: 
+[('MEAD', 123), ('MRSC', 44), ('CCC', 22), ('MVP', 17), ('MCC', 14), ('PARK', 13), ('MIRA', 0)]
+
+========================
+13/14 Boys Breast:
+========================
+1 {'MEAD': 30.06} Points:24
+2 {'MEAD': 30.99} Points:21
+3 {'MRSC': 31.55} Points:20
+4 {'MVP': 31.61} Points:19
+5 {'MCC': 31.91} Points:18
+6 {'MVP': 32.17} Points:17
+7 {'MEAD': 32.79} Points:16
+8 {'MCC': 33.13} Points:15
+9 {'MRSC': 33.19} Points:14
+10 {'PARK': 33.21} Points:13
+11 {'CCC': 33.24} Points:11
+12 {'CCC': 33.33} Points:9
+13 {'MVP': 33.56} Points:8
+14 {'PARK': 33.71} Points:7
+15 {'MCC': 34.05} Points:6
+16 {'MRSC': 34.4} Points:5
+17 {'MCC': 34.91} Points:4
+18 {'MCC': 35.64} Points:3
+19 {'MRSC': 35.69} Points:2
+20 {'MIRA': 35.91} Points:1
+
+13/14 Boys Breast Points: 
+[('MEAD', 61), ('MCC', 46), ('MVP', 44), ('MRSC', 41), ('PARK', 20), ('CCC', 20), ('MIRA', 1)]
+
+========================
+13/14 Boys Back:
+========================
+1 {'MEAD': 27.38} Points:24
+2 {'MVP': 27.4} Points:21
+3 {'MEAD': 27.86} Points:20
+4 {'CCC': 27.94} Points:19
+5 {'MEAD': 28.87} Points:18
+6 {'MVP': 29.06} Points:17
+7 {'CCC': 29.78} Points:16
+8 {'MEAD': 29.82} Points:15
+9 {'CCC': 30.22} Points:14
+10 {'PARK': 30.27} Points:13
+11 {'MRSC': 30.63} Points:11
+12 {'MEAD': 30.74} Points:9
+13 {'MEAD': 31.22} Points:8
+14 {'MEAD': 31.7} Points:7
+15 {'MEAD': 31.91} Points:6
+16 {'MRSC': 31.91} Points:5
+17 {'MCC': 32.83} Points:4
+18 {'MCC': 32.92} Points:3
+19 {'MRSC': 32.93} Points:2
+20 {'MEAD': 33.01} Points:1
+
+13/14 Boys Back Points: 
+[('MEAD', 108), ('CCC', 49), ('MVP', 38), ('MRSC', 18), ('PARK', 13), ('MCC', 7), ('MIRA', 0)]
+
+========================
+13/14 Boys Fly:
+========================
+1 {'CCC': 25.96} Points:24
+2 {'MVP': 26.13} Points:21
+3 {'MEAD': 26.17} Points:20
+4 {'MVP': 26.33} Points:19
+5 {'MRSC': 26.86} Points:18
+6 {'MVP': 27.95} Points:17
+7 {'MCC': 28.44} Points:16
+8 {'PARK': 28.57} Points:15
+9 {'MRSC': 28.57} Points:14
+10 {'MEAD': 28.59} Points:13
+11 {'MRSC': 28.8} Points:11
+12 {'MEAD': 29.08} Points:9
+13 {'PARK': 29.31} Points:8
+14 {'MRSC': 29.71} Points:7
+15 {'MRSC': 30.09} Points:6
+16 {'MRSC': 30.25} Points:5
+17 {'PARK': 30.26} Points:4
+18 {'MEAD': 30.45} Points:3
+19 {'PARK': 30.62} Points:2
+20 {'MVP': 30.78} Points:1
+
+13/14 Boys Fly Points: 
+[('MRSC', 61), ('MVP', 58), ('MEAD', 45), ('PARK', 29), ('CCC', 24), ('MCC', 16), ('MIRA', 0)]
+
+========================
+13/14 Boys IM:
+========================
+1 {'MEAD': 57.19} Points:24
+2 {'MEAD': 60.42} Points:21
+3 {'MVP': 61.26} Points:20
+4 {'MEAD': 61.66} Points:19
+5 {'MEAD': 62.58} Points:18
+6 {'CCC': 62.6} Points:17
+7 {'MEAD': 64.89} Points:16
+8 {'MRSC': 64.93} Points:15
+9 {'CCC': 66.1} Points:14
+10 {'MVP': 66.31} Points:13
+11 {'MCC': 66.38} Points:11
+12 {'MEAD': 66.82} Points:9
+13 {'PARK': 67.33} Points:8
+14 {'MRSC': 67.42} Points:7
+15 {'MRSC': 67.65} Points:6
+16 {'MCC': 67.99} Points:5
+17 {'CCC': 67.99} Points:4
+18 {'PARK': 68.08} Points:3
+19 {'MEAD': 68.33} Points:2
+20 {'MRSC': 69.21} Points:1
+
+13/14 Boys IM Points: 
+[('MEAD', 109), ('CCC', 35), ('MVP', 33), ('MRSC', 29), ('MCC', 16), ('PARK', 11), ('MIRA', 0)]
+
+========================
+13/14 Boys Free Relay:
+========================
+1 {'MEAD': 95.61999999999999} Points:48
+2 {'MRSC': 103.62} Points:42
+3 {'MVP': 104.25} Points:40
+4 {'CCC': 104.36} Points:38
+5 {'MCC': 106.45} Points:36
+6 {'MIRA': 1000} Points:34
+7 {'PARK': 1079.91} Points:32
+
+13/14 Boys Free Relay Points: 
+[('MEAD', 48), ('MRSC', 42), ('MVP', 40), ('CCC', 38), ('MCC', 36), ('MIRA', 34), ('PARK', 32)]
+
+========================
+15/18 Girls Free:
+========================
+1 {'PARK': 25.48} Points:24
+2 {'CCC': 25.61} Points:21
+3 {'MVP': 25.73} Points:20
+4 {'PARK': 25.79} Points:19
+5 {'MEAD': 25.98} Points:18
+6 {'MEAD': 26.21} Points:17
+7 {'MRSC': 26.68} Points:16
+8 {'PARK': 26.73} Points:15
+9 {'MCC': 26.89} Points:14
+10 {'CCC': 27.03} Points:13
+11 {'MIRA': 27.19} Points:11
+12 {'MCC': 27.2} Points:9
+13 {'MEAD': 27.21} Points:8
+14 {'MIRA': 27.52} Points:7
+15 {'PARK': 27.55} Points:6
+16 {'MCC': 27.55} Points:5
+17 {'MRSC': 27.58} Points:4
+18 {'MVP': 27.71} Points:3
+19 {'MCC': 27.72} Points:2
+20 {'PARK': 27.81} Points:1
+
+15/18 Girls Free Points: 
+[('PARK', 65), ('MEAD', 43), ('CCC', 34), ('MCC', 30), ('MVP', 23), ('MRSC', 20), ('MIRA', 18)]
+
+========================
+15/18 Girls Breast:
+========================
+1 {'MEAD': 32.71} Points:24
+2 {'CCC': 32.87} Points:21
+3 {'MVP': 33.07} Points:20
+4 {'MRSC': 33.62} Points:19
+5 {'MEAD': 33.81} Points:18
+6 {'MIRA': 33.88} Points:17
+7 {'PARK': 34.04} Points:16
+8 {'MRSC': 34.72} Points:15
+9 {'MCC': 34.84} Points:14
+10 {'MEAD': 35.85} Points:13
+11 {'MRSC': 35.86} Points:11
+12 {'MIRA': 35.95} Points:9
+13 {'MVP': 36.19} Points:8
+14 {'CCC': 36.47} Points:7
+15 {'PARK': 36.89} Points:6
+16 {'MIRA': 36.97} Points:5
+17 {'MRSC': 37.04} Points:4
+18 {'MCC': 37.1} Points:3
+19 {'MIRA': 37.29} Points:2
+19 {'MIRA': 37.29} Points:2
+
+15/18 Girls Breast Points: 
+[('MEAD', 55), ('MRSC', 49), ('MIRA', 35), ('MVP', 28), ('CCC', 28), ('PARK', 22), ('MCC', 17)]
+
+========================
+15/18 Girls Back:
+========================
+1 {'MEAD': 28.94} Points:24
+2 {'PARK': 29.05} Points:21
+3 {'MEAD': 29.37} Points:20
+4 {'MEAD': 30.21} Points:19
+5 {'MIRA': 30.27} Points:18
+6 {'CCC': 30.29} Points:17
+7 {'PARK': 30.37} Points:16
+8 {'MEAD': 30.37} Points:15
+9 {'PARK': 30.78} Points:14
+10 {'CCC': 30.85} Points:13
+11 {'MVP': 31.71} Points:11
+12 {'PARK': 32.24} Points:9
+13 {'MVP': 32.25} Points:8
+14 {'CCC': 32.37} Points:7
+15 {'MCC': 32.38} Points:6
+16 {'PARK': 32.42} Points:5
+17 {'MCC': 32.52} Points:4
+18 {'MVP': 32.55} Points:3
+19 {'MCC': 32.77} Points:2
+20 {'PARK': 32.93} Points:1
+
+15/18 Girls Back Points: 
+[('MEAD', 78), ('PARK', 66), ('CCC', 37), ('MVP', 22), ('MIRA', 18), ('MCC', 12), ('MRSC', 0)]
+
+========================
+15/18 Girls Fly:
+========================
+1 {'PARK': 27.47} Points:24
+2 {'PARK': 27.59} Points:21
+3 {'CCC': 27.74} Points:20
+4 {'MEAD': 28.09} Points:19
+5 {'MEAD': 28.33} Points:18
+6 {'PARK': 28.41} Points:17
+7 {'MIRA': 28.68} Points:16
+8 {'MEAD': 28.97} Points:15
+9 {'PARK': 29.56} Points:14
+10 {'CCC': 29.68} Points:13
+11 {'PARK': 30.0} Points:11
+12 {'MVP': 30.07} Points:9
+13 {'MEAD': 30.1} Points:8
+14 {'MCC': 30.14} Points:7
+15 {'MVP': 30.15} Points:6
+16 {'PARK': 30.46} Points:5
+17 {'MVP': 30.49} Points:4
+18 {'MEAD': 30.65} Points:3
+19 {'MCC': 30.9} Points:2
+20 {'PARK': 30.93} Points:1
+
+15/18 Girls Fly Points: 
+[('PARK', 93), ('MEAD', 63), ('CCC', 33), ('MVP', 19), ('MIRA', 16), ('MCC', 9), ('MRSC', 0)]
+
+========================
+15/18 Girls IM:
+========================
+1 {'PARK': 64.28} Points:24
+2 {'MEAD': 64.92} Points:21
+3 {'MEAD': 65.08} Points:20
+4 {'MEAD': 65.62} Points:19
+5 {'MEAD': 65.71} Points:18
+6 {'MEAD': 65.73} Points:17
+7 {'MVP': 65.77} Points:16
+8 {'CCC': 66.48} Points:15
+9 {'MCC': 66.74} Points:14
+10 {'MIRA': 66.91} Points:13
+11 {'PARK': 67.13} Points:11
+12 {'MRSC': 68.21} Points:9
+13 {'CCC': 68.96} Points:8
+14 {'CCC': 69.18} Points:7
+15 {'MIRA': 69.31} Points:6
+16 {'MRSC': 69.73} Points:5
+17 {'MVP': 70.21} Points:4
+18 {'PARK': 71.46} Points:3
+19 {'MVP': 71.79} Points:2
+20 {'PARK': 71.88} Points:1
+
+15/18 Girls IM Points: 
+[('MEAD', 95), ('PARK', 39), ('CCC', 30), ('MVP', 22), ('MIRA', 19), ('MRSC', 14), ('MCC', 14)]
+
+========================
+15/18 Girls Free Relay:
+========================
+1 {'PARK': 103.87} Points:48
+2 {'MEAD': 106.42} Points:42
+3 {'CCC': 109.28999999999999} Points:40
+4 {'MCC': 109.36} Points:38
+5 {'MRSC': 110.72999999999999} Points:36
+6 {'MIRA': 110.97999999999999} Points:34
+7 {'MVP': 1081.54} Points:32
+
+15/18 Girls Free Relay Points: 
+[('PARK', 48), ('MEAD', 42), ('CCC', 40), ('MCC', 38), ('MRSC', 36), ('MIRA', 34), ('MVP', 32)]
+
+========================
+15/18 Boys Free:
+========================
+1 {'PARK': 21.39} Points:24
+2 {'MCC': 22.61} Points:21
+3 {'CCC': 22.7} Points:20
+4 {'MEAD': 22.79} Points:19
+5 {'PARK': 22.86} Points:18
+6 {'MCC': 22.88} Points:17
+7 {'MEAD': 23.2} Points:16
+8 {'MIRA': 23.26} Points:15
+9 {'PARK': 23.44} Points:14
+10 {'MEAD': 23.77} Points:13
+11 {'MCC': 23.78} Points:11
+12 {'MIRA': 23.87} Points:9
+13 {'MVP': 24.03} Points:8
+14 {'MVP': 24.4} Points:7
+15 {'MCC': 24.4} Points:6
+16 {'CCC': 24.42} Points:5
+17 {'PARK': 24.45} Points:4
+18 {'MVP': 24.45} Points:3
+19 {'MEAD': 24.58} Points:2
+20 {'MCC': 24.71} Points:1
+
+15/18 Boys Free Points: 
+[('PARK', 60), ('MCC', 56), ('MEAD', 50), ('CCC', 25), ('MIRA', 24), ('MVP', 18), ('MRSC', 0)]
+
+========================
+15/18 Boys Breast:
+========================
+1 {'MEAD': 28.58} Points:24
+2 {'MEAD': 29.35} Points:21
+3 {'MEAD': 29.58} Points:20
+4 {'PARK': 29.87} Points:19
+5 {'MIRA': 29.91} Points:18
+6 {'MCC': 30.54} Points:17
+7 {'MIRA': 30.57} Points:16
+8 {'MRSC': 30.7} Points:15
+9 {'CCC': 31.0} Points:14
+10 {'MVP': 31.5} Points:13
+11 {'MEAD': 31.89} Points:11
+12 {'MCC': 32.27} Points:9
+13 {'PARK': 32.29} Points:8
+14 {'MEAD': 32.83} Points:7
+15 {'CCC': 33.05} Points:6
+16 {'PARK': 33.21} Points:5
+17 {'MCC': 33.51} Points:4
+18 {'MRSC': 33.79} Points:3
+19 {'PARK': 34.09} Points:2
+20 {'MEAD': 34.22} Points:1
+
+15/18 Boys Breast Points: 
+[('MEAD', 84), ('PARK', 34), ('MIRA', 34), ('MCC', 30), ('CCC', 20), ('MRSC', 18), ('MVP', 13)]
+
+========================
+15/18 Boys Back:
+========================
+1 {'PARK': 24.8} Points:24
+2 {'MCC': 25.85} Points:21
+3 {'MCC': 26.08} Points:20
+4 {'MCC': 26.33} Points:19
+5 {'PARK': 26.43} Points:18
+6 {'MIRA': 26.75} Points:17
+7 {'CCC': 27.18} Points:16
+8 {'MCC': 27.27} Points:15
+9 {'MEAD': 27.39} Points:14
+10 {'MIRA': 27.64} Points:13
+11 {'PARK': 27.66} Points:11
+12 {'MVP': 28.61} Points:9
+13 {'MEAD': 28.64} Points:8
+14 {'MVP': 28.86} Points:7
+15 {'MCC': 29.47} Points:6
+16 {'MCC': 29.59} Points:5
+17 {'MEAD': 29.71} Points:4
+18 {'MEAD': 29.99} Points:3
+19 {'MEAD': 30.2} Points:2
+20 {'CCC': 30.69} Points:1
+
+15/18 Boys Back Points: 
+[('MCC', 86), ('PARK', 53), ('MEAD', 31), ('MIRA', 30), ('CCC', 17), ('MVP', 16), ('MRSC', 0)]
+
+========================
+15/18 Boys Fly:
+========================
+1 {'PARK': 23.89} Points:24
+2 {'MCC': 24.06} Points:21
+3 {'CCC': 24.28} Points:20
+4 {'PARK': 24.43} Points:19
+5 {'MVP': 24.64} Points:18
+6 {'PARK': 24.69} Points:17
+7 {'MCC': 24.88} Points:16
+8 {'MVP': 25.07} Points:15
+9 {'MCC': 25.16} Points:14
+10 {'MVP': 25.34} Points:13
+11 {'PARK': 25.67} Points:11
+12 {'MEAD': 25.75} Points:9
+13 {'MIRA': 25.78} Points:8
+14 {'MEAD': 26.32} Points:7
+15 {'MIRA': 26.34} Points:6
+16 {'MCC': 26.49} Points:5
+17 {'CCC': 26.68} Points:4
+18 {'MEAD': 26.7} Points:3
+19 {'PARK': 26.73} Points:2
+20 {'MCC': 27.04} Points:1
+
+15/18 Boys Fly Points: 
+[('PARK', 73), ('MCC', 57), ('MVP', 46), ('CCC', 24), ('MEAD', 19), ('MIRA', 14), ('MRSC', 0)]
+
+========================
+15/18 Boys IM:
+========================
+1 {'MCC': 56.74} Points:24
+2 {'CCC': 57.21} Points:21
+3 {'MEAD': 57.64} Points:20
+4 {'PARK': 57.74} Points:19
+5 {'MVP': 58.4} Points:18
+6 {'MEAD': 60.07} Points:17
+7 {'MVP': 60.33} Points:16
+8 {'MEAD': 60.62} Points:15
+9 {'MEAD': 61.26} Points:14
+10 {'MIRA': 63.22} Points:13
+11 {'CCC': 63.27} Points:11
+12 {'MEAD': 63.3} Points:9
+13 {'MEAD': 63.37} Points:8
+14 {'CCC': 63.43} Points:7
+15 {'MRSC': 63.45} Points:6
+16 {'MIRA': 63.51} Points:5
+17 {'MVP': 63.55} Points:4
+18 {'CCC': 64.16} Points:3
+19 {'MCC': 64.26} Points:2
+20 {'PARK': 65.45} Points:1
+
+15/18 Boys IM Points: 
+[('MEAD', 83), ('CCC', 42), ('MVP', 38), ('MCC', 26), ('PARK', 20), ('MIRA', 18), ('MRSC', 6)]
+
+========================
+15/18 Boys Free Relay:
+========================
+1 {'PARK': 92.14} Points:48
+2 {'MCC': 93.64} Points:42
+3 {'MEAD': 94.33999999999999} Points:40
+4 {'CCC': 97.49000000000001} Points:38
+5 {'MRSC': 1000} Points:36
+6 {'MIRA': 1072.2} Points:34
+7 {'MVP': 1072.88} Points:32
+
+15/18 Boys Free Relay Points: 
+[('PARK', 48), ('MCC', 42), ('MEAD', 40), ('CCC', 38), ('MRSC', 36), ('MIRA', 34), ('MVP', 32)]
+
+
+
+========================================================================
+========================    SCORING SUMMARY     ========================
+========================================================================
+
+================================================
+================   Six and Unders  =============
+================================================
+
+========================
+6/Under Girls
+========================
+
+6/Under Girls Free
+[('MRSC', 77), ('MCC', 47), ('MIRA', 45), ('CCC', 29), ('MEAD', 20), ('MVP', 15), ('PARK', 2)]
+
+6/Under Girls Breast
+[('MCC', 88), ('MVP', 47), ('MEAD', 33), ('PARK', 26), ('CCC', 21), ('MIRA', 16), ('MRSC', 2)]
+
+6/Under Girls Back
+[('MEAD', 47), ('CCC', 45), ('MRSC', 43), ('MVP', 28), ('MIRA', 28), ('MCC', 25), ('PARK', 17)]
+
+6/Under Girls Fly
+[('MEAD', 47), ('CCC', 45), ('MRSC', 43), ('MVP', 28), ('MIRA', 28), ('MCC', 25), ('PARK', 17)]
+
+6/Under Girls Medley Relay
+
+6/Under Girls Free Relay
+[('MRSC', 48), ('MCC', 42), ('MIRA', 40), ('CCC', 38), ('MEAD', 36), ('MVP', 34), ('PARK', 32)]
+
+6/Under Girls Total Age Group Points
+[('MRSC', 251), ('MCC', 223), ('MIRA', 170), ('MEAD', 168), ('MVP', 153), ('CCC', 152), ('PARK', 91)]
+
+========================
+6/Under Boys
+========================
+
+6/Under Boys Free
+[('MCC', 78), ('MEAD', 72), ('MRSC', 38), ('PARK', 18), ('MVP', 16), ('MIRA', 11), ('CCC', 0)]
+
+6/Under Boys Breast
+[('MCC', 81), ('MRSC', 58), ('PARK', 27), ('MIRA', 26), ('MEAD', 23), ('MVP', 18), ('CCC', 0)]
+
+6/Under Boys Back
+[('MCC', 98), ('MVP', 33), ('PARK', 27), ('MEAD', 27), ('MRSC', 24), ('MIRA', 19), ('CCC', 5)]
+
+6/Under Boys Fly
+[('MCC', 98), ('MVP', 33), ('PARK', 27), ('MEAD', 27), ('MRSC', 24), ('MIRA', 19), ('CCC', 5)]
+
+6/Under Boys Medley Relay
+
+6/Under Boys Free Relay
+[('MEAD', 48), ('MCC', 42), ('MRSC', 40), ('MIRA', 38), ('MVP', 36), ('PARK', 34), ('CCC', 32)]
+
+6/Under Boys Total Age Group Points
+[('MCC', 369), ('MEAD', 195), ('MRSC', 178), ('MVP', 153), ('PARK', 152), ('MIRA', 118), ('CCC', 37)]
+
+========================
+6/U Girls and Boys
+========================
+
+6/Under Girls and Boys Free
+[('MCC', 125), ('MRSC', 115), ('MEAD', 92), ('MIRA', 56), ('MVP', 31), ('CCC', 29), ('PARK', 20)]
+
+6/Under Girls and Boys Breast
+[('MCC', 169), ('MVP', 65), ('MRSC', 60), ('MEAD', 56), ('PARK', 53), ('MIRA', 42), ('CCC', 21)]
+
+6/Under Girls and Boys Back
+[('MCC', 123), ('MEAD', 74), ('MRSC', 67), ('MVP', 61), ('CCC', 50), ('MIRA', 47), ('PARK', 44)]
+
+6/Under Girls and Boys Fly
+[('MRSC', 99), ('MCC', 91), ('MVP', 79), ('MIRA', 65), ('PARK', 60), ('MEAD', 57), ('CCC', 19)]
+
+6/Under Girls and Boys Total Age Group Points + Relays
+[('MCC', 592), ('MRSC', 429), ('MEAD', 363), ('MVP', 306), ('MIRA', 288), ('PARK', 243), ('CCC', 189)]
+
+================================================
+================  Seven and Eights  ============
+================================================
+
+========================
+7/8 Girls
+========================
+
+7/8 Girls Free
+[('MEAD', 93), ('MCC', 73), ('MRSC', 34), ('MIRA', 21), ('MVP', 10), ('CCC', 2), ('PARK', 0)]
+
+7/8 Girls Breast
+[('MVP', 67), ('PARK', 42), ('MCC', 34), ('MIRA', 30), ('CCC', 25), ('MRSC', 20), ('MEAD', 15)]
+
+7/8 Girls Back
+[('MCC', 79), ('MEAD', 63), ('PARK', 34), ('MRSC', 26), ('MIRA', 17), ('MVP', 14), ('CCC', 0)]
+
+7/8 Girls Fly
+[('MCC', 79), ('MEAD', 63), ('PARK', 34), ('MRSC', 26), ('MIRA', 17), ('MVP', 14), ('CCC', 0)]
+
+7/8 Girls Medley Relay
+
+7/8 Girls Free Relay
+[('MEAD', 48), ('MCC', 42), ('MRSC', 40), ('PARK', 38), ('CCC', 36), ('MVP', 34), ('MIRA', 32)]
+
+7/8 Girls Total Age Group Points
+[('MEAD', 373), ('MCC', 332), ('MVP', 202), ('PARK', 187), ('MRSC', 164), ('MIRA', 110), ('CCC', 67)]
+
+========================
+7/8 Boys
+========================
+
+7/8 Boys Free
+[('MEAD', 83), ('MCC', 70), ('PARK', 25), ('CCC', 18), ('MVP', 17), ('MRSC', 15), ('MIRA', 5)]
+
+7/8 Boys Breast
+[('MCC', 83), ('MVP', 46), ('MEAD', 34), ('CCC', 28), ('PARK', 24), ('MIRA', 17), ('MRSC', 1)]
+
+7/8 Boys Back
+[('MCC', 81), ('MEAD', 60), ('MVP', 44), ('CCC', 22), ('PARK', 15), ('MRSC', 11), ('MIRA', 0)]
+
+7/8 Boys Fly
+[('MCC', 81), ('MEAD', 60), ('MVP', 44), ('CCC', 22), ('PARK', 15), ('MRSC', 11), ('MIRA', 0)]
+
+7/8 Boys Medley Relay
+
+7/8 Boys Free Relay
+[('MEAD', 48), ('MCC', 42), ('MVP', 40), ('PARK', 38), ('CCC', 36), ('MRSC', 34), ('MIRA', 32)]
+
+7/8 Boys Total Age Group Points
+[('MEAD', 359), ('MCC', 350), ('MVP', 231), ('PARK', 199), ('CCC', 140), ('MRSC', 80), ('MIRA', 76)]
+
+========================
+7/8 Girls and Boys
+========================
+
+7/8 Girls and Boys Free
+[('MEAD', 176), ('MCC', 143), ('MRSC', 49), ('MVP', 27), ('MIRA', 26), ('PARK', 25), ('CCC', 20)]
+
+7/8 Girls and Boys Breast
+[('MCC', 117), ('MVP', 113), ('PARK', 66), ('CCC', 53), ('MEAD', 49), ('MIRA', 47), ('MRSC', 21)]
+
+7/8 Girls and Boys Back
+[('MCC', 160), ('MEAD', 123), ('MVP', 58), ('PARK', 49), ('MRSC', 37), ('CCC', 22), ('MIRA', 17)]
+
+7/8 Girls and Boys Fly
+[('MEAD', 146), ('PARK', 86), ('MVP', 71), ('MCC', 69), ('MRSC', 63), ('MIRA', 22), ('CCC', 9)]
+
+7/8 Girls and Boys IM
+[('MEAD', 142), ('MCC', 109), ('MVP', 90), ('PARK', 84), ('CCC', 31), ('MIRA', 10), ('MRSC', 0)]
+
+7/8 Girls and Boys Total Age Group Points + Relays
+[('MEAD', 732), ('MCC', 682), ('MVP', 433), ('PARK', 386), ('MRSC', 244), ('CCC', 207), ('MIRA', 186)]
+
+================================================
+=========  8 and Under Girls and Boys  =========
+================================================
+
+8 and Under Girls and Boys Free
+[('MCC', 268), ('MEAD', 268), ('MRSC', 164), ('MIRA', 82), ('MVP', 58), ('CCC', 49), ('PARK', 45)]
+
+8 and Under Girls and Boys Breast
+[('MCC', 286), ('MVP', 178), ('PARK', 119), ('MEAD', 105), ('MIRA', 89), ('MRSC', 81), ('CCC', 74)]
+
+8 and Under Girls and Boys Back
+[('MCC', 283), ('MEAD', 197), ('MVP', 119), ('MRSC', 104), ('PARK', 93), ('CCC', 72), ('MIRA', 64)]
+
+8 and Under Girls and Boys Fly
+[('MEAD', 203), ('MRSC', 162), ('MCC', 160), ('MVP', 150), ('PARK', 146), ('MIRA', 87), ('CCC', 28)]
+
+8 and Under Girls and Boys IM
+[('MEAD', 142), ('MCC', 109), ('MVP', 90), ('PARK', 84), ('CCC', 31), ('MIRA', 10), ('MRSC', 0)]
+
+8 and Under Girls and Boys Total Age Group Points + Relays
+[('MCC', 1274), ('MEAD', 1095), ('MVP', 739), ('MRSC', 673), ('PARK', 629), ('MIRA', 474), ('CCC', 396)]
+
+================================================
+================   Nine and Tens   =============
+================================================
+
+========================
+9/10 Girls
+========================
+
+9/10 Girls Free
+[('MCC', 66), ('PARK', 62), ('MEAD', 41), ('CCC', 30), ('MRSC', 18), ('MIRA', 16), ('MVP', 0)]
+
+9/10 Girls Breast
+[('MCC', 57), ('MEAD', 55), ('CCC', 35), ('MRSC', 32), ('PARK', 20), ('MVP', 18), ('MIRA', 16)]
+
+9/10 Girls Back
+[('MCC', 68), ('MEAD', 47), ('CCC', 47), ('PARK', 34), ('MIRA', 29), ('MVP', 9), ('MRSC', 0)]
+
+9/10 Girls Fly
+[('MCC', 68), ('MEAD', 47), ('CCC', 47), ('PARK', 34), ('MIRA', 29), ('MVP', 9), ('MRSC', 0)]
+
+9/10 Girls Medley Relay
+
+9/10 Girls Free Relay
+[('PARK', 48), ('MCC', 42), ('MEAD', 40), ('CCC', 38), ('MRSC', 36), ('MIRA', 34), ('MVP', 32)]
+
+9/10 Girls Total Age Group Points
+[('MCC', 325), ('PARK', 322), ('MEAD', 254), ('CCC', 204), ('MIRA', 133), ('MRSC', 103), ('MVP', 95)]
+
+========================
+9/10 Boys
+========================
+
+9/10 Boys Free
+[('MEAD', 73), ('MRSC', 56), ('MCC', 43), ('PARK', 37), ('MVP', 17), ('MIRA', 4), ('CCC', 3)]
+
+9/10 Boys Breast
+[('MCC', 67), ('MEAD', 54), ('PARK', 44), ('MRSC', 27), ('CCC', 23), ('MVP', 17), ('MIRA', 1)]
+
+9/10 Boys Back
+[('MCC', 72), ('MRSC', 64), ('PARK', 59), ('MEAD', 22), ('MIRA', 16), ('MVP', 0), ('CCC', 0)]
+
+9/10 Boys Fly
+[('MCC', 72), ('MRSC', 64), ('PARK', 59), ('MEAD', 22), ('MIRA', 16), ('MVP', 0), ('CCC', 0)]
+
+9/10 Boys Medley Relay
+
+9/10 Boys Free Relay
+[('MEAD', 48), ('MRSC', 42), ('PARK', 40), ('MCC', 38), ('MVP', 36), ('MIRA', 34), ('CCC', 32)]
+
+9/10 Boys Total Age Group Points
+[('MEAD', 347), ('MCC', 285), ('PARK', 269), ('MRSC', 252), ('MVP', 110), ('MIRA', 87), ('CCC', 85)]
+
+========================
+9/10 Girls and Boys
+========================
+
+9/10 Girls and Boys Free
+[('MEAD', 114), ('MCC', 109), ('PARK', 99), ('MRSC', 74), ('CCC', 33), ('MIRA', 20), ('MVP', 17)]
+
+9/10 Girls and Boys Breast
+[('MCC', 124), ('MEAD', 109), ('PARK', 64), ('MRSC', 59), ('CCC', 58), ('MVP', 35), ('MIRA', 17)]
+
+9/10 Girls and Boys Back
+[('MCC', 140), ('PARK', 93), ('MEAD', 69), ('MRSC', 64), ('CCC', 47), ('MIRA', 45), ('MVP', 9)]
+
+9/10 Girls and Boys Fly
+[('PARK', 125), ('MEAD', 122), ('MCC', 70), ('MRSC', 53), ('MVP', 41), ('MIRA', 32), ('CCC', 23)]
+
+9/10 Girls and Boys IM
+[('PARK', 122), ('MEAD', 99), ('MCC', 87), ('CCC', 58), ('MIRA', 38), ('MVP', 35), ('MRSC', 27)]
+
+9/10 Girls and Boys Total Age Group Points + Relays
+[('MCC', 610), ('MEAD', 601), ('PARK', 591), ('MRSC', 355), ('CCC', 289), ('MIRA', 220), ('MVP', 205)]
+
+================================================
+===============  Eleven and Twelves  ===========
+================================================
+
+========================
+11/12 Girls
+========================
+
+11/12 Girls Free
+[('MRSC', 69), ('MEAD', 68), ('PARK', 54), ('MCC', 24), ('MVP', 18), ('MIRA', 0), ('CCC', 0)]
+
+11/12 Girls Breast
+[('PARK', 96), ('MCC', 39), ('MEAD', 35), ('CCC', 21), ('MVP', 17), ('MRSC', 14), ('MIRA', 11)]
+
+11/12 Girls Back
+[('MCC', 68), ('PARK', 64), ('MEAD', 51), ('MRSC', 35), ('CCC', 31), ('MVP', 14), ('MIRA', 0)]
+
+11/12 Girls Fly
+[('MCC', 68), ('PARK', 64), ('MEAD', 51), ('MRSC', 35), ('CCC', 31), ('MVP', 14), ('MIRA', 0)]
+
+11/12 Girls Medley Relay
+
+11/12 Girls Free Relay
+[('MEAD', 48), ('MRSC', 42), ('PARK', 40), ('MCC', 38), ('MIRA', 36), ('MVP', 34), ('CCC', 32)]
+
+11/12 Girls Total Age Group Points
+[('PARK', 383), ('MEAD', 354), ('MRSC', 227), ('MCC', 225), ('MVP', 107), ('CCC', 90), ('MIRA', 79)]
+
+========================
+11/12 Boys
+========================
+
+11/12 Boys Free
+[('MEAD', 60), ('CCC', 56), ('MRSC', 49), ('PARK', 49), ('MCC', 18), ('MVP', 1), ('MIRA', 0)]
+
+11/12 Boys Breast
+[('MRSC', 70), ('PARK', 70), ('MEAD', 35), ('MIRA', 24), ('MVP', 14), ('CCC', 13), ('MCC', 7)]
+
+11/12 Boys Back
+[('MEAD', 55), ('MRSC', 52), ('MCC', 48), ('PARK', 41), ('CCC', 19), ('MVP', 16), ('MIRA', 2)]
+
+11/12 Boys Fly
+[('MEAD', 55), ('MRSC', 52), ('MCC', 48), ('PARK', 41), ('CCC', 19), ('MVP', 16), ('MIRA', 2)]
+
+11/12 Boys Medley Relay
+
+11/12 Boys Free Relay
+[('PARK', 48), ('MEAD', 42), ('MRSC', 40), ('MCC', 38), ('CCC', 36), ('MVP', 34), ('MIRA', 32)]
+
+11/12 Boys Total Age Group Points
+[('PARK', 314), ('MRSC', 312), ('MEAD', 299), ('CCC', 198), ('MCC', 165), ('MVP', 84), ('MIRA', 63)]
+
+========================
+11/12 Girls and Boys
+========================
+
+11/12 Girls and Boys Free
+[('MEAD', 128), ('MRSC', 118), ('PARK', 103), ('CCC', 56), ('MCC', 42), ('MVP', 19), ('MIRA', 0)]
+
+11/12 Girls and Boys Breast
+[('PARK', 166), ('MRSC', 84), ('MEAD', 70), ('MCC', 46), ('MIRA', 35), ('CCC', 34), ('MVP', 31)]
+
+11/12 Girls and Boys Back
+[('MCC', 116), ('MEAD', 106), ('PARK', 105), ('MRSC', 87), ('CCC', 50), ('MVP', 30), ('MIRA', 2)]
+
+11/12 Girls and Boys Fly
+[('MEAD', 128), ('MRSC', 92), ('PARK', 92), ('MCC', 62), ('CCC', 47), ('MVP', 27), ('MIRA', 18)]
+
+11/12 Girls and Boys IM
+[('PARK', 143), ('MEAD', 131), ('MRSC', 76), ('MCC', 48), ('CCC', 33), ('MIRA', 19), ('MVP', 16)]
+
+11/12 Girls and Boys Total Age Group Points + Relays
+[('PARK', 697), ('MEAD', 653), ('MRSC', 539), ('MCC', 390), ('CCC', 288), ('MVP', 191), ('MIRA', 142)]
+
+================================================
+=========    9 to 12 Girls and Boys    =========
+================================================
+
+9 to 12 Girls and Boys Free
+[('MEAD', 242), ('PARK', 202), ('MRSC', 192), ('MCC', 151), ('CCC', 89), ('MVP', 36), ('MIRA', 20)]
+
+9 to 12 Girls and Boys Breast
+[('PARK', 230), ('MEAD', 179), ('MCC', 170), ('MRSC', 143), ('CCC', 92), ('MVP', 66), ('MIRA', 52)]
+
+9 to 12 Girls and Boys Back
+[('MCC', 256), ('PARK', 198), ('MEAD', 175), ('MRSC', 151), ('CCC', 97), ('MIRA', 47), ('MVP', 39)]
+
+9 to 12 Girls and Boys Fly
+[('MEAD', 250), ('PARK', 217), ('MRSC', 145), ('MCC', 132), ('CCC', 70), ('MVP', 68), ('MIRA', 50)]
+
+9 to 12 Girls and Boys IM
+[('PARK', 265), ('MEAD', 230), ('MCC', 135), ('MRSC', 103), ('CCC', 91), ('MIRA', 57), ('MVP', 51)]
+
+9 to 12 Girls and Boys Total Age Group Points + Relays
+[('PARK', 1288), ('MEAD', 1254), ('MCC', 1000), ('MRSC', 894), ('CCC', 577), ('MVP', 396), ('MIRA', 362)]
+
+================================================
+=============  Thirteen and Fourteens  =========
+================================================
+
+========================
+13/14 Girls
+========================
+
+13/14 Girls Free
+[('MEAD', 84), ('MVP', 58), ('MIRA', 35), ('MCC', 24), ('PARK', 23), ('CCC', 9), ('MRSC', 0)]
+
+13/14 Girls Breast
+[('MEAD', 82), ('MVP', 59), ('PARK', 30), ('MCC', 30), ('CCC', 28), ('MRSC', 5), ('MIRA', 0)]
+
+13/14 Girls Back
+[('MCC', 103), ('MVP', 34), ('MEAD', 30), ('PARK', 25), ('CCC', 22), ('MIRA', 18), ('MRSC', 1)]
+
+13/14 Girls Fly
+[('MCC', 103), ('MVP', 34), ('MEAD', 30), ('PARK', 25), ('CCC', 22), ('MIRA', 18), ('MRSC', 1)]
+
+13/14 Girls Medley Relay
+
+13/14 Girls Free Relay
+[('MEAD', 48), ('MVP', 42), ('MCC', 40), ('PARK', 38), ('MIRA', 36), ('CCC', 34), ('MRSC', 32)]
+
+13/14 Girls Total Age Group Points
+[('MEAD', 377), ('MVP', 288), ('MCC', 275), ('PARK', 197), ('MIRA', 133), ('CCC', 115), ('MRSC', 51)]
+
+========================
+13/14 Boys
+========================
+
+13/14 Boys Free
+[('MEAD', 123), ('MRSC', 44), ('CCC', 22), ('MVP', 17), ('MCC', 14), ('PARK', 13), ('MIRA', 0)]
+
+13/14 Boys Breast
+[('MEAD', 61), ('MCC', 46), ('MVP', 44), ('MRSC', 41), ('PARK', 20), ('CCC', 20), ('MIRA', 1)]
+
+13/14 Boys Back
+[('MEAD', 108), ('CCC', 49), ('MVP', 38), ('MRSC', 18), ('PARK', 13), ('MCC', 7), ('MIRA', 0)]
+
+13/14 Boys Fly
+[('MEAD', 108), ('CCC', 49), ('MVP', 38), ('MRSC', 18), ('PARK', 13), ('MCC', 7), ('MIRA', 0)]
+
+13/14 Boys Medley Relay
+
+13/14 Boys Free Relay
+[('MEAD', 48), ('MRSC', 42), ('MVP', 40), ('CCC', 38), ('MCC', 36), ('MIRA', 34), ('PARK', 32)]
+
+13/14 Boys Total Age Group Points
+[('MEAD', 494), ('MRSC', 235), ('MVP', 230), ('CCC', 188), ('MCC', 135), ('PARK', 118), ('MIRA', 35)]
+
+========================
+13/14 Girls and Boys
+========================
+
+13/14 Girls and Boys Free
+[('MEAD', 207), ('MVP', 75), ('MRSC', 44), ('MCC', 38), ('PARK', 36), ('MIRA', 35), ('CCC', 31)]
+
+13/14 Girls and Boys Breast
+[('MEAD', 143), ('MVP', 103), ('MCC', 76), ('PARK', 50), ('CCC', 48), ('MRSC', 46), ('MIRA', 1)]
+
+13/14 Girls and Boys Back
+[('MEAD', 138), ('MCC', 110), ('MVP', 72), ('CCC', 71), ('PARK', 38), ('MRSC', 19), ('MIRA', 18)]
+
+13/14 Girls and Boys Fly
+[('MEAD', 102), ('MVP', 96), ('MRSC', 74), ('MCC', 63), ('PARK', 62), ('MIRA', 36), ('CCC', 33)]
+
+13/14 Girls and Boys IM
+[('MEAD', 185), ('MVP', 90), ('PARK', 59), ('CCC', 48), ('MCC', 47), ('MRSC', 29), ('MIRA', 8)]
+
+13/14 Girls and Boys Total Age Group Points + Relays
+[('MEAD', 871), ('MVP', 518), ('MCC', 410), ('PARK', 315), ('CCC', 303), ('MRSC', 286), ('MIRA', 168)]
+
+================================================
+=============  Fifteen and Eighteens  ==========
+================================================
+
+========================
+15/18 Girls
+========================
+
+15/18 Girls Free
+[('PARK', 65), ('MEAD', 43), ('CCC', 34), ('MCC', 30), ('MVP', 23), ('MRSC', 20), ('MIRA', 18)]
+
+15/18 Girls Breast
+[('MEAD', 55), ('MRSC', 49), ('MIRA', 35), ('MVP', 28), ('CCC', 28), ('PARK', 22), ('MCC', 17)]
+
+15/18 Girls Back
+[('MEAD', 78), ('PARK', 66), ('CCC', 37), ('MVP', 22), ('MIRA', 18), ('MCC', 12), ('MRSC', 0)]
+
+15/18 Girls Fly
+[('MEAD', 78), ('PARK', 66), ('CCC', 37), ('MVP', 22), ('MIRA', 18), ('MCC', 12), ('MRSC', 0)]
+
+15/18 Girls Medley Relay
+
+15/18 Girls Free Relay
+[('PARK', 48), ('MEAD', 42), ('CCC', 40), ('MCC', 38), ('MRSC', 36), ('MIRA', 34), ('MVP', 32)]
+
+15/18 Girls Total Age Group Points
+[('MEAD', 376), ('PARK', 333), ('CCC', 202), ('MVP', 146), ('MIRA', 140), ('MCC', 120), ('MRSC', 119)]
+
+========================
+15/18 Boys
+========================
+
+15/18 Boys Free
+[('PARK', 60), ('MCC', 56), ('MEAD', 50), ('CCC', 25), ('MIRA', 24), ('MVP', 18), ('MRSC', 0)]
+
+15/18 Boys Breast
+[('MEAD', 84), ('PARK', 34), ('MIRA', 34), ('MCC', 30), ('CCC', 20), ('MRSC', 18), ('MVP', 13)]
+
+15/18 Boys Back
+[('MCC', 86), ('PARK', 53), ('MEAD', 31), ('MIRA', 30), ('CCC', 17), ('MVP', 16), ('MRSC', 0)]
+
+15/18 Boys Fly
+[('MCC', 86), ('PARK', 53), ('MEAD', 31), ('MIRA', 30), ('CCC', 17), ('MVP', 16), ('MRSC', 0)]
+
+15/18 Boys Medley Relay
+
+15/18 Boys Free Relay
+[('PARK', 48), ('MCC', 42), ('MEAD', 40), ('CCC', 38), ('MRSC', 36), ('MIRA', 34), ('MVP', 32)]
+
+15/18 Boys Total Age Group Points + Relays
+[('MEAD', 307), ('MCC', 297), ('PARK', 288), ('CCC', 166), ('MVP', 163), ('MIRA', 154), ('MRSC', 60)]
+
+========================
+15/18 Girls and Boys
+========================
+
+15/18 Girls and Boys Free
+[('PARK', 125), ('MEAD', 93), ('MCC', 86), ('CCC', 59), ('MIRA', 42), ('MVP', 41), ('MRSC', 20)]
+
+15/18 Girls and Boys Breast
+[('MEAD', 139), ('MIRA', 69), ('MRSC', 67), ('PARK', 56), ('CCC', 48), ('MCC', 47), ('MVP', 41)]
+
+15/18 Girls and Boys Back
+[('PARK', 119), ('MEAD', 109), ('MCC', 98), ('CCC', 54), ('MIRA', 48), ('MVP', 38), ('MRSC', 0)]
+
+15/18 Girls and Boys Fly
+[('PARK', 166), ('MEAD', 82), ('MCC', 66), ('MVP', 65), ('CCC', 57), ('MIRA', 30), ('MRSC', 0)]
+
+15/18 Girls and Boys IM
+[('MEAD', 178), ('CCC', 72), ('MVP', 60), ('PARK', 59), ('MCC', 40), ('MIRA', 37), ('MRSC', 20)]
+
+15/18 Girls and Boys Total Age Group Points + Relays
+[('MEAD', 683), ('PARK', 621), ('MCC', 417), ('CCC', 368), ('MVP', 309), ('MIRA', 294), ('MRSC', 179)]
+
+================================================
+=========    13 and Up Girls and Boys    =======
+================================================
+
+13 and Up Girls and Boys Free
+[('MEAD', 300), ('PARK', 161), ('MCC', 124), ('MVP', 116), ('CCC', 90), ('MIRA', 77), ('MRSC', 64)]
+
+13 and Up Girls and Boys Breast
+[('MEAD', 282), ('MVP', 144), ('MCC', 123), ('MRSC', 113), ('PARK', 106), ('CCC', 96), ('MIRA', 70)]
+
+13 and Up Girls and Boys Back
+[('MEAD', 247), ('MCC', 208), ('PARK', 157), ('CCC', 125), ('MVP', 110), ('MIRA', 66), ('MRSC', 19)]
+
+13 and Up Girls and Boys Fly
+[('PARK', 228), ('MEAD', 184), ('MVP', 161), ('MCC', 129), ('CCC', 90), ('MRSC', 74), ('MIRA', 66)]
+
+13 and Up Girls and Boys IM
+[('MEAD', 363), ('MVP', 150), ('CCC', 120), ('PARK', 118), ('MCC', 87), ('MRSC', 49), ('MIRA', 45)]
+
+13 and Up Girls and Boys Total Age Group Points + Relays
+[('MEAD', 1554), ('PARK', 936), ('MVP', 827), ('MCC', 827), ('CCC', 671), ('MRSC', 465), ('MIRA', 462)]
+
+
+
+================================================
+============    Team Stroke Scores    ==========
+================================================
+
+Team Freestyle
+[('MEAD', 810), ('MCC', 543), ('MRSC', 420), ('PARK', 408), ('CCC', 228), ('MVP', 210), ('MIRA', 179)]
+
+Team Breastroke
+[('MCC', 579), ('MEAD', 566), ('PARK', 455), ('MVP', 388), ('MRSC', 337), ('CCC', 262), ('MIRA', 211)]
+
+Team Backstroke
+[('MCC', 747), ('MEAD', 619), ('PARK', 448), ('CCC', 294), ('MRSC', 274), ('MVP', 268), ('MIRA', 177)]
+
+Team Butterfly
+[('MEAD', 637), ('PARK', 591), ('MCC', 421), ('MRSC', 381), ('MVP', 379), ('MIRA', 203), ('CCC', 188)]
+
+Team IM
+[('MEAD', 735), ('PARK', 467), ('MCC', 331), ('MVP', 291), ('CCC', 242), ('MRSC', 152), ('MIRA', 112)]
+
+Team Medley Relays
+
+Team Free Relays
+
+[('MEAD', 536), ('PARK', 484), ('MCC', 480), ('MRSC', 468), ('CCC', 430), ('MVP', 426), ('MIRA', 416)]
+
+================================================
+============    Total Team Scores     ==========
+================================================
+
+[('MEAD', 3903), ('MCC', 3101), ('PARK', 2853), ('MRSC', 2032), ('MVP', 1962), ('CCC', 1644), ('MIRA', 1298)]

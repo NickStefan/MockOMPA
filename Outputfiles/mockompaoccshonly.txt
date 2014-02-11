@@ -1,0 +1,2359 @@
+mockompaoccshonly
+========================================================================
+========================       MOCK OMPA        ========================
+========================================================================
+
+========================
+6/Under Girls Free:
+========================
+1 {'OCC': 18.28} Points:24
+2 {'SH': 19.47} Points:21
+3 {'OCC': 20.15} Points:20
+4 {'OCC': 20.59} Points:19
+5 {'SH': 20.8} Points:18
+6 {'OCC': 21.07} Points:17
+7 {'SH': 21.93} Points:16
+8 {'SH': 22.17} Points:15
+9 {'SH': 23.96} Points:14
+10 {'OCC': 24.52} Points:13
+11 {'OCC': 25.0} Points:11
+12 {'OCC': 25.4} Points:9
+13 {'OCC': 25.6} Points:8
+14 {'OCC': 26.18} Points:7
+15 {'SH': 26.77} Points:6
+16 {'OCC': 26.97} Points:5
+17 {'OCC': 27.53} Points:4
+18 {'OCC': 27.81} Points:3
+19 {'SH': 28.95} Points:2
+20 {'SH': 29.65} Points:1
+
+6/Under Girls Free Points: 
+[('OCC', 140), ('SH', 93)]
+
+========================
+6/Under Girls Breast:
+========================
+1 {'OCC': 21.9} Points:24
+2 {'OCC': 27.19} Points:21
+3 {'OCC': 27.59} Points:20
+4 {'SH': 28.48} Points:19
+5 {'SH': 31.99} Points:18
+6 {'SH': 32.68} Points:17
+7 {'SH': 34.15} Points:16
+8 {'SH': 38.36} Points:15
+9 {'SH': 51.92} Points:14
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+10 {'OCC': 1000} Points:13
+
+6/Under Girls Breast Points: 
+[('OCC', 260), ('SH', 99)]
+
+========================
+6/Under Girls Back:
+========================
+1 {'OCC': 23.9} Points:24
+2 {'SH': 25.99} Points:21
+3 {'SH': 26.32} Points:20
+4 {'SH': 26.7} Points:19
+5 {'SH': 26.76} Points:18
+6 {'SH': 28.35} Points:17
+7 {'SH': 28.9} Points:16
+8 {'SH': 29.91} Points:15
+9 {'OCC': 30.15} Points:14
+10 {'OCC': 31.72} Points:13
+11 {'OCC': 31.85} Points:11
+12 {'SH': 31.89} Points:9
+13 {'SH': 33.09} Points:8
+14 {'OCC': 34.77} Points:7
+15 {'OCC': 35.0} Points:6
+16 {'OCC': 35.66} Points:5
+17 {'OCC': 37.92} Points:4
+18 {'OCC': 38.54} Points:3
+19 {'OCC': 39.4} Points:2
+20 {'SH': 39.9} Points:1
+
+6/Under Girls Back Points: 
+[('SH', 144), ('OCC', 89)]
+
+========================
+6/Under Girls Fly:
+========================
+1 {'OCC': 19.96} Points:24
+2 {'OCC': 22.92} Points:21
+3 {'SH': 25.0} Points:20
+4 {'SH': 25.41} Points:19
+5 {'OCC': 25.73} Points:18
+6 {'OCC': 27.19} Points:17
+7 {'OCC': 28.08} Points:16
+8 {'SH': 28.48} Points:15
+9 {'SH': 29.54} Points:14
+10 {'SH': 30.93} Points:13
+11 {'SH': 51.17} Points:11
+12 {'OCC': 54.86} Points:9
+13 {'OCC': 58.06} Points:8
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+
+6/Under Girls Fly Points: 
+[('OCC', 190), ('SH', 92)]
+
+========================
+6/Under Girls Free Relay:
+========================
+1 {'OCC': 77.3} Points:48
+2 {'SH': 84.37} Points:42
+
+6/Under Girls Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+========================
+6/Under Boys Free:
+========================
+1 {'OCC': 17.19} Points:24
+2 {'SH': 20.53} Points:21
+3 {'SH': 20.76} Points:20
+4 {'SH': 22.71} Points:19
+5 {'SH': 22.78} Points:18
+6 {'SH': 23.09} Points:17
+7 {'OCC': 24.12} Points:16
+8 {'OCC': 24.97} Points:15
+9 {'OCC': 25.79} Points:14
+10 {'SH': 26.53} Points:13
+11 {'SH': 26.87} Points:11
+12 {'SH': 27.49} Points:9
+13 {'OCC': 27.85} Points:8
+14 {'SH': 27.9} Points:7
+15 {'OCC': 27.95} Points:6
+16 {'SH': 28.65} Points:5
+17 {'SH': 28.9} Points:4
+18 {'OCC': 29.24} Points:3
+19 {'OCC': 29.32} Points:2
+20 {'OCC': 29.77} Points:1
+
+6/Under Boys Free Points: 
+[('SH', 144), ('OCC', 89)]
+
+========================
+6/Under BoysBoys Breast:
+========================
+1 {'SH': 26.71} Points:24
+2 {'OCC': 29.77} Points:21
+3 {'SH': 30.16} Points:20
+4 {'OCC': 33.1} Points:19
+5 {'OCC': 33.15} Points:18
+6 {'OCC': 33.54} Points:17
+7 {'OCC': 35.63} Points:16
+8 {'SH': 36.82} Points:15
+9 {'OCC': 37.48} Points:14
+10 {'OCC': 39.22} Points:13
+11 {'OCC': 40.3} Points:11
+12 {'OCC': 46.18} Points:9
+13 {'OCC': 56.18} Points:8
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+14 {'OCC': 1000} Points:7
+
+6/Under Boys Breast Points: 
+[('OCC', 251), ('SH', 59)]
+
+========================
+6/Under Boys Back:
+========================
+1 {'SH': 22.18} Points:24
+2 {'OCC': 24.52} Points:21
+3 {'SH': 24.61} Points:20
+4 {'OCC': 25.71} Points:19
+5 {'SH': 26.32} Points:18
+6 {'OCC': 28.4} Points:17
+7 {'OCC': 28.91} Points:16
+8 {'OCC': 29.02} Points:15
+9 {'OCC': 29.12} Points:14
+10 {'OCC': 29.27} Points:13
+11 {'SH': 29.72} Points:11
+12 {'OCC': 32.07} Points:9
+13 {'OCC': 32.98} Points:8
+14 {'OCC': 34.05} Points:7
+15 {'SH': 34.43} Points:6
+16 {'OCC': 35.8} Points:5
+17 {'SH': 36.52} Points:4
+18 {'SH': 36.86} Points:3
+19 {'SH': 37.82} Points:2
+20 {'OCC': 38.61} Points:1
+
+6/Under Boys Back Points: 
+[('OCC', 145), ('SH', 88)]
+
+========================
+6/Under Boys Fly:
+========================
+1 {'OCC': 21.04} Points:24
+2 {'SH': 25.4} Points:21
+3 {'SH': 31.18} Points:20
+4 {'SH': 31.19} Points:19
+5 {'OCC': 31.57} Points:18
+6 {'OCC': 34.04} Points:17
+7 {'SH': 39.05} Points:16
+8 {'OCC': 56.46} Points:15
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+9 {'OCC': 1000} Points:14
+
+6/Under Boys Fly Points: 
+[('OCC', 368), ('SH', 76)]
+
+========================
+6/Under Boys Free Relay:
+========================
+1 {'SH': 86.4} Points:48
+2 {'OCC': 86.85} Points:42
+
+6/Under Boys Free Relay Points: 
+[('SH', 48), ('OCC', 42)]
+
+========================
+7/8 Girls Free:
+========================
+1 {'SH': 14.63} Points:24
+2 {'SH': 14.82} Points:21
+3 {'SH': 15.33} Points:20
+4 {'SH': 16.0} Points:19
+5 {'SH': 16.08} Points:18
+6 {'SH': 16.45} Points:17
+7 {'SH': 16.48} Points:16
+8 {'OCC': 16.55} Points:15
+9 {'OCC': 16.6} Points:14
+10 {'SH': 17.32} Points:13
+11 {'SH': 17.34} Points:11
+12 {'SH': 17.39} Points:9
+13 {'OCC': 17.44} Points:8
+14 {'OCC': 17.61} Points:7
+15 {'SH': 17.92} Points:6
+16 {'OCC': 18.15} Points:5
+17 {'SH': 18.23} Points:4
+18 {'SH': 18.32} Points:3
+19 {'OCC': 18.34} Points:2
+20 {'SH': 18.38} Points:1
+
+7/8 Girls Free Points: 
+[('SH', 182), ('OCC', 51)]
+
+========================
+7/8 Girls Breast:
+========================
+1 {'SH': 19.46} Points:24
+2 {'SH': 20.87} Points:21
+3 {'SH': 21.22} Points:20
+4 {'SH': 22.13} Points:19
+5 {'OCC': 22.56} Points:18
+6 {'OCC': 22.68} Points:17
+7 {'OCC': 22.94} Points:16
+8 {'OCC': 23.21} Points:15
+9 {'OCC': 23.41} Points:14
+10 {'SH': 23.45} Points:13
+11 {'OCC': 23.55} Points:11
+12 {'SH': 23.62} Points:9
+13 {'OCC': 23.76} Points:8
+14 {'OCC': 24.01} Points:7
+15 {'OCC': 24.71} Points:6
+16 {'OCC': 25.49} Points:5
+17 {'SH': 25.75} Points:4
+18 {'SH': 25.8} Points:3
+19 {'SH': 26.12} Points:2
+20 {'OCC': 26.4} Points:1
+
+7/8 Girls Breast Points: 
+[('OCC', 118), ('SH', 115)]
+
+========================
+7/8 Girls Back:
+========================
+1 {'OCC': 18.55} Points:24
+2 {'SH': 19.06} Points:21
+3 {'SH': 19.53} Points:20
+4 {'SH': 19.77} Points:19
+5 {'SH': 19.85} Points:18
+6 {'SH': 20.57} Points:17
+7 {'OCC': 20.6} Points:16
+8 {'SH': 20.69} Points:15
+9 {'OCC': 20.82} Points:14
+10 {'OCC': 20.92} Points:13
+11 {'SH': 21.24} Points:11
+12 {'OCC': 21.47} Points:9
+13 {'OCC': 21.55} Points:8
+14 {'OCC': 21.65} Points:7
+15 {'SH': 21.71} Points:6
+16 {'OCC': 21.73} Points:5
+17 {'SH': 21.77} Points:4
+18 {'SH': 21.95} Points:3
+19 {'OCC': 22.05} Points:2
+20 {'OCC': 22.53} Points:1
+
+7/8 Girls Back Points: 
+[('SH', 134), ('OCC', 99)]
+
+========================
+7/8 Girls Fly:
+========================
+1 {'OCC': 15.75} Points:24
+2 {'SH': 16.33} Points:21
+3 {'SH': 16.73} Points:20
+4 {'SH': 17.14} Points:19
+5 {'SH': 17.45} Points:18
+6 {'SH': 18.4} Points:17
+7 {'SH': 18.54} Points:16
+8 {'OCC': 18.79} Points:15
+9 {'OCC': 19.06} Points:14
+10 {'SH': 19.35} Points:13
+11 {'SH': 19.79} Points:11
+12 {'OCC': 19.8} Points:9
+13 {'SH': 20.44} Points:8
+14 {'SH': 20.68} Points:7
+15 {'SH': 21.05} Points:6
+16 {'OCC': 21.23} Points:5
+17 {'SH': 21.6} Points:4
+18 {'SH': 22.05} Points:3
+19 {'OCC': 22.09} Points:2
+20 {'SH': 24.09} Points:1
+
+7/8 Girls Fly Points: 
+[('SH', 164), ('OCC', 69)]
+
+========================
+7/8 Girls IM:
+========================
+1 {'SH': 84.95} Points:24
+2 {'OCC': 86.46} Points:21
+3 {'SH': 91.75} Points:20
+4 {'SH': 94.18} Points:19
+5 {'OCC': 94.71} Points:18
+6 {'SH': 94.92} Points:17
+7 {'SH': 95.72} Points:16
+8 {'OCC': 96.8} Points:15
+9 {'SH': 100.94} Points:14
+10 {'OCC': 101.58} Points:13
+11 {'SH': 104.29} Points:11
+12 {'OCC': 108.14} Points:9
+13 {'OCC': 109.6} Points:8
+14 {'OCC': 109.66} Points:7
+15 {'OCC': 110.98} Points:6
+16 {'OCC': 111.68} Points:5
+17 {'SH': 113.0} Points:4
+18 {'SH': 114.22} Points:3
+19 {'OCC': 114.6} Points:2
+20 {'OCC': 119.06} Points:1
+
+7/8 Girls IM Points: 
+[('SH', 128), ('OCC', 105)]
+
+========================
+7/8 Girls Free Relay:
+========================
+1 {'SH': 60.78} Points:48
+2 {'OCC': 66.62} Points:42
+
+7/8 Girls Free Relay Points: 
+[('SH', 48), ('OCC', 42)]
+
+========================
+7/8 Boys Free:
+========================
+1 {'SH': 14.76} Points:24
+2 {'OCC': 14.86} Points:21
+3 {'SH': 15.15} Points:20
+4 {'OCC': 15.29} Points:19
+5 {'OCC': 15.62} Points:18
+6 {'SH': 16.09} Points:17
+7 {'OCC': 16.23} Points:16
+8 {'SH': 16.23} Points:15
+9 {'SH': 16.56} Points:14
+10 {'SH': 16.74} Points:13
+11 {'SH': 17.33} Points:11
+12 {'OCC': 17.41} Points:9
+13 {'SH': 17.56} Points:8
+14 {'SH': 17.85} Points:7
+15 {'SH': 17.87} Points:6
+16 {'SH': 17.95} Points:5
+17 {'SH': 18.14} Points:4
+18 {'SH': 18.55} Points:3
+19 {'SH': 18.69} Points:2
+20 {'SH': 18.76} Points:1
+
+7/8 Boys Free Points: 
+[('SH', 150), ('OCC', 83)]
+
+========================
+7/8 Boys Breast:
+========================
+1 {'SH': 20.08} Points:24
+2 {'OCC': 20.16} Points:21
+3 {'OCC': 21.68} Points:20
+4 {'OCC': 21.79} Points:19
+5 {'SH': 22.16} Points:18
+6 {'SH': 24.0} Points:17
+7 {'SH': 25.54} Points:16
+8 {'OCC': 25.69} Points:15
+9 {'SH': 26.05} Points:14
+10 {'SH': 26.12} Points:13
+11 {'SH': 26.24} Points:11
+12 {'OCC': 26.36} Points:9
+13 {'OCC': 26.53} Points:8
+14 {'SH': 26.63} Points:7
+15 {'SH': 26.93} Points:6
+16 {'SH': 27.53} Points:5
+17 {'SH': 27.56} Points:4
+18 {'SH': 28.36} Points:3
+19 {'OCC': 29.01} Points:2
+20 {'SH': 29.41} Points:1
+
+7/8 Boys Breast Points: 
+[('SH', 139), ('OCC', 94)]
+
+========================
+7/8 Boys Back:
+========================
+1 {'SH': 18.43} Points:24
+2 {'SH': 18.7} Points:21
+3 {'OCC': 19.38} Points:20
+4 {'OCC': 19.63} Points:19
+5 {'SH': 19.79} Points:18
+6 {'SH': 19.84} Points:17
+7 {'OCC': 20.99} Points:16
+8 {'SH': 21.13} Points:15
+9 {'SH': 21.3} Points:14
+10 {'SH': 21.35} Points:13
+11 {'SH': 21.57} Points:11
+12 {'OCC': 21.7} Points:9
+13 {'OCC': 21.83} Points:8
+14 {'SH': 22.24} Points:7
+15 {'SH': 22.56} Points:6
+16 {'SH': 23.05} Points:5
+17 {'SH': 23.45} Points:4
+18 {'SH': 23.46} Points:3
+19 {'SH': 24.33} Points:2
+20 {'OCC': 24.36} Points:1
+
+7/8 Boys Back Points: 
+[('SH', 160), ('OCC', 73)]
+
+========================
+7/8 Boys Fly:
+========================
+1 {'SH': 16.06} Points:24
+2 {'SH': 16.48} Points:21
+3 {'SH': 17.51} Points:20
+4 {'OCC': 17.83} Points:19
+5 {'SH': 18.26} Points:18
+6 {'OCC': 19.13} Points:17
+7 {'OCC': 19.24} Points:16
+8 {'SH': 20.45} Points:15
+9 {'SH': 21.23} Points:14
+10 {'SH': 21.31} Points:13
+11 {'SH': 21.65} Points:11
+12 {'OCC': 22.23} Points:9
+13 {'SH': 22.36} Points:8
+14 {'OCC': 23.18} Points:7
+15 {'SH': 23.51} Points:6
+16 {'SH': 23.71} Points:5
+17 {'SH': 24.73} Points:4
+18 {'OCC': 24.89} Points:3
+19 {'SH': 25.69} Points:2
+20 {'SH': 26.17} Points:1
+
+7/8 Boys Fly Points: 
+[('SH', 162), ('OCC', 71)]
+
+========================
+7/8 Boys IM:
+========================
+1 {'SH': 87.64} Points:24
+2 {'SH': 90.95} Points:21
+3 {'SH': 91.72} Points:20
+4 {'OCC': 95.23} Points:19
+5 {'SH': 96.8} Points:18
+6 {'OCC': 106.59} Points:17
+7 {'OCC': 110.69} Points:16
+8 {'OCC': 115.04} Points:15
+9 {'SH': 116.97} Points:14
+10 {'OCC': 118.31} Points:13
+11 {'OCC': 118.36} Points:11
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+12 {'OCC': 1000} Points:9
+
+7/8 Boys IM Points: 
+[('OCC', 208), ('SH', 97)]
+
+========================
+7/8 Boys Free Relay:
+========================
+1 {'OCC': 62.0} Points:48
+2 {'SH': 62.230000000000004} Points:42
+
+7/8 Boys Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+========================
+9/10 Girls Free:
+========================
+1 {'OCC': 30.91} Points:24
+2 {'SH': 31.55} Points:21
+3 {'OCC': 31.66} Points:20
+4 {'SH': 31.73} Points:19
+5 {'SH': 31.9} Points:18
+6 {'OCC': 32.18} Points:17
+7 {'OCC': 32.74} Points:16
+8 {'SH': 33.61} Points:15
+9 {'SH': 34.04} Points:14
+10 {'OCC': 34.22} Points:13
+11 {'SH': 34.69} Points:11
+12 {'SH': 34.93} Points:9
+13 {'SH': 35.07} Points:8
+14 {'OCC': 35.21} Points:7
+15 {'OCC': 35.63} Points:6
+16 {'OCC': 35.67} Points:5
+17 {'OCC': 35.69} Points:4
+18 {'SH': 35.74} Points:3
+19 {'SH': 35.78} Points:2
+20 {'SH': 35.98} Points:1
+
+9/10 Girls Free Points: 
+[('SH', 121), ('OCC', 112)]
+
+========================
+9/10 Girls Breast:
+========================
+1 {'SH': 35.67} Points:24
+2 {'SH': 38.88} Points:21
+3 {'OCC': 41.4} Points:20
+4 {'OCC': 43.1} Points:19
+5 {'OCC': 44.22} Points:18
+5 {'OCC': 44.22} Points:18
+7 {'OCC': 44.74} Points:16
+8 {'SH': 44.82} Points:15
+9 {'OCC': 45.31} Points:14
+10 {'OCC': 45.44} Points:13
+11 {'SH': 45.74} Points:11
+12 {'SH': 45.8} Points:9
+13 {'OCC': 45.82} Points:8
+14 {'SH': 45.95} Points:7
+15 {'OCC': 46.37} Points:6
+16 {'SH': 46.6} Points:5
+17 {'OCC': 46.7} Points:4
+18 {'SH': 47.61} Points:3
+19 {'SH': 47.66} Points:2
+20 {'SH': 48.36} Points:1
+
+9/10 Girls Breast Points: 
+[('OCC', 136), ('SH', 98)]
+
+========================
+9/10 Girls Back:
+========================
+1 {'OCC': 35.33} Points:24
+2 {'SH': 36.35} Points:21
+3 {'OCC': 38.03} Points:20
+4 {'SH': 38.07} Points:19
+5 {'OCC': 38.7} Points:18
+6 {'SH': 38.81} Points:17
+7 {'OCC': 39.0} Points:16
+8 {'OCC': 39.39} Points:15
+9 {'SH': 40.92} Points:14
+10 {'SH': 40.96} Points:13
+11 {'OCC': 41.19} Points:11
+12 {'OCC': 41.22} Points:9
+13 {'OCC': 41.59} Points:8
+14 {'OCC': 42.54} Points:7
+15 {'SH': 42.67} Points:6
+16 {'SH': 42.73} Points:5
+17 {'OCC': 42.82} Points:4
+18 {'SH': 42.85} Points:3
+19 {'SH': 43.02} Points:2
+20 {'OCC': 44.35} Points:1
+
+9/10 Girls Back Points: 
+[('OCC', 133), ('SH', 100)]
+
+========================
+9/10 Girls Fly:
+========================
+1 {'SH': 32.17} Points:24
+2 {'SH': 33.55} Points:21
+3 {'OCC': 35.04} Points:20
+4 {'OCC': 35.05} Points:19
+5 {'SH': 37.18} Points:18
+6 {'SH': 39.93} Points:17
+7 {'SH': 40.02} Points:16
+8 {'SH': 40.73} Points:15
+9 {'SH': 41.07} Points:14
+10 {'SH': 42.43} Points:13
+11 {'SH': 42.69} Points:11
+12 {'SH': 43.59} Points:9
+13 {'SH': 44.12} Points:8
+14 {'SH': 45.27} Points:7
+15 {'SH': 51.98} Points:6
+16 {'SH': 52.51} Points:5
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+
+9/10 Girls Fly Points: 
+[('SH', 184), ('OCC', 139)]
+
+========================
+9/10 Girls IM:
+========================
+1 {'SH': 74.79} Points:24
+2 {'OCC': 81.92} Points:21
+3 {'OCC': 82.02} Points:20
+4 {'SH': 83.7} Points:19
+5 {'OCC': 84.21} Points:18
+6 {'OCC': 85.93} Points:17
+7 {'OCC': 88.7} Points:16
+8 {'OCC': 89.62} Points:15
+9 {'SH': 90.05} Points:14
+10 {'OCC': 92.34} Points:13
+11 {'OCC': 92.42} Points:11
+12 {'OCC': 92.83} Points:9
+13 {'OCC': 95.0} Points:8
+14 {'SH': 95.11} Points:7
+15 {'SH': 95.42} Points:6
+16 {'SH': 95.79} Points:5
+17 {'OCC': 96.11} Points:4
+18 {'SH': 99.37} Points:3
+19 {'SH': 99.71} Points:2
+20 {'OCC': 101.25} Points:1
+
+9/10 Girls IM Points: 
+[('OCC', 153), ('SH', 80)]
+
+========================
+9/10 Girls Free Relay:
+========================
+1 {'SH': 126.39} Points:48
+2 {'OCC': 127.18} Points:42
+
+9/10 Girls Free Relay Points: 
+[('SH', 48), ('OCC', 42)]
+
+========================
+9/10 Boys Free:
+========================
+1 {'SH': 29.0} Points:24
+2 {'SH': 30.45} Points:21
+3 {'OCC': 30.61} Points:20
+4 {'OCC': 30.69} Points:19
+5 {'SH': 30.76} Points:18
+6 {'SH': 31.01} Points:17
+7 {'OCC': 31.26} Points:16
+8 {'SH': 31.27} Points:15
+9 {'OCC': 32.02} Points:14
+10 {'SH': 32.1} Points:13
+11 {'SH': 32.54} Points:11
+12 {'OCC': 32.87} Points:9
+13 {'OCC': 33.04} Points:8
+14 {'SH': 33.51} Points:7
+15 {'OCC': 33.95} Points:6
+16 {'OCC': 33.99} Points:5
+17 {'SH': 34.18} Points:4
+18 {'OCC': 34.26} Points:3
+19 {'SH': 34.5} Points:2
+20 {'OCC': 34.54} Points:1
+
+9/10 Boys Free Points: 
+[('SH', 132), ('OCC', 101)]
+
+========================
+9/10 Boys Breast:
+========================
+1 {'SH': 40.68} Points:24
+2 {'SH': 41.12} Points:21
+3 {'SH': 41.24} Points:20
+4 {'SH': 41.49} Points:19
+5 {'OCC': 42.98} Points:18
+6 {'SH': 43.5} Points:17
+7 {'OCC': 43.76} Points:16
+8 {'OCC': 44.6} Points:15
+9 {'OCC': 44.71} Points:14
+10 {'OCC': 44.99} Points:13
+11 {'SH': 45.66} Points:11
+12 {'OCC': 47.25} Points:9
+13 {'SH': 47.31} Points:8
+14 {'OCC': 47.59} Points:7
+15 {'OCC': 47.66} Points:6
+16 {'SH': 49.15} Points:5
+17 {'SH': 50.22} Points:4
+18 {'OCC': 51.45} Points:3
+19 {'OCC': 51.54} Points:2
+20 {'SH': 52.09} Points:1
+
+9/10 Boys Breast Points: 
+[('SH', 130), ('OCC', 103)]
+
+========================
+9/10 Boys Back:
+========================
+1 {'SH': 34.12} Points:24
+2 {'OCC': 36.19} Points:21
+3 {'SH': 36.3} Points:20
+4 {'OCC': 37.04} Points:19
+5 {'SH': 37.28} Points:18
+6 {'OCC': 37.36} Points:17
+7 {'OCC': 38.74} Points:16
+8 {'SH': 38.85} Points:15
+9 {'OCC': 38.95} Points:14
+10 {'OCC': 39.32} Points:13
+11 {'OCC': 39.6} Points:11
+12 {'SH': 39.82} Points:9
+13 {'SH': 39.86} Points:8
+14 {'SH': 40.15} Points:7
+15 {'OCC': 40.22} Points:6
+16 {'SH': 40.34} Points:5
+17 {'OCC': 40.43} Points:4
+18 {'SH': 40.45} Points:3
+19 {'OCC': 41.19} Points:2
+20 {'SH': 41.51} Points:1
+
+9/10 Boys Back Points: 
+[('OCC', 123), ('SH', 110)]
+
+========================
+9/10 Boys Fly:
+========================
+1 {'SH': 34.07} Points:24
+2 {'SH': 34.34} Points:21
+3 {'SH': 35.35} Points:20
+4 {'SH': 36.77} Points:19
+5 {'OCC': 37.06} Points:18
+6 {'OCC': 37.48} Points:17
+7 {'SH': 38.12} Points:16
+8 {'OCC': 39.17} Points:15
+9 {'SH': 39.41} Points:14
+10 {'SH': 41.75} Points:13
+11 {'OCC': 42.07} Points:11
+12 {'SH': 44.34} Points:9
+13 {'SH': 45.8} Points:8
+14 {'OCC': 46.34} Points:7
+15 {'SH': 53.79} Points:6
+16 {'OCC': 56.41} Points:5
+17 {'SH': 57.19} Points:4
+18 {'OCC': 57.64} Points:3
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+
+9/10 Boys Fly Points: 
+[('SH', 154), ('OCC', 114)]
+
+========================
+9/10 Boys IM:
+========================
+1 {'SH': 80.52} Points:24
+2 {'OCC': 82.45} Points:21
+3 {'OCC': 82.57} Points:20
+4 {'OCC': 82.75} Points:19
+5 {'OCC': 83.34} Points:18
+6 {'SH': 83.48} Points:17
+7 {'OCC': 83.78} Points:16
+8 {'SH': 83.91} Points:15
+9 {'OCC': 84.14} Points:14
+10 {'SH': 84.72} Points:13
+11 {'OCC': 84.91} Points:11
+12 {'SH': 84.92} Points:9
+13 {'OCC': 86.03} Points:8
+14 {'OCC': 87.01} Points:7
+15 {'OCC': 88.59} Points:6
+16 {'OCC': 89.37} Points:5
+17 {'SH': 90.82} Points:4
+18 {'OCC': 93.28} Points:3
+19 {'SH': 93.51} Points:2
+20 {'OCC': 96.68} Points:1
+
+9/10 Boys IM Points: 
+[('OCC', 149), ('SH', 84)]
+
+========================
+9/10 Boys Free Relay:
+========================
+1 {'SH': 121.22} Points:48
+2 {'OCC': 124.58} Points:42
+
+9/10 Boys Free Relay Points: 
+[('SH', 48), ('OCC', 42)]
+
+========================
+11/12 Girls Free:
+========================
+1 {'SH': 27.06} Points:24
+2 {'OCC': 27.11} Points:21
+3 {'SH': 27.19} Points:20
+4 {'OCC': 28.07} Points:19
+5 {'SH': 28.11} Points:18
+6 {'OCC': 28.4} Points:17
+7 {'OCC': 28.66} Points:16
+8 {'OCC': 29.43} Points:15
+9 {'OCC': 29.44} Points:14
+10 {'SH': 29.53} Points:13
+11 {'SH': 29.63} Points:11
+12 {'OCC': 29.73} Points:9
+13 {'SH': 29.96} Points:8
+14 {'SH': 29.99} Points:7
+15 {'OCC': 30.01} Points:6
+16 {'OCC': 30.25} Points:5
+17 {'OCC': 30.57} Points:4
+18 {'SH': 31.26} Points:3
+19 {'OCC': 31.49} Points:2
+20 {'SH': 31.71} Points:1
+
+11/12 Girls Free Points: 
+[('OCC', 128), ('SH', 105)]
+
+========================
+11/12 Girls Breast:
+========================
+1 {'OCC': 32.57} Points:24
+2 {'SH': 34.7} Points:21
+3 {'OCC': 35.69} Points:20
+4 {'OCC': 36.29} Points:19
+5 {'SH': 36.34} Points:18
+6 {'OCC': 36.73} Points:17
+7 {'SH': 36.74} Points:16
+8 {'OCC': 36.89} Points:15
+9 {'OCC': 37.35} Points:14
+10 {'OCC': 37.79} Points:13
+11 {'OCC': 38.07} Points:11
+12 {'SH': 40.9} Points:9
+13 {'SH': 40.96} Points:8
+14 {'SH': 41.8} Points:7
+15 {'OCC': 42.91} Points:6
+16 {'OCC': 44.81} Points:5
+17 {'OCC': 44.98} Points:4
+18 {'SH': 45.04} Points:3
+19 {'OCC': 45.56} Points:2
+20 {'SH': 46.44} Points:1
+
+11/12 Girls Breast Points: 
+[('OCC', 150), ('SH', 83)]
+
+========================
+11/12 Girls Back:
+========================
+1 {'OCC': 29.76} Points:24
+2 {'OCC': 29.86} Points:21
+3 {'SH': 30.39} Points:20
+4 {'OCC': 31.23} Points:19
+5 {'OCC': 31.38} Points:18
+6 {'OCC': 32.39} Points:17
+7 {'OCC': 32.5} Points:16
+8 {'OCC': 33.3} Points:15
+9 {'OCC': 33.34} Points:14
+10 {'OCC': 33.74} Points:13
+11 {'OCC': 33.88} Points:11
+12 {'SH': 34.22} Points:9
+12 {'SH': 34.22} Points:9
+14 {'SH': 34.43} Points:7
+15 {'OCC': 34.91} Points:6
+16 {'OCC': 35.28} Points:5
+17 {'SH': 35.72} Points:4
+18 {'OCC': 35.87} Points:3
+19 {'OCC': 36.89} Points:2
+20 {'OCC': 36.93} Points:1
+
+11/12 Girls Back Points: 
+[('OCC', 185), ('SH', 49)]
+
+========================
+11/12 Girls Fly:
+========================
+1 {'OCC': 26.75} Points:24
+2 {'OCC': 28.49} Points:21
+3 {'SH': 28.92} Points:20
+4 {'OCC': 28.93} Points:19
+5 {'OCC': 29.35} Points:18
+6 {'SH': 30.16} Points:17
+7 {'OCC': 30.21} Points:16
+8 {'OCC': 30.29} Points:15
+9 {'SH': 30.77} Points:14
+10 {'OCC': 31.62} Points:13
+11 {'SH': 31.66} Points:11
+12 {'OCC': 32.19} Points:9
+13 {'OCC': 32.38} Points:8
+14 {'SH': 33.5} Points:7
+15 {'SH': 33.84} Points:6
+16 {'OCC': 33.93} Points:5
+17 {'OCC': 34.29} Points:4
+18 {'OCC': 34.65} Points:3
+19 {'SH': 35.7} Points:2
+20 {'SH': 36.9} Points:1
+
+11/12 Girls Fly Points: 
+[('OCC', 155), ('SH', 78)]
+
+========================
+11/12 Girls IM:
+========================
+1 {'OCC': 61.91} Points:24
+2 {'OCC': 66.57} Points:21
+3 {'OCC': 67.16} Points:20
+4 {'OCC': 67.43} Points:19
+5 {'SH': 67.67} Points:18
+6 {'OCC': 69.57} Points:17
+7 {'OCC': 71.56} Points:16
+8 {'SH': 72.2} Points:15
+9 {'SH': 72.38} Points:14
+10 {'OCC': 72.52} Points:13
+11 {'OCC': 73.5} Points:11
+12 {'OCC': 74.63} Points:9
+13 {'SH': 75.05} Points:8
+14 {'SH': 75.22} Points:7
+15 {'OCC': 75.41} Points:6
+16 {'OCC': 75.82} Points:5
+17 {'OCC': 76.14} Points:4
+18 {'OCC': 76.2} Points:3
+19 {'SH': 76.99} Points:2
+20 {'OCC': 77.16} Points:1
+
+11/12 Girls IM Points: 
+[('OCC', 169), ('SH', 64)]
+
+========================
+11/12 Girls Free Relay:
+========================
+1 {'OCC': 105.36999999999999} Points:48
+2 {'SH': 111.75} Points:42
+
+11/12 Girls Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+========================
+11/12 Boys Free:
+========================
+1 {'SH': 26.36} Points:24
+2 {'SH': 26.41} Points:21
+3 {'SH': 26.86} Points:20
+4 {'OCC': 27.41} Points:19
+5 {'SH': 27.59} Points:18
+6 {'SH': 28.81} Points:17
+7 {'OCC': 29.28} Points:16
+8 {'SH': 29.46} Points:15
+9 {'OCC': 29.54} Points:14
+10 {'SH': 29.76} Points:13
+11 {'SH': 30.38} Points:11
+12 {'OCC': 30.58} Points:9
+13 {'OCC': 31.16} Points:8
+14 {'SH': 31.74} Points:7
+15 {'SH': 32.09} Points:6
+16 {'OCC': 32.22} Points:5
+17 {'SH': 32.23} Points:4
+18 {'SH': 32.5} Points:3
+19 {'OCC': 32.62} Points:2
+20 {'SH': 33.15} Points:1
+
+11/12 Boys Free Points: 
+[('SH', 160), ('OCC', 73)]
+
+========================
+11/12 Boys Breast:
+========================
+1 {'SH': 34.06} Points:24
+2 {'SH': 36.49} Points:21
+3 {'SH': 36.54} Points:20
+4 {'OCC': 37.34} Points:19
+5 {'OCC': 37.7} Points:18
+6 {'SH': 38.7} Points:17
+7 {'SH': 39.82} Points:16
+8 {'OCC': 41.01} Points:15
+9 {'SH': 42.09} Points:14
+10 {'SH': 42.47} Points:13
+11 {'SH': 42.8} Points:11
+12 {'SH': 43.47} Points:9
+13 {'OCC': 43.56} Points:8
+14 {'OCC': 44.08} Points:7
+15 {'SH': 44.66} Points:6
+16 {'SH': 44.79} Points:5
+17 {'SH': 44.82} Points:4
+18 {'SH': 45.22} Points:3
+19 {'SH': 45.82} Points:2
+20 {'SH': 49.51} Points:1
+
+11/12 Boys Breast Points: 
+[('SH', 166), ('OCC', 67)]
+
+========================
+11/12 Boys Back:
+========================
+1 {'SH': 29.52} Points:24
+2 {'SH': 32.15} Points:21
+3 {'OCC': 32.94} Points:20
+4 {'SH': 32.97} Points:19
+5 {'OCC': 33.31} Points:18
+6 {'SH': 33.86} Points:17
+7 {'SH': 33.9} Points:16
+8 {'OCC': 35.13} Points:15
+8 {'OCC': 35.13} Points:15
+10 {'SH': 35.19} Points:13
+11 {'SH': 36.37} Points:11
+12 {'OCC': 36.71} Points:9
+13 {'SH': 37.3} Points:8
+14 {'SH': 39.06} Points:7
+15 {'OCC': 39.49} Points:6
+16 {'SH': 40.11} Points:5
+17 {'OCC': 40.28} Points:4
+18 {'SH': 40.35} Points:3
+19 {'OCC': 40.4} Points:2
+20 {'SH': 40.81} Points:1
+
+11/12 Boys Back Points: 
+[('SH', 145), ('OCC', 89)]
+
+========================
+11/12 Boys Fly:
+========================
+1 {'SH': 28.34} Points:24
+2 {'OCC': 29.99} Points:21
+3 {'SH': 30.01} Points:20
+4 {'SH': 30.33} Points:19
+5 {'OCC': 30.59} Points:18
+6 {'SH': 30.86} Points:17
+7 {'OCC': 31.87} Points:16
+8 {'SH': 31.99} Points:15
+9 {'SH': 33.13} Points:14
+10 {'OCC': 33.75} Points:13
+11 {'OCC': 34.17} Points:11
+12 {'OCC': 34.43} Points:9
+13 {'SH': 36.06} Points:8
+14 {'SH': 40.31} Points:7
+15 {'OCC': 40.65} Points:6
+16 {'SH': 48.99} Points:5
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+
+11/12 Boys Fly Points: 
+[('SH', 129), ('OCC', 126)]
+
+========================
+11/12 Boys IM:
+========================
+1 {'SH': 64.9} Points:24
+2 {'SH': 67.2} Points:21
+3 {'SH': 69.24} Points:20
+4 {'OCC': 70.45} Points:19
+5 {'SH': 70.84} Points:18
+6 {'SH': 71.95} Points:17
+7 {'SH': 72.44} Points:16
+8 {'SH': 73.19} Points:15
+9 {'OCC': 73.6} Points:14
+10 {'OCC': 73.66} Points:13
+11 {'OCC': 74.78} Points:11
+12 {'OCC': 77.22} Points:9
+12 {'OCC': 77.22} Points:9
+14 {'OCC': 78.35} Points:7
+15 {'OCC': 80.36} Points:6
+16 {'OCC': 80.7} Points:5
+17 {'OCC': 81.54} Points:4
+18 {'SH': 86.11} Points:3
+19 {'SH': 86.92} Points:2
+20 {'OCC': 87.54} Points:1
+
+11/12 Boys IM Points: 
+[('SH', 136), ('OCC', 98)]
+
+========================
+11/12 Boys Free Relay:
+========================
+1 {'SH': 107.22} Points:48
+2 {'OCC': 115.34} Points:42
+
+11/12 Boys Free Relay Points: 
+[('SH', 48), ('OCC', 42)]
+
+========================
+13/14 Girls Free:
+========================
+1 {'SH': 25.63} Points:24
+2 {'OCC': 25.81} Points:21
+3 {'OCC': 26.0} Points:20
+4 {'OCC': 26.83} Points:19
+5 {'OCC': 26.93} Points:18
+6 {'OCC': 27.18} Points:17
+7 {'SH': 27.57} Points:16
+8 {'OCC': 27.59} Points:15
+9 {'SH': 27.64} Points:14
+10 {'OCC': 27.65} Points:13
+11 {'SH': 27.74} Points:11
+12 {'SH': 27.88} Points:9
+13 {'OCC': 28.1} Points:8
+14 {'SH': 28.24} Points:7
+15 {'OCC': 28.75} Points:6
+16 {'OCC': 28.99} Points:5
+17 {'OCC': 29.34} Points:4
+18 {'OCC': 29.86} Points:3
+18 {'OCC': 29.86} Points:3
+20 {'SH': 30.36} Points:1
+
+13/14 Girls Free Points: 
+[('OCC', 152), ('SH', 82)]
+
+========================
+13/14 Girls Breast:
+========================
+1 {'OCC': 32.49} Points:24
+2 {'OCC': 34.06} Points:21
+3 {'SH': 35.17} Points:20
+4 {'OCC': 35.56} Points:19
+5 {'OCC': 36.25} Points:18
+6 {'SH': 37.04} Points:17
+7 {'SH': 37.62} Points:16
+8 {'SH': 37.84} Points:15
+9 {'OCC': 38.2} Points:14
+10 {'SH': 38.2} Points:13
+11 {'SH': 40.14} Points:11
+12 {'SH': 40.17} Points:9
+13 {'OCC': 40.75} Points:8
+14 {'OCC': 41.11} Points:7
+15 {'OCC': 41.26} Points:6
+16 {'OCC': 42.32} Points:5
+17 {'OCC': 43.51} Points:4
+18 {'OCC': 43.54} Points:3
+19 {'OCC': 43.68} Points:2
+20 {'OCC': 44.65} Points:1
+
+13/14 Girls Breast Points: 
+[('OCC', 132), ('SH', 101)]
+
+========================
+13/14 Girls Back:
+========================
+1 {'SH': 28.34} Points:24
+2 {'OCC': 28.43} Points:21
+3 {'OCC': 30.67} Points:20
+4 {'SH': 30.97} Points:19
+5 {'SH': 31.05} Points:18
+6 {'OCC': 31.13} Points:17
+7 {'OCC': 31.65} Points:16
+8 {'SH': 31.84} Points:15
+9 {'OCC': 32.12} Points:14
+10 {'OCC': 32.53} Points:13
+11 {'OCC': 32.6} Points:11
+12 {'OCC': 32.79} Points:9
+13 {'OCC': 32.85} Points:8
+14 {'SH': 32.98} Points:7
+15 {'SH': 33.25} Points:6
+16 {'OCC': 34.05} Points:5
+17 {'SH': 34.09} Points:4
+18 {'OCC': 34.85} Points:3
+19 {'OCC': 35.21} Points:2
+20 {'OCC': 35.46} Points:1
+
+13/14 Girls Back Points: 
+[('OCC', 140), ('SH', 93)]
+
+========================
+13/14 Girls Fly:
+========================
+1 {'OCC': 27.62} Points:24
+2 {'SH': 27.82} Points:21
+3 {'OCC': 28.62} Points:20
+4 {'SH': 28.96} Points:19
+5 {'SH': 28.99} Points:18
+6 {'OCC': 29.49} Points:17
+7 {'OCC': 29.52} Points:16
+8 {'OCC': 29.98} Points:15
+9 {'SH': 30.48} Points:14
+10 {'SH': 30.59} Points:13
+11 {'OCC': 30.67} Points:11
+12 {'SH': 30.71} Points:9
+13 {'OCC': 30.74} Points:8
+14 {'OCC': 31.41} Points:7
+15 {'OCC': 34.22} Points:6
+16 {'OCC': 35.17} Points:5
+17 {'SH': 36.26} Points:4
+18 {'OCC': 38.04} Points:3
+19 {'OCC': 41.04} Points:2
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+
+13/14 Girls Fly Points: 
+[('OCC', 155), ('SH', 98)]
+
+========================
+13/14 Girls IM:
+========================
+1 {'OCC': 63.87} Points:24
+2 {'OCC': 64.14} Points:21
+3 {'OCC': 67.73} Points:20
+4 {'OCC': 68.21} Points:19
+5 {'OCC': 68.24} Points:18
+6 {'OCC': 68.49} Points:17
+7 {'OCC': 68.56} Points:16
+8 {'SH': 69.31} Points:15
+9 {'OCC': 69.69} Points:14
+10 {'OCC': 69.79} Points:13
+11 {'OCC': 70.15} Points:11
+12 {'OCC': 71.92} Points:9
+13 {'OCC': 72.08} Points:8
+14 {'SH': 72.59} Points:7
+15 {'OCC': 72.96} Points:6
+16 {'OCC': 73.35} Points:5
+17 {'OCC': 76.03} Points:4
+18 {'SH': 76.6} Points:3
+19 {'OCC': 78.14} Points:2
+20 {'OCC': 79.3} Points:1
+
+13/14 Girls IM Points: 
+[('OCC', 208), ('SH', 25)]
+
+========================
+13/14 Girls Free Relay:
+========================
+1 {'OCC': 105.28999999999999} Points:48
+2 {'SH': 108.58} Points:42
+
+13/14 Girls Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+========================
+13/14 Boys Free:
+========================
+1 {'OCC': 23.0} Points:24
+2 {'OCC': 23.34} Points:21
+3 {'OCC': 23.45} Points:20
+4 {'SH': 23.62} Points:19
+5 {'SH': 23.72} Points:18
+6 {'OCC': 24.89} Points:17
+7 {'OCC': 25.41} Points:16
+8 {'SH': 25.58} Points:15
+9 {'SH': 25.59} Points:14
+10 {'OCC': 25.99} Points:13
+11 {'SH': 26.93} Points:11
+12 {'OCC': 27.03} Points:9
+13 {'OCC': 27.7} Points:8
+14 {'SH': 29.02} Points:7
+15 {'OCC': 29.41} Points:6
+16 {'OCC': 30.17} Points:5
+17 {'OCC': 32.44} Points:4
+18 {'OCC': 33.75} Points:3
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+
+13/14 Boys Free Points: 
+[('OCC', 154), ('SH', 84)]
+
+========================
+13/14 Boys Breast:
+========================
+1 {'OCC': 30.3} Points:24
+2 {'OCC': 30.63} Points:21
+3 {'OCC': 30.69} Points:20
+4 {'SH': 31.37} Points:19
+5 {'OCC': 32.06} Points:18
+6 {'SH': 32.32} Points:17
+7 {'SH': 33.04} Points:16
+8 {'OCC': 34.78} Points:15
+9 {'SH': 35.96} Points:14
+10 {'OCC': 42.45} Points:13
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+11 {'OCC': 1000} Points:11
+
+13/14 Boys Breast Points: 
+[('OCC', 221), ('SH', 66)]
+
+========================
+13/14 Boys Back:
+========================
+1 {'SH': 27.25} Points:24
+2 {'OCC': 28.06} Points:21
+3 {'OCC': 28.83} Points:20
+4 {'SH': 29.17} Points:19
+5 {'OCC': 29.24} Points:18
+6 {'OCC': 29.25} Points:17
+7 {'OCC': 29.96} Points:16
+8 {'OCC': 30.54} Points:15
+9 {'OCC': 31.02} Points:14
+10 {'OCC': 31.5} Points:13
+11 {'SH': 32.3} Points:11
+12 {'OCC': 33.12} Points:9
+13 {'OCC': 33.83} Points:8
+14 {'OCC': 34.42} Points:7
+15 {'SH': 37.4} Points:6
+16 {'OCC': 42.51} Points:5
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+
+13/14 Boys Back Points: 
+[('OCC', 179), ('SH', 60)]
+
+========================
+13/14 Boys Fly:
+========================
+1 {'OCC': 24.94} Points:24
+2 {'SH': 26.72} Points:21
+3 {'OCC': 27.11} Points:20
+4 {'SH': 27.16} Points:19
+5 {'SH': 27.33} Points:18
+6 {'OCC': 28.38} Points:17
+7 {'OCC': 28.95} Points:16
+8 {'SH': 29.21} Points:15
+9 {'SH': 30.22} Points:14
+10 {'OCC': 31.15} Points:13
+11 {'OCC': 31.24} Points:11
+12 {'OCC': 36.11} Points:9
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+
+13/14 Boys Fly Points: 
+[('OCC', 182), ('SH', 87)]
+
+========================
+13/14 Boys IM:
+========================
+1 {'OCC': 57.29} Points:24
+2 {'SH': 59.74} Points:21
+3 {'OCC': 60.23} Points:20
+4 {'OCC': 60.35} Points:19
+5 {'OCC': 61.73} Points:18
+6 {'SH': 62.86} Points:17
+7 {'SH': 63.32} Points:16
+8 {'OCC': 63.5} Points:15
+9 {'SH': 63.67} Points:14
+10 {'SH': 64.69} Points:13
+11 {'SH': 65.1} Points:11
+12 {'OCC': 65.37} Points:9
+13 {'SH': 69.57} Points:8
+14 {'OCC': 72.01} Points:7
+15 {'OCC': 72.89} Points:6
+16 {'OCC': 73.29} Points:5
+17 {'SH': 76.35} Points:4
+18 {'OCC': 78.4} Points:3
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+
+13/14 Boys IM Points: 
+[('OCC', 138), ('SH', 104)]
+
+========================
+13/14 Boys Free Relay:
+========================
+1 {'OCC': 94.52000000000001} Points:48
+2 {'SH': 98.51} Points:42
+
+13/14 Boys Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+========================
+15/18 Girls Free:
+========================
+1 {'OCC': 25.99} Points:24
+2 {'SH': 26.0} Points:21
+3 {'OCC': 26.54} Points:20
+4 {'OCC': 26.6} Points:19
+5 {'OCC': 26.83} Points:18
+6 {'SH': 27.28} Points:17
+7 {'OCC': 28.09} Points:16
+8 {'SH': 28.67} Points:15
+9 {'OCC': 28.68} Points:14
+10 {'OCC': 29.44} Points:13
+11 {'SH': 29.83} Points:11
+12 {'SH': 29.99} Points:9
+13 {'OCC': 30.04} Points:8
+14 {'SH': 30.3} Points:7
+15 {'SH': 31.68} Points:6
+16 {'OCC': 31.79} Points:5
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+17 {'OCC': 1000} Points:4
+
+15/18 Girls Free Points: 
+[('OCC', 181), ('SH', 86)]
+
+========================
+15/18 Girls Breast:
+========================
+1 {'SH': 31.5} Points:24
+2 {'OCC': 32.43} Points:21
+3 {'SH': 32.88} Points:20
+4 {'OCC': 33.21} Points:19
+5 {'SH': 34.12} Points:18
+6 {'SH': 34.65} Points:17
+7 {'OCC': 35.07} Points:16
+8 {'OCC': 35.73} Points:15
+9 {'OCC': 37.59} Points:14
+10 {'SH': 37.89} Points:13
+11 {'OCC': 38.38} Points:11
+12 {'OCC': 38.55} Points:9
+13 {'OCC': 42.34} Points:8
+14 {'SH': 45.19} Points:7
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+15 {'OCC': 1000} Points:6
+
+15/18 Girls Breast Points: 
+[('OCC', 185), ('SH', 99)]
+
+========================
+15/18 Girls Back:
+========================
+1 {'OCC': 29.17} Points:24
+2 {'OCC': 29.26} Points:21
+3 {'OCC': 29.74} Points:20
+4 {'OCC': 30.06} Points:19
+5 {'OCC': 30.37} Points:18
+6 {'SH': 30.63} Points:17
+7 {'OCC': 31.11} Points:16
+8 {'OCC': 31.45} Points:15
+9 {'OCC': 31.55} Points:14
+10 {'OCC': 31.71} Points:13
+11 {'SH': 31.84} Points:11
+12 {'OCC': 31.95} Points:9
+13 {'OCC': 32.23} Points:8
+14 {'SH': 32.28} Points:7
+15 {'SH': 33.66} Points:6
+16 {'OCC': 33.93} Points:5
+17 {'OCC': 34.4} Points:4
+18 {'OCC': 35.65} Points:3
+19 {'SH': 36.18} Points:2
+20 {'SH': 38.69} Points:1
+
+15/18 Girls Back Points: 
+[('OCC', 189), ('SH', 44)]
+
+========================
+15/18 Girls Fly:
+========================
+1 {'OCC': 26.85} Points:24
+2 {'OCC': 28.27} Points:21
+3 {'OCC': 28.31} Points:20
+4 {'SH': 28.45} Points:19
+5 {'OCC': 28.52} Points:18
+6 {'SH': 28.79} Points:17
+7 {'OCC': 29.24} Points:16
+8 {'OCC': 29.29} Points:15
+9 {'OCC': 29.4} Points:14
+10 {'OCC': 29.74} Points:13
+11 {'OCC': 30.3} Points:11
+12 {'OCC': 30.38} Points:9
+13 {'OCC': 30.82} Points:8
+14 {'SH': 31.2} Points:7
+15 {'OCC': 31.47} Points:6
+16 {'SH': 31.91} Points:5
+17 {'SH': 32.78} Points:4
+18 {'OCC': 33.22} Points:3
+19 {'OCC': 34.14} Points:2
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+20 {'OCC': 1000} Points:1
+
+15/18 Girls Fly Points: 
+[('OCC', 186), ('SH', 52)]
+
+========================
+15/18 Girls IM:
+========================
+1 {'OCC': 61.18} Points:24
+2 {'SH': 66.21} Points:21
+3 {'OCC': 66.28} Points:20
+4 {'OCC': 66.33} Points:19
+5 {'OCC': 66.48} Points:18
+6 {'OCC': 66.82} Points:17
+7 {'OCC': 67.1} Points:16
+8 {'OCC': 67.74} Points:15
+9 {'OCC': 69.1} Points:14
+10 {'OCC': 69.33} Points:13
+11 {'OCC': 69.43} Points:11
+12 {'OCC': 69.67} Points:9
+13 {'SH': 71.27} Points:8
+14 {'OCC': 71.32} Points:7
+15 {'SH': 71.62} Points:6
+16 {'OCC': 74.4} Points:5
+17 {'OCC': 76.34} Points:4
+18 {'OCC': 81.56} Points:3
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+19 {'OCC': 1000} Points:2
+
+15/18 Girls IM Points: 
+[('OCC', 205), ('SH', 35)]
+
+========================
+15/18 Girls Free Relay:
+========================
+1 {'OCC': 105.87} Points:48
+2 {'SH': 109.96000000000001} Points:42
+
+15/18 Girls Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+========================
+15/18 Boys Free:
+========================
+1 {'OCC': 21.36} Points:24
+2 {'SH': 22.2} Points:21
+3 {'OCC': 23.3} Points:20
+4 {'OCC': 23.69} Points:19
+5 {'SH': 24.1} Points:18
+6 {'OCC': 24.19} Points:17
+7 {'OCC': 24.36} Points:16
+8 {'OCC': 24.74} Points:15
+9 {'SH': 24.84} Points:14
+10 {'OCC': 24.87} Points:13
+11 {'OCC': 24.93} Points:11
+12 {'SH': 24.99} Points:9
+13 {'SH': 25.36} Points:8
+14 {'SH': 25.54} Points:7
+15 {'OCC': 25.68} Points:6
+16 {'SH': 25.84} Points:5
+17 {'OCC': 26.27} Points:4
+18 {'SH': 26.45} Points:3
+19 {'SH': 26.54} Points:2
+20 {'OCC': 28.21} Points:1
+
+15/18 Boys Free Points: 
+[('OCC', 146), ('SH', 87)]
+
+========================
+15/18 Boys Breast:
+========================
+1 {'OCC': 25.99} Points:24
+2 {'OCC': 28.02} Points:21
+3 {'SH': 28.81} Points:20
+4 {'SH': 28.97} Points:19
+5 {'OCC': 30.38} Points:18
+6 {'OCC': 31.18} Points:17
+7 {'SH': 31.54} Points:16
+8 {'OCC': 32.24} Points:15
+9 {'SH': 32.38} Points:14
+10 {'OCC': 32.41} Points:13
+11 {'SH': 33.87} Points:11
+12 {'OCC': 34.09} Points:9
+13 {'SH': 36.91} Points:8
+14 {'OCC': 37.86} Points:7
+15 {'SH': 47.67} Points:6
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+
+15/18 Boys Breast Points: 
+[('OCC', 159), ('SH', 94)]
+
+========================
+15/18 Boys Back:
+========================
+1 {'OCC': 25.1} Points:24
+2 {'OCC': 27.19} Points:21
+3 {'SH': 28.04} Points:20
+4 {'OCC': 28.38} Points:19
+5 {'OCC': 29.0} Points:18
+6 {'SH': 29.93} Points:17
+7 {'OCC': 29.95} Points:16
+8 {'OCC': 30.13} Points:15
+9 {'SH': 30.51} Points:14
+10 {'SH': 31.14} Points:13
+11 {'OCC': 31.38} Points:11
+12 {'SH': 31.69} Points:9
+13 {'SH': 34.82} Points:8
+14 {'SH': 34.89} Points:7
+15 {'SH': 38.74} Points:6
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+
+15/18 Boys Back Points: 
+[('OCC', 164), ('SH', 94)]
+
+========================
+15/18 Boys Fly:
+========================
+1 {'OCC': 23.21} Points:24
+2 {'SH': 23.61} Points:21
+3 {'OCC': 24.12} Points:20
+4 {'SH': 25.06} Points:19
+5 {'SH': 25.6} Points:18
+6 {'OCC': 26.07} Points:17
+7 {'SH': 26.19} Points:16
+8 {'OCC': 26.33} Points:15
+9 {'SH': 26.55} Points:14
+10 {'OCC': 26.86} Points:13
+10 {'OCC': 26.86} Points:13
+12 {'OCC': 27.13} Points:9
+13 {'SH': 28.15} Points:8
+14 {'SH': 31.99} Points:7
+15 {'SH': 35.08} Points:6
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+16 {'OCC': 1000} Points:5
+
+15/18 Boys Fly Points: 
+[('OCC', 151), ('SH', 109)]
+
+========================
+15/18 Boys IM:
+========================
+1 {'OCC': 51.98} Points:24
+2 {'SH': 56.9} Points:21
+3 {'SH': 57.09} Points:20
+4 {'OCC': 57.27} Points:19
+5 {'OCC': 59.01} Points:18
+6 {'OCC': 59.89} Points:17
+7 {'SH': 59.93} Points:16
+8 {'OCC': 60.17} Points:15
+9 {'OCC': 61.38} Points:14
+10 {'OCC': 62.44} Points:13
+11 {'OCC': 65.81} Points:11
+12 {'OCC': 68.48} Points:9
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+13 {'OCC': 1000} Points:8
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+19 {'SH': 1000} Points:2
+
+15/18 Boys IM Points: 
+[('OCC', 188), ('SH', 77)]
+
+========================
+15/18 Boys Free Relay:
+========================
+1 {'OCC': 92.53999999999999} Points:48
+2 {'SH': 95.31} Points:42
+
+15/18 Boys Free Relay Points: 
+[('OCC', 48), ('SH', 42)]
+
+
+
+========================================================================
+========================    SCORING SUMMARY     ========================
+========================================================================
+
+================================================
+================   Six and Unders  =============
+================================================
+
+========================
+6/Under Girls
+========================
+
+6/Under Girls Free
+[('OCC', 140), ('SH', 93)]
+
+6/Under Girls Breast
+[('OCC', 260), ('SH', 99)]
+
+6/Under Girls Back
+[('SH', 144), ('OCC', 89)]
+
+6/Under Girls Fly
+[('SH', 144), ('OCC', 89)]
+
+6/Under Girls Medley Relay
+
+6/Under Girls Free Relay
+[('OCC', 48), ('SH', 42)]
+
+6/Under Girls Total Age Group Points
+[('OCC', 727), ('SH', 470)]
+
+========================
+6/Under Boys
+========================
+
+6/Under Boys Free
+[('SH', 144), ('OCC', 89)]
+
+6/Under Boys Breast
+[('OCC', 251), ('SH', 59)]
+
+6/Under Boys Back
+[('OCC', 145), ('SH', 88)]
+
+6/Under Boys Fly
+[('OCC', 145), ('SH', 88)]
+
+6/Under Boys Medley Relay
+
+6/Under Boys Free Relay
+[('SH', 48), ('OCC', 42)]
+
+6/Under Boys Total Age Group Points
+[('OCC', 895), ('SH', 415)]
+
+========================
+6/U Girls and Boys
+========================
+
+6/Under Girls and Boys Free
+[('SH', 237), ('OCC', 229)]
+
+6/Under Girls and Boys Breast
+[('OCC', 511), ('SH', 158)]
+
+6/Under Girls and Boys Back
+[('OCC', 234), ('SH', 232)]
+
+6/Under Girls and Boys Fly
+[('OCC', 558), ('SH', 168)]
+
+6/Under Girls and Boys Total Age Group Points + Relays
+[('OCC', 1622), ('SH', 885)]
+
+================================================
+================  Seven and Eights  ============
+================================================
+
+========================
+7/8 Girls
+========================
+
+7/8 Girls Free
+[('SH', 182), ('OCC', 51)]
+
+7/8 Girls Breast
+[('OCC', 118), ('SH', 115)]
+
+7/8 Girls Back
+[('SH', 134), ('OCC', 99)]
+
+7/8 Girls Fly
+[('SH', 134), ('OCC', 99)]
+
+7/8 Girls Medley Relay
+
+7/8 Girls Free Relay
+[('SH', 48), ('OCC', 42)]
+
+7/8 Girls Total Age Group Points
+[('SH', 771), ('OCC', 484)]
+
+========================
+7/8 Boys
+========================
+
+7/8 Boys Free
+[('SH', 150), ('OCC', 83)]
+
+7/8 Boys Breast
+[('SH', 139), ('OCC', 94)]
+
+7/8 Boys Back
+[('SH', 160), ('OCC', 73)]
+
+7/8 Boys Fly
+[('SH', 160), ('OCC', 73)]
+
+7/8 Boys Medley Relay
+
+7/8 Boys Free Relay
+[('OCC', 48), ('SH', 42)]
+
+7/8 Boys Total Age Group Points
+[('SH', 750), ('OCC', 577)]
+
+========================
+7/8 Girls and Boys
+========================
+
+7/8 Girls and Boys Free
+[('SH', 332), ('OCC', 134)]
+
+7/8 Girls and Boys Breast
+[('SH', 254), ('OCC', 212)]
+
+7/8 Girls and Boys Back
+[('SH', 294), ('OCC', 172)]
+
+7/8 Girls and Boys Fly
+[('SH', 326), ('OCC', 140)]
+
+7/8 Girls and Boys IM
+[('OCC', 313), ('SH', 225)]
+
+7/8 Girls and Boys Total Age Group Points + Relays
+[('SH', 1521), ('OCC', 1061)]
+
+================================================
+=========  8 and Under Girls and Boys  =========
+================================================
+
+8 and Under Girls and Boys Free
+[('SH', 569), ('OCC', 363)]
+
+8 and Under Girls and Boys Breast
+[('OCC', 723), ('SH', 412)]
+
+8 and Under Girls and Boys Back
+[('SH', 526), ('OCC', 406)]
+
+8 and Under Girls and Boys Fly
+[('OCC', 698), ('SH', 494)]
+
+8 and Under Girls and Boys IM
+[('OCC', 313), ('SH', 225)]
+
+8 and Under Girls and Boys Total Age Group Points + Relays
+[('OCC', 2683), ('SH', 2406)]
+
+================================================
+================   Nine and Tens   =============
+================================================
+
+========================
+9/10 Girls
+========================
+
+9/10 Girls Free
+[('SH', 121), ('OCC', 112)]
+
+9/10 Girls Breast
+[('OCC', 136), ('SH', 98)]
+
+9/10 Girls Back
+[('OCC', 133), ('SH', 100)]
+
+9/10 Girls Fly
+[('OCC', 133), ('SH', 100)]
+
+9/10 Girls Medley Relay
+
+9/10 Girls Free Relay
+[('SH', 48), ('OCC', 42)]
+
+9/10 Girls Total Age Group Points
+[('OCC', 715), ('SH', 631)]
+
+========================
+9/10 Boys
+========================
+
+9/10 Boys Free
+[('SH', 132), ('OCC', 101)]
+
+9/10 Boys Breast
+[('SH', 130), ('OCC', 103)]
+
+9/10 Boys Back
+[('OCC', 123), ('SH', 110)]
+
+9/10 Boys Fly
+[('OCC', 123), ('SH', 110)]
+
+9/10 Boys Medley Relay
+
+9/10 Boys Free Relay
+[('SH', 48), ('OCC', 42)]
+
+9/10 Boys Total Age Group Points
+[('SH', 658), ('OCC', 632)]
+
+========================
+9/10 Girls and Boys
+========================
+
+9/10 Girls and Boys Free
+[('SH', 253), ('OCC', 213)]
+
+9/10 Girls and Boys Breast
+[('OCC', 239), ('SH', 228)]
+
+9/10 Girls and Boys Back
+[('OCC', 256), ('SH', 210)]
+
+9/10 Girls and Boys Fly
+[('SH', 338), ('OCC', 253)]
+
+9/10 Girls and Boys IM
+[('OCC', 302), ('SH', 164)]
+
+9/10 Girls and Boys Total Age Group Points + Relays
+[('OCC', 1347), ('SH', 1289)]
+
+================================================
+===============  Eleven and Twelves  ===========
+================================================
+
+========================
+11/12 Girls
+========================
+
+11/12 Girls Free
+[('OCC', 128), ('SH', 105)]
+
+11/12 Girls Breast
+[('OCC', 150), ('SH', 83)]
+
+11/12 Girls Back
+[('OCC', 185), ('SH', 49)]
+
+11/12 Girls Fly
+[('OCC', 185), ('SH', 49)]
+
+11/12 Girls Medley Relay
+
+11/12 Girls Free Relay
+[('OCC', 48), ('SH', 42)]
+
+11/12 Girls Total Age Group Points
+[('OCC', 835), ('SH', 421)]
+
+========================
+11/12 Boys
+========================
+
+11/12 Boys Free
+[('SH', 160), ('OCC', 73)]
+
+11/12 Boys Breast
+[('SH', 166), ('OCC', 67)]
+
+11/12 Boys Back
+[('SH', 145), ('OCC', 89)]
+
+11/12 Boys Fly
+[('SH', 145), ('OCC', 89)]
+
+11/12 Boys Medley Relay
+
+11/12 Boys Free Relay
+[('SH', 48), ('OCC', 42)]
+
+11/12 Boys Total Age Group Points
+[('SH', 784), ('OCC', 495)]
+
+========================
+11/12 Girls and Boys
+========================
+
+11/12 Girls and Boys Free
+[('SH', 265), ('OCC', 201)]
+
+11/12 Girls and Boys Breast
+[('SH', 249), ('OCC', 217)]
+
+11/12 Girls and Boys Back
+[('OCC', 274), ('SH', 194)]
+
+11/12 Girls and Boys Fly
+[('OCC', 281), ('SH', 207)]
+
+11/12 Girls and Boys IM
+[('OCC', 267), ('SH', 200)]
+
+11/12 Girls and Boys Total Age Group Points + Relays
+[('OCC', 1330), ('SH', 1205)]
+
+================================================
+=========    9 to 12 Girls and Boys    =========
+================================================
+
+9 to 12 Girls and Boys Free
+[('SH', 518), ('OCC', 414)]
+
+9 to 12 Girls and Boys Breast
+[('SH', 477), ('OCC', 456)]
+
+9 to 12 Girls and Boys Back
+[('OCC', 530), ('SH', 404)]
+
+9 to 12 Girls and Boys Fly
+[('SH', 545), ('OCC', 534)]
+
+9 to 12 Girls and Boys IM
+[('OCC', 569), ('SH', 364)]
+
+9 to 12 Girls and Boys Total Age Group Points + Relays
+[('OCC', 2677), ('SH', 2494)]
+
+================================================
+=============  Thirteen and Fourteens  =========
+================================================
+
+========================
+13/14 Girls
+========================
+
+13/14 Girls Free
+[('OCC', 152), ('SH', 82)]
+
+13/14 Girls Breast
+[('OCC', 132), ('SH', 101)]
+
+13/14 Girls Back
+[('OCC', 140), ('SH', 93)]
+
+13/14 Girls Fly
+[('OCC', 140), ('SH', 93)]
+
+13/14 Girls Medley Relay
+
+13/14 Girls Free Relay
+[('OCC', 48), ('SH', 42)]
+
+13/14 Girls Total Age Group Points
+[('OCC', 835), ('SH', 441)]
+
+========================
+13/14 Boys
+========================
+
+13/14 Boys Free
+[('OCC', 154), ('SH', 84)]
+
+13/14 Boys Breast
+[('OCC', 221), ('SH', 66)]
+
+13/14 Boys Back
+[('OCC', 179), ('SH', 60)]
+
+13/14 Boys Fly
+[('OCC', 179), ('SH', 60)]
+
+13/14 Boys Medley Relay
+
+13/14 Boys Free Relay
+[('OCC', 48), ('SH', 42)]
+
+13/14 Boys Total Age Group Points
+[('OCC', 922), ('SH', 443)]
+
+========================
+13/14 Girls and Boys
+========================
+
+13/14 Girls and Boys Free
+[('OCC', 306), ('SH', 166)]
+
+13/14 Girls and Boys Breast
+[('OCC', 353), ('SH', 167)]
+
+13/14 Girls and Boys Back
+[('OCC', 319), ('SH', 153)]
+
+13/14 Girls and Boys Fly
+[('OCC', 337), ('SH', 185)]
+
+13/14 Girls and Boys IM
+[('OCC', 346), ('SH', 129)]
+
+13/14 Girls and Boys Total Age Group Points + Relays
+[('OCC', 1757), ('SH', 884)]
+
+================================================
+=============  Fifteen and Eighteens  ==========
+================================================
+
+========================
+15/18 Girls
+========================
+
+15/18 Girls Free
+[('OCC', 181), ('SH', 86)]
+
+15/18 Girls Breast
+[('OCC', 185), ('SH', 99)]
+
+15/18 Girls Back
+[('OCC', 189), ('SH', 44)]
+
+15/18 Girls Fly
+[('OCC', 189), ('SH', 44)]
+
+15/18 Girls Medley Relay
+
+15/18 Girls Free Relay
+[('OCC', 48), ('SH', 42)]
+
+15/18 Girls Total Age Group Points
+[('OCC', 994), ('SH', 358)]
+
+========================
+15/18 Boys
+========================
+
+15/18 Boys Free
+[('OCC', 146), ('SH', 87)]
+
+15/18 Boys Breast
+[('OCC', 159), ('SH', 94)]
+
+15/18 Boys Back
+[('OCC', 164), ('SH', 94)]
+
+15/18 Boys Fly
+[('OCC', 164), ('SH', 94)]
+
+15/18 Boys Medley Relay
+
+15/18 Boys Free Relay
+[('OCC', 48), ('SH', 42)]
+
+15/18 Boys Total Age Group Points + Relays
+[('OCC', 856), ('SH', 503)]
+
+========================
+15/18 Girls and Boys
+========================
+
+15/18 Girls and Boys Free
+[('OCC', 327), ('SH', 173)]
+
+15/18 Girls and Boys Breast
+[('OCC', 344), ('SH', 193)]
+
+15/18 Girls and Boys Back
+[('OCC', 353), ('SH', 138)]
+
+15/18 Girls and Boys Fly
+[('OCC', 337), ('SH', 161)]
+
+15/18 Girls and Boys IM
+[('OCC', 393), ('SH', 112)]
+
+15/18 Girls and Boys Total Age Group Points + Relays
+[('OCC', 1850), ('SH', 861)]
+
+================================================
+=========    13 and Up Girls and Boys    =======
+================================================
+
+13 and Up Girls and Boys Free
+[('OCC', 633), ('SH', 339)]
+
+13 and Up Girls and Boys Breast
+[('OCC', 697), ('SH', 360)]
+
+13 and Up Girls and Boys Back
+[('OCC', 672), ('SH', 291)]
+
+13 and Up Girls and Boys Fly
+[('OCC', 674), ('SH', 346)]
+
+13 and Up Girls and Boys IM
+[('OCC', 739), ('SH', 241)]
+
+13 and Up Girls and Boys Total Age Group Points + Relays
+[('OCC', 3607), ('SH', 1745)]
+
+
+
+================================================
+============    Team Stroke Scores    ==========
+================================================
+
+Team Freestyle
+[('SH', 1426), ('OCC', 1410)]
+
+Team Breastroke
+[('OCC', 1876), ('SH', 1249)]
+
+Team Backstroke
+[('OCC', 1608), ('SH', 1221)]
+
+Team Butterfly
+[('OCC', 1906), ('SH', 1385)]
+
+Team IM
+[('OCC', 1621), ('SH', 830)]
+
+Team Medley Relays
+
+Team Free Relays
+
+[('OCC', 546), ('SH', 534)]
+
+================================================
+============    Total Team Scores     ==========
+================================================
+
+[('OCC', 8967), ('SH', 6645)]

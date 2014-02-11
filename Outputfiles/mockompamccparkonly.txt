@@ -1,0 +1,2321 @@
+mockompamccparkonly
+========================================================================
+========================       MOCK OMPA        ========================
+========================================================================
+
+========================
+6/Under Girls Free:
+========================
+1 {'MCC': 17.81} Points:24
+2 {'MCC': 21.3} Points:21
+3 {'MCC': 23.14} Points:20
+4 {'MCC': 23.41} Points:19
+5 {'PARK': 23.59} Points:18
+6 {'MCC': 24.77} Points:17
+7 {'PARK': 25.35} Points:16
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+
+6/Under Girls Free Points: 
+[('MCC', 164), ('PARK', 94)]
+
+========================
+6/Under Girls Breast:
+========================
+1 {'MCC': 28.22} Points:24
+2 {'MCC': 29.72} Points:21
+3 {'PARK': 30.32} Points:20
+4 {'MCC': 31.0} Points:19
+5 {'MCC': 32.2} Points:18
+6 {'MCC': 32.77} Points:17
+7 {'MCC': 36.23} Points:16
+8 {'PARK': 38.61} Points:15
+9 {'PARK': 41.29} Points:14
+10 {'PARK': 41.97} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+
+6/Under Girls Breast Points: 
+[('MCC', 163), ('PARK', 84)]
+
+========================
+6/Under Girls Back:
+========================
+1 {'PARK': 26.01} Points:24
+2 {'MCC': 26.24} Points:21
+3 {'MCC': 27.47} Points:20
+4 {'MCC': 27.6} Points:19
+5 {'PARK': 28.09} Points:18
+6 {'MCC': 28.15} Points:17
+7 {'MCC': 28.44} Points:16
+8 {'MCC': 28.47} Points:15
+9 {'PARK': 28.94} Points:14
+10 {'MCC': 30.14} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+6/Under Girls Back Points: 
+[('MCC', 156), ('PARK', 89)]
+
+========================
+6/Under Girls Fly:
+========================
+1 {'MCC': 22.09} Points:24
+2 {'PARK': 27.39} Points:21
+3 {'PARK': 1000} Points:20
+3 {'PARK': 1000} Points:20
+3 {'PARK': 1000} Points:20
+3 {'PARK': 1000} Points:20
+3 {'PARK': 1000} Points:20
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+8 {'MCC': 1000} Points:15
+
+6/Under Girls Fly Points: 
+[('MCC', 189), ('PARK', 121)]
+
+========================
+6/Under Girls Free Relay:
+========================
+1 {'MCC': 85.66} Points:48
+2 {'PARK': 1072.6699999999998} Points:42
+
+6/Under Girls Free Relay Points: 
+[('MCC', 48), ('PARK', 42)]
+
+========================
+6/Under Boys Free:
+========================
+1 {'MCC': 18.56} Points:24
+2 {'MCC': 19.85} Points:21
+3 {'MCC': 22.25} Points:20
+4 {'MCC': 22.89} Points:19
+5 {'PARK': 23.25} Points:18
+6 {'MCC': 23.37} Points:17
+7 {'PARK': 23.77} Points:16
+8 {'MCC': 23.85} Points:15
+9 {'PARK': 23.9} Points:14
+10 {'MCC': 24.03} Points:13
+11 {'MCC': 24.73} Points:11
+12 {'PARK': 25.01} Points:9
+13 {'MCC': 25.99} Points:8
+14 {'MCC': 26.42} Points:7
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+
+6/Under Boys Free Points: 
+[('MCC', 163), ('PARK', 87)]
+
+========================
+6/Under BoysBoys Breast:
+========================
+1 {'MCC': 24.72} Points:24
+2 {'MCC': 27.48} Points:21
+3 {'PARK': 28.84} Points:20
+4 {'MCC': 29.87} Points:19
+5 {'MCC': 32.05} Points:18
+6 {'PARK': 33.85} Points:17
+7 {'MCC': 34.46} Points:16
+8 {'MCC': 34.48} Points:15
+9 {'MCC': 41.25} Points:14
+10 {'PARK': 42.02} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+
+6/Under Boys Breast Points: 
+[('MCC', 171), ('PARK', 116)]
+
+========================
+6/Under Boys Back:
+========================
+1 {'MCC': 23.56} Points:24
+2 {'MCC': 24.37} Points:21
+3 {'PARK': 25.91} Points:20
+4 {'MCC': 26.01} Points:19
+5 {'MCC': 27.1} Points:18
+6 {'MCC': 27.82} Points:17
+7 {'PARK': 28.2} Points:16
+8 {'MCC': 28.4} Points:15
+9 {'MCC': 28.53} Points:14
+10 {'PARK': 30.99} Points:13
+11 {'MCC': 31.31} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+6/Under Boys Back Points: 
+[('MCC', 169), ('PARK', 103)]
+
+========================
+6/Under Boys Fly:
+========================
+1 {'MCC': 22.67} Points:24
+2 {'MCC': 25.1} Points:21
+3 {'PARK': 25.23} Points:20
+4 {'PARK': 27.98} Points:19
+5 {'MCC': 28.11} Points:18
+6 {'MCC': 29.13} Points:17
+7 {'MCC': 33.14} Points:16
+8 {'PARK': 34.65} Points:15
+9 {'PARK': 35.79} Points:14
+10 {'PARK': 36.08} Points:13
+11 {'MCC': 38.16} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+6/Under Boys Fly Points: 
+[('MCC', 167), ('PARK', 117)]
+
+========================
+6/Under Boys Free Relay:
+========================
+1 {'MCC': 79.74000000000001} Points:48
+2 {'PARK': 93.49000000000001} Points:42
+
+6/Under Boys Free Relay Points: 
+[('MCC', 48), ('PARK', 42)]
+
+========================
+7/8 Girls Free:
+========================
+1 {'MCC': 16.01} Points:24
+2 {'MCC': 16.24} Points:21
+3 {'MCC': 16.48} Points:20
+4 {'MCC': 16.58} Points:19
+5 {'MCC': 16.82} Points:18
+6 {'MCC': 17.01} Points:17
+7 {'PARK': 17.44} Points:16
+8 {'PARK': 17.67} Points:15
+9 {'MCC': 17.73} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+7/8 Girls Free Points: 
+[('MCC', 168), ('PARK', 109)]
+
+========================
+7/8 Girls Breast:
+========================
+1 {'PARK': 21.78} Points:24
+2 {'MCC': 21.95} Points:21
+3 {'PARK': 22.54} Points:20
+4 {'MCC': 22.77} Points:19
+5 {'PARK': 23.84} Points:18
+6 {'PARK': 24.34} Points:17
+7 {'MCC': 24.46} Points:16
+8 {'MCC': 24.49} Points:15
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+
+7/8 Girls Breast Points: 
+[('MCC', 151), ('PARK', 135)]
+
+========================
+7/8 Girls Back:
+========================
+1 {'PARK': 19.91} Points:24
+2 {'MCC': 20.04} Points:21
+3 {'MCC': 20.14} Points:20
+4 {'MCC': 20.15} Points:19
+5 {'MCC': 20.39} Points:18
+6 {'MCC': 20.95} Points:17
+7 {'PARK': 21.24} Points:16
+8 {'PARK': 21.41} Points:15
+9 {'PARK': 21.48} Points:14
+10 {'MCC': 21.85} Points:13
+11 {'MCC': 22.01} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+7/8 Girls Back Points: 
+[('MCC', 154), ('PARK', 105)]
+
+========================
+7/8 Girls Fly:
+========================
+1 {'PARK': 17.74} Points:24
+2 {'PARK': 17.8} Points:21
+3 {'MCC': 17.87} Points:20
+4 {'MCC': 17.96} Points:19
+5 {'MCC': 18.36} Points:18
+6 {'MCC': 18.46} Points:17
+7 {'MCC': 19.96} Points:16
+8 {'PARK': 20.07} Points:15
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+7/8 Girls Fly Points: 
+[('MCC', 153), ('PARK', 130)]
+
+========================
+7/8 Girls IM:
+========================
+1 {'PARK': 93.87} Points:24
+2 {'MCC': 94.3} Points:21
+3 {'PARK': 98.61} Points:20
+4 {'MCC': 98.65} Points:19
+5 {'MCC': 100.83} Points:18
+6 {'MCC': 101.83} Points:17
+7 {'MCC': 102.77} Points:16
+8 {'PARK': 106.52} Points:15
+9 {'PARK': 107.37} Points:14
+10 {'MCC': 107.88} Points:13
+11 {'MCC': 108.85} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+7/8 Girls IM Points: 
+[('MCC', 150), ('PARK', 109)]
+
+========================
+7/8 Girls Free Relay:
+========================
+1 {'MCC': 65.31} Points:48
+2 {'PARK': 69.57} Points:42
+
+7/8 Girls Free Relay Points: 
+[('MCC', 48), ('PARK', 42)]
+
+========================
+7/8 Boys Free:
+========================
+1 {'MCC': 15.15} Points:24
+2 {'PARK': 15.6} Points:21
+3 {'MCC': 15.75} Points:20
+4 {'MCC': 15.94} Points:19
+5 {'MCC': 16.09} Points:18
+6 {'PARK': 16.85} Points:17
+7 {'MCC': 16.99} Points:16
+8 {'MCC': 17.13} Points:15
+9 {'MCC': 17.31} Points:14
+10 {'MCC': 17.64} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+7/8 Boys Free Points: 
+[('MCC', 179), ('PARK', 93)]
+
+========================
+7/8 Boys Breast:
+========================
+1 {'MCC': 19.44} Points:24
+2 {'PARK': 21.31} Points:21
+3 {'MCC': 22.19} Points:20
+4 {'MCC': 22.23} Points:19
+5 {'MCC': 22.34} Points:18
+6 {'MCC': 22.93} Points:17
+7 {'PARK': 23.32} Points:16
+8 {'MCC': 23.35} Points:15
+9 {'MCC': 23.39} Points:14
+10 {'MCC': 24.96} Points:13
+11 {'MCC': 25.68} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+
+7/8 Boys Breast Points: 
+[('MCC', 179), ('PARK', 82)]
+
+========================
+7/8 Boys Back:
+========================
+1 {'MCC': 19.45} Points:24
+2 {'MCC': 19.65} Points:21
+3 {'MCC': 20.51} Points:20
+4 {'MCC': 20.99} Points:19
+5 {'PARK': 21.47} Points:18
+6 {'MCC': 21.83} Points:17
+7 {'MCC': 22.01} Points:16
+8 {'PARK': 22.03} Points:15
+9 {'PARK': 22.22} Points:14
+10 {'MCC': 22.38} Points:13
+11 {'MCC': 22.6} Points:11
+12 {'MCC': 22.62} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+
+7/8 Boys Back Points: 
+[('MCC', 178), ('PARK', 79)]
+
+========================
+7/8 Boys Fly:
+========================
+1 {'PARK': 17.74} Points:24
+2 {'PARK': 17.81} Points:21
+3 {'MCC': 17.83} Points:20
+4 {'PARK': 18.09} Points:19
+5 {'PARK': 20.0} Points:18
+6 {'MCC': 20.16} Points:17
+7 {'MCC': 20.25} Points:16
+8 {'MCC': 20.4} Points:15
+9 {'MCC': 20.76} Points:14
+10 {'MCC': 22.03} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+7/8 Boys Fly Points: 
+[('MCC', 165), ('PARK', 115)]
+
+========================
+7/8 Boys IM:
+========================
+1 {'PARK': 89.8} Points:24
+2 {'MCC': 94.21} Points:21
+3 {'PARK': 95.19} Points:20
+4 {'MCC': 96.02} Points:19
+5 {'PARK': 96.68} Points:18
+6 {'MCC': 97.23} Points:17
+7 {'MCC': 101.21} Points:16
+8 {'MCC': 104.2} Points:15
+9 {'MCC': 105.69} Points:14
+10 {'PARK': 107.07} Points:13
+11 {'PARK': 107.11} Points:11
+12 {'PARK': 113.18} Points:9
+13 {'PARK': 1000} Points:8
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+7/8 Boys IM Points: 
+[('MCC', 172), ('PARK', 103)]
+
+========================
+7/8 Boys Free Relay:
+========================
+1 {'MCC': 62.93} Points:48
+2 {'PARK': 1048.51} Points:42
+
+7/8 Boys Free Relay Points: 
+[('MCC', 48), ('PARK', 42)]
+
+========================
+9/10 Girls Free:
+========================
+1 {'PARK': 28.19} Points:24
+2 {'PARK': 29.53} Points:21
+3 {'MCC': 29.6} Points:20
+4 {'MCC': 30.32} Points:19
+5 {'PARK': 31.37} Points:18
+6 {'MCC': 31.52} Points:17
+7 {'MCC': 31.88} Points:16
+8 {'MCC': 33.15} Points:15
+9 {'PARK': 33.4} Points:14
+10 {'MCC': 33.53} Points:13
+11 {'MCC': 34.11} Points:11
+12 {'MCC': 34.55} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+
+9/10 Girls Free Points: 
+[('MCC', 134), ('PARK', 125)]
+
+========================
+9/10 Girls Breast:
+========================
+1 {'MCC': 37.08} Points:24
+2 {'PARK': 37.51} Points:21
+3 {'MCC': 43.32} Points:20
+4 {'MCC': 43.98} Points:19
+5 {'MCC': 44.2} Points:18
+6 {'MCC': 44.63} Points:17
+7 {'MCC': 45.17} Points:16
+8 {'PARK': 46.05} Points:15
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+
+9/10 Girls Breast Points: 
+[('MCC', 150), ('PARK', 148)]
+
+========================
+9/10 Girls Back:
+========================
+1 {'MCC': 32.99} Points:24
+2 {'MCC': 34.63} Points:21
+3 {'PARK': 35.52} Points:20
+4 {'PARK': 35.78} Points:19
+5 {'MCC': 37.0} Points:18
+6 {'MCC': 37.44} Points:17
+7 {'MCC': 39.57} Points:16
+7 {'MCC': 39.57} Points:16
+9 {'PARK': 39.71} Points:14
+10 {'MCC': 39.78} Points:13
+11 {'MCC': 41.01} Points:11
+12 {'MCC': 41.64} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+
+9/10 Girls Back Points: 
+[('MCC', 151), ('PARK', 109)]
+
+========================
+9/10 Girls Fly:
+========================
+1 {'PARK': 30.63} Points:24
+2 {'MCC': 33.33} Points:21
+3 {'PARK': 33.52} Points:20
+4 {'PARK': 34.35} Points:19
+5 {'PARK': 36.15} Points:18
+6 {'MCC': 36.18} Points:17
+7 {'MCC': 36.44} Points:16
+8 {'MCC': 36.68} Points:15
+9 {'PARK': 36.83} Points:14
+10 {'PARK': 39.93} Points:13
+11 {'PARK': 40.64} Points:11
+12 {'MCC': 41.46} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+9/10 Girls Fly Points: 
+[('PARK', 143), ('MCC', 128)]
+
+========================
+9/10 Girls IM:
+========================
+1 {'PARK': 71.19} Points:24
+2 {'MCC': 73.62} Points:21
+3 {'PARK': 76.02} Points:20
+4 {'PARK': 76.76} Points:19
+5 {'MCC': 77.65} Points:18
+6 {'PARK': 81.35} Points:17
+7 {'MCC': 81.49} Points:16
+8 {'PARK': 81.85} Points:15
+9 {'PARK': 83.04} Points:14
+10 {'MCC': 83.74} Points:13
+11 {'MCC': 86.17} Points:11
+12 {'MCC': 87.68} Points:9
+13 {'MCC': 87.85} Points:8
+14 {'PARK': 90.48} Points:7
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+9/10 Girls IM Points: 
+[('PARK', 134), ('MCC', 120)]
+
+========================
+9/10 Girls Free Relay:
+========================
+1 {'PARK': 120.88} Points:48
+2 {'MCC': 123.32} Points:42
+
+9/10 Girls Free Relay Points: 
+[('PARK', 48), ('MCC', 42)]
+
+========================
+9/10 Boys Free:
+========================
+1 {'PARK': 30.24} Points:24
+2 {'MCC': 30.26} Points:21
+3 {'PARK': 30.94} Points:20
+4 {'MCC': 31.26} Points:19
+5 {'MCC': 31.53} Points:18
+6 {'MCC': 32.88} Points:17
+7 {'PARK': 32.9} Points:16
+8 {'PARK': 33.42} Points:15
+9 {'MCC': 33.55} Points:14
+10 {'MCC': 33.81} Points:13
+11 {'PARK': 33.89} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+
+9/10 Boys Free Points: 
+[('PARK', 149), ('MCC', 118)]
+
+========================
+9/10 Boys Breast:
+========================
+1 {'MCC': 39.82} Points:24
+2 {'PARK': 41.4} Points:21
+3 {'MCC': 42.38} Points:20
+4 {'PARK': 43.95} Points:19
+5 {'MCC': 44.87} Points:18
+6 {'MCC': 45.03} Points:17
+7 {'PARK': 45.77} Points:16
+8 {'MCC': 46.52} Points:15
+9 {'MCC': 46.76} Points:14
+10 {'PARK': 47.19} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+
+9/10 Boys Breast Points: 
+[('PARK', 157), ('MCC', 124)]
+
+========================
+9/10 Boys Back:
+========================
+1 {'PARK': 33.87} Points:24
+2 {'MCC': 35.44} Points:21
+3 {'PARK': 35.7} Points:20
+4 {'MCC': 37.07} Points:19
+5 {'MCC': 38.12} Points:18
+6 {'PARK': 38.19} Points:17
+7 {'MCC': 39.19} Points:16
+8 {'MCC': 39.39} Points:15
+9 {'MCC': 40.3} Points:14
+10 {'PARK': 41.09} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+
+9/10 Boys Back Points: 
+[('PARK', 162), ('MCC', 119)]
+
+========================
+9/10 Boys Fly:
+========================
+1 {'PARK': 33.16} Points:24
+2 {'MCC': 34.44} Points:21
+3 {'PARK': 35.54} Points:20
+4 {'PARK': 35.87} Points:19
+5 {'MCC': 36.79} Points:18
+6 {'PARK': 36.97} Points:17
+7 {'PARK': 37.2} Points:16
+8 {'MCC': 38.16} Points:15
+9 {'MCC': 38.19} Points:14
+10 {'MCC': 40.56} Points:13
+11 {'MCC': 40.61} Points:11
+12 {'MCC': 41.76} Points:9
+13 {'MCC': 42.04} Points:8
+14 {'MCC': 42.23} Points:7
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+
+9/10 Boys Fly Points: 
+[('PARK', 138), ('MCC', 116)]
+
+========================
+9/10 Boys IM:
+========================
+1 {'PARK': 73.64} Points:24
+2 {'MCC': 78.22} Points:21
+3 {'MCC': 80.62} Points:20
+4 {'PARK': 81.39} Points:19
+5 {'MCC': 81.88} Points:18
+6 {'PARK': 81.9} Points:17
+7 {'MCC': 81.94} Points:16
+8 {'PARK': 84.64} Points:15
+9 {'MCC': 86.65} Points:14
+10 {'PARK': 87.13} Points:13
+11 {'PARK': 87.95} Points:11
+12 {'PARK': 88.18} Points:9
+13 {'PARK': 89.23} Points:8
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+9/10 Boys IM Points: 
+[('PARK', 144), ('MCC', 116)]
+
+========================
+9/10 Boys Free Relay:
+========================
+1 {'PARK': 123.81} Points:48
+2 {'MCC': 124.52000000000001} Points:42
+
+9/10 Boys Free Relay Points: 
+[('PARK', 48), ('MCC', 42)]
+
+========================
+11/12 Girls Free:
+========================
+1 {'MCC': 27.4} Points:24
+2 {'PARK': 27.84} Points:21
+3 {'PARK': 28.47} Points:20
+4 {'PARK': 29.85} Points:19
+5 {'PARK': 29.86} Points:18
+6 {'PARK': 29.89} Points:17
+7 {'MCC': 29.94} Points:16
+8 {'MCC': 30.46} Points:15
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+11/12 Girls Free Points: 
+[('PARK', 165), ('MCC', 90)]
+
+========================
+11/12 Girls Breast:
+========================
+1 {'PARK': 34.08} Points:24
+2 {'PARK': 36.83} Points:21
+3 {'PARK': 36.87} Points:20
+4 {'PARK': 37.56} Points:19
+5 {'MCC': 37.86} Points:18
+6 {'PARK': 38.37} Points:17
+7 {'MCC': 38.71} Points:16
+8 {'MCC': 39.2} Points:15
+9 {'PARK': 41.25} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+11/12 Girls Breast Points: 
+[('PARK', 167), ('MCC', 84)]
+
+========================
+11/12 Girls Back:
+========================
+1 {'MCC': 31.52} Points:24
+2 {'MCC': 32.81} Points:21
+3 {'PARK': 33.6} Points:20
+4 {'MCC': 35.87} Points:19
+5 {'MCC': 35.92} Points:18
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+
+11/12 Girls Back Points: 
+[('PARK', 173), ('MCC', 106)]
+
+========================
+11/12 Girls Fly:
+========================
+1 {'MCC': 30.66} Points:24
+2 {'PARK': 31.22} Points:21
+3 {'PARK': 31.89} Points:20
+4 {'PARK': 31.97} Points:19
+5 {'PARK': 32.67} Points:18
+6 {'MCC': 32.7} Points:17
+7 {'PARK': 34.05} Points:16
+8 {'PARK': 34.49} Points:15
+9 {'MCC': 35.09} Points:14
+10 {'MCC': 35.18} Points:13
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+11 {'PARK': 1000} Points:11
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+
+11/12 Girls Fly Points: 
+[('PARK', 153), ('MCC', 92)]
+
+========================
+11/12 Girls IM:
+========================
+1 {'PARK': 68.31} Points:24
+2 {'PARK': 70.56} Points:21
+3 {'MCC': 72.7} Points:20
+4 {'PARK': 74.49} Points:19
+5 {'MCC': 74.65} Points:18
+6 {'PARK': 74.79} Points:17
+7 {'PARK': 75.18} Points:16
+8 {'PARK': 77.37} Points:15
+9 {'MCC': 78.4} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+14 {'MCC': 1000} Points:7
+
+11/12 Girls IM Points: 
+[('PARK', 164), ('MCC', 87)]
+
+========================
+11/12 Girls Free Relay:
+========================
+1 {'PARK': 115.75} Points:48
+2 {'MCC': 115.88} Points:42
+
+11/12 Girls Free Relay Points: 
+[('PARK', 48), ('MCC', 42)]
+
+========================
+11/12 Boys Free:
+========================
+1 {'PARK': 24.99} Points:24
+2 {'PARK': 28.13} Points:21
+3 {'PARK': 28.31} Points:20
+4 {'MCC': 28.77} Points:19
+5 {'MCC': 29.2} Points:18
+6 {'MCC': 29.23} Points:17
+7 {'MCC': 29.64} Points:16
+8 {'MCC': 29.83} Points:15
+9 {'PARK': 29.87} Points:14
+10 {'MCC': 30.02} Points:13
+11 {'MCC': 30.1} Points:11
+12 {'MCC': 30.22} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+20 {'MCC': 1000} Points:1
+
+11/12 Boys Free Points: 
+[('PARK', 135), ('MCC', 121)]
+
+========================
+11/12 Boys Breast:
+========================
+1 {'PARK': 33.87} Points:24
+2 {'PARK': 35.46} Points:21
+3 {'PARK': 36.52} Points:20
+4 {'PARK': 38.45} Points:19
+5 {'MCC': 39.86} Points:18
+6 {'PARK': 41.13} Points:17
+7 {'MCC': 41.81} Points:16
+8 {'MCC': 41.9} Points:15
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+
+11/12 Boys Breast Points: 
+[('PARK', 185), ('MCC', 97)]
+
+========================
+11/12 Boys Back:
+========================
+1 {'MCC': 33.93} Points:24
+2 {'PARK': 34.13} Points:21
+3 {'PARK': 34.18} Points:20
+4 {'MCC': 34.53} Points:19
+5 {'MCC': 35.02} Points:18
+6 {'PARK': 35.3} Points:17
+7 {'MCC': 36.56} Points:16
+8 {'MCC': 37.1} Points:15
+9 {'MCC': 37.13} Points:14
+10 {'PARK': 37.18} Points:13
+11 {'MCC': 37.51} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+
+11/12 Boys Back Points: 
+[('PARK', 134), ('MCC', 125)]
+
+========================
+11/12 Boys Fly:
+========================
+1 {'PARK': 29.69} Points:24
+2 {'MCC': 31.87} Points:21
+3 {'MCC': 32.49} Points:20
+4 {'MCC': 33.19} Points:19
+5 {'PARK': 33.47} Points:18
+6 {'PARK': 33.88} Points:17
+7 {'PARK': 33.93} Points:16
+8 {'PARK': 34.28} Points:15
+9 {'PARK': 35.51} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+
+11/12 Boys Fly Points: 
+[('PARK', 169), ('MCC', 108)]
+
+========================
+11/12 Boys IM:
+========================
+1 {'PARK': 67.2} Points:24
+2 {'PARK': 69.84} Points:21
+3 {'MCC': 73.36} Points:20
+4 {'PARK': 75.13} Points:19
+5 {'PARK': 75.35} Points:18
+6 {'PARK': 76.42} Points:17
+7 {'MCC': 78.46} Points:16
+8 {'PARK': 78.97} Points:15
+9 {'MCC': 79.26} Points:14
+10 {'MCC': 79.54} Points:13
+11 {'MCC': 80.13} Points:11
+12 {'MCC': 80.14} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+11/12 Boys IM Points: 
+[('PARK', 154), ('MCC', 98)]
+
+========================
+11/12 Boys Free Relay:
+========================
+1 {'PARK': 109.56} Points:48
+2 {'MCC': 116.84} Points:42
+
+11/12 Boys Free Relay Points: 
+[('PARK', 48), ('MCC', 42)]
+
+========================
+13/14 Girls Free:
+========================
+1 {'PARK': 25.73} Points:24
+2 {'MCC': 27.77} Points:21
+3 {'MCC': 28.05} Points:20
+4 {'MCC': 28.1} Points:19
+5 {'MCC': 28.45} Points:18
+6 {'PARK': 28.58} Points:17
+7 {'PARK': 28.78} Points:16
+8 {'MCC': 28.82} Points:15
+9 {'MCC': 28.88} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+13/14 Girls Free Points: 
+[('MCC', 137), ('PARK', 135)]
+
+========================
+13/14 Girls Breast:
+========================
+1 {'PARK': 34.56} Points:24
+2 {'MCC': 35.28} Points:21
+3 {'PARK': 35.57} Points:20
+4 {'MCC': 35.71} Points:19
+5 {'MCC': 37.17} Points:18
+6 {'PARK': 38.88} Points:17
+7 {'PARK': 1000} Points:16
+7 {'PARK': 1000} Points:16
+7 {'PARK': 1000} Points:16
+7 {'PARK': 1000} Points:16
+7 {'PARK': 1000} Points:16
+7 {'PARK': 1000} Points:16
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+13 {'MCC': 1000} Points:8
+
+13/14 Girls Breast Points: 
+[('PARK', 157), ('MCC', 130)]
+
+========================
+13/14 Girls Back:
+========================
+1 {'MCC': 29.97} Points:24
+2 {'MCC': 31.6} Points:21
+3 {'MCC': 31.96} Points:20
+4 {'MCC': 32.66} Points:19
+5 {'PARK': 32.97} Points:18
+6 {'MCC': 33.02} Points:17
+7 {'PARK': 33.04} Points:16
+8 {'MCC': 33.22} Points:15
+9 {'PARK': 34.97} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+16 {'MCC': 1000} Points:5
+
+13/14 Girls Back Points: 
+[('MCC', 146), ('PARK', 126)]
+
+========================
+13/14 Girls Fly:
+========================
+1 {'PARK': 28.28} Points:24
+2 {'MCC': 28.39} Points:21
+3 {'MCC': 29.42} Points:20
+4 {'MCC': 30.41} Points:19
+5 {'PARK': 30.67} Points:18
+6 {'PARK': 30.83} Points:17
+7 {'MCC': 31.46} Points:16
+8 {'PARK': 31.7} Points:15
+9 {'MCC': 31.96} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+
+13/14 Girls Fly Points: 
+[('PARK', 139), ('MCC', 132)]
+
+========================
+13/14 Girls IM:
+========================
+1 {'PARK': 66.38} Points:24
+2 {'MCC': 69.28} Points:21
+3 {'PARK': 69.41} Points:20
+4 {'MCC': 70.86} Points:19
+5 {'PARK': 71.62} Points:18
+6 {'MCC': 73.79} Points:17
+7 {'MCC': 75.06} Points:16
+8 {'MCC': 75.38} Points:15
+9 {'MCC': 75.55} Points:14
+10 {'MCC': 76.03} Points:13
+11 {'PARK': 76.18} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+
+13/14 Girls IM Points: 
+[('MCC', 135), ('PARK', 118)]
+
+========================
+13/14 Girls Free Relay:
+========================
+1 {'MCC': 111.24000000000001} Points:48
+2 {'PARK': 111.57} Points:42
+
+13/14 Girls Free Relay Points: 
+[('MCC', 48), ('PARK', 42)]
+
+========================
+13/14 Boys Free:
+========================
+1 {'PARK': 25.74} Points:24
+2 {'MCC': 26.26} Points:21
+3 {'MCC': 26.64} Points:20
+4 {'PARK': 27.45} Points:19
+5 {'MCC': 27.55} Points:18
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+10 {'MCC': 1000} Points:13
+10 {'MCC': 1000} Points:13
+10 {'MCC': 1000} Points:13
+10 {'MCC': 1000} Points:13
+
+13/14 Boys Free Points: 
+[('MCC', 111), ('PARK', 111)]
+
+========================
+13/14 Boys Breast:
+========================
+1 {'MCC': 31.91} Points:24
+2 {'MCC': 33.13} Points:21
+3 {'PARK': 33.21} Points:20
+4 {'PARK': 33.71} Points:19
+5 {'MCC': 34.05} Points:18
+6 {'MCC': 34.91} Points:17
+7 {'MCC': 35.64} Points:16
+8 {'PARK': 37.16} Points:15
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+9 {'PARK': 1000} Points:14
+12 {'MCC': 1000} Points:9
+12 {'MCC': 1000} Points:9
+
+13/14 Boys Breast Points: 
+[('MCC', 114), ('PARK', 96)]
+
+========================
+13/14 Boys Back:
+========================
+1 {'PARK': 30.27} Points:24
+2 {'MCC': 32.83} Points:21
+3 {'MCC': 32.92} Points:20
+4 {'PARK': 33.69} Points:19
+5 {'PARK': 1000} Points:18
+5 {'PARK': 1000} Points:18
+5 {'PARK': 1000} Points:18
+5 {'PARK': 1000} Points:18
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+
+13/14 Boys Back Points: 
+[('PARK', 115), ('MCC', 111)]
+
+========================
+13/14 Boys Fly:
+========================
+1 {'MCC': 28.44} Points:24
+2 {'PARK': 28.57} Points:21
+3 {'PARK': 29.31} Points:20
+4 {'PARK': 30.26} Points:19
+5 {'PARK': 30.62} Points:18
+6 {'PARK': 31.05} Points:17
+7 {'MCC': 31.59} Points:16
+8 {'MCC': 31.71} Points:15
+9 {'MCC': 31.89} Points:14
+10 {'PARK': 1000} Points:13
+11 {'MCC': 1000} Points:11
+11 {'MCC': 1000} Points:11
+11 {'MCC': 1000} Points:11
+
+13/14 Boys Fly Points: 
+[('PARK', 108), ('MCC', 102)]
+
+========================
+13/14 Boys IM:
+========================
+1 {'MCC': 66.38} Points:24
+2 {'PARK': 67.33} Points:21
+3 {'MCC': 67.99} Points:20
+4 {'PARK': 68.08} Points:19
+5 {'PARK': 72.61} Points:18
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+9 {'MCC': 1000} Points:14
+
+13/14 Boys IM Points: 
+[('MCC', 114), ('PARK', 109)]
+
+========================
+13/14 Boys Free Relay:
+========================
+1 {'MCC': 106.45} Points:48
+2 {'PARK': 1079.91} Points:42
+
+13/14 Boys Free Relay Points: 
+[('MCC', 48), ('PARK', 42)]
+
+========================
+15/18 Girls Free:
+========================
+1 {'PARK': 25.48} Points:24
+2 {'PARK': 25.79} Points:21
+3 {'PARK': 26.73} Points:20
+4 {'MCC': 26.89} Points:19
+5 {'MCC': 27.2} Points:18
+6 {'PARK': 27.55} Points:17
+7 {'MCC': 27.55} Points:16
+8 {'MCC': 27.72} Points:15
+9 {'PARK': 27.81} Points:14
+10 {'PARK': 27.99} Points:13
+11 {'MCC': 28.13} Points:11
+12 {'PARK': 28.15} Points:9
+13 {'MCC': 28.5} Points:8
+14 {'MCC': 28.52} Points:7
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+
+15/18 Girls Free Points: 
+[('PARK', 160), ('MCC', 94)]
+
+========================
+15/18 Girls Breast:
+========================
+1 {'PARK': 34.04} Points:24
+2 {'MCC': 34.84} Points:21
+3 {'PARK': 36.89} Points:20
+4 {'MCC': 37.1} Points:19
+5 {'PARK': 37.3} Points:18
+6 {'MCC': 37.79} Points:17
+7 {'MCC': 38.28} Points:16
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+8 {'PARK': 1000} Points:15
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+19 {'MCC': 1000} Points:2
+
+15/18 Girls Breast Points: 
+[('PARK', 227), ('MCC', 89)]
+
+========================
+15/18 Girls Back:
+========================
+1 {'PARK': 29.05} Points:24
+2 {'PARK': 30.37} Points:21
+3 {'PARK': 30.78} Points:20
+4 {'PARK': 32.24} Points:19
+5 {'MCC': 32.38} Points:18
+6 {'PARK': 32.42} Points:17
+7 {'MCC': 32.52} Points:16
+8 {'MCC': 32.77} Points:15
+9 {'PARK': 32.93} Points:14
+10 {'MCC': 33.07} Points:13
+11 {'MCC': 33.52} Points:11
+12 {'MCC': 34.12} Points:9
+13 {'PARK': 34.13} Points:8
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+14 {'PARK': 1000} Points:7
+
+15/18 Girls Back Points: 
+[('PARK', 172), ('MCC', 82)]
+
+========================
+15/18 Girls Fly:
+========================
+1 {'PARK': 27.47} Points:24
+2 {'PARK': 27.59} Points:21
+3 {'PARK': 28.41} Points:20
+4 {'PARK': 29.56} Points:19
+5 {'PARK': 30.0} Points:18
+6 {'MCC': 30.14} Points:17
+7 {'PARK': 30.46} Points:16
+8 {'MCC': 30.9} Points:15
+9 {'PARK': 30.93} Points:14
+10 {'MCC': 30.93} Points:13
+11 {'PARK': 31.13} Points:11
+12 {'PARK': 31.47} Points:9
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+13 {'PARK': 1000} Points:8
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+15/18 Girls Fly Points: 
+[('PARK', 192), ('MCC', 72)]
+
+========================
+15/18 Girls IM:
+========================
+1 {'PARK': 64.28} Points:24
+2 {'MCC': 66.74} Points:21
+3 {'PARK': 67.13} Points:20
+4 {'PARK': 71.46} Points:19
+5 {'PARK': 71.88} Points:18
+6 {'PARK': 71.93} Points:17
+7 {'PARK': 73.56} Points:16
+8 {'PARK': 73.84} Points:15
+9 {'MCC': 74.02} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+17 {'MCC': 1000} Points:4
+
+15/18 Girls IM Points: 
+[('PARK', 220), ('MCC', 75)]
+
+========================
+15/18 Girls Free Relay:
+========================
+1 {'PARK': 103.87} Points:48
+2 {'MCC': 109.36} Points:42
+
+15/18 Girls Free Relay Points: 
+[('PARK', 48), ('MCC', 42)]
+
+========================
+15/18 Boys Free:
+========================
+1 {'PARK': 21.39} Points:24
+2 {'MCC': 22.61} Points:21
+3 {'PARK': 22.86} Points:20
+4 {'MCC': 22.88} Points:19
+5 {'PARK': 23.44} Points:18
+6 {'MCC': 23.78} Points:17
+7 {'MCC': 24.4} Points:16
+8 {'PARK': 24.45} Points:15
+9 {'MCC': 24.71} Points:14
+10 {'PARK': 24.94} Points:13
+11 {'PARK': 25.48} Points:11
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+12 {'PARK': 1000} Points:9
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+15/18 Boys Free Points: 
+[('PARK', 155), ('MCC', 108)]
+
+========================
+15/18 Boys Breast:
+========================
+1 {'PARK': 29.87} Points:24
+2 {'MCC': 30.54} Points:21
+3 {'MCC': 32.27} Points:20
+4 {'PARK': 32.29} Points:19
+5 {'PARK': 33.21} Points:18
+6 {'MCC': 33.51} Points:17
+7 {'PARK': 34.09} Points:16
+8 {'MCC': 34.27} Points:15
+9 {'MCC': 34.3} Points:14
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+10 {'PARK': 1000} Points:13
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+18 {'MCC': 1000} Points:3
+
+15/18 Boys Breast Points: 
+[('PARK', 181), ('MCC', 108)]
+
+========================
+15/18 Boys Back:
+========================
+1 {'PARK': 24.8} Points:24
+2 {'MCC': 25.85} Points:21
+3 {'MCC': 26.08} Points:20
+4 {'MCC': 26.33} Points:19
+5 {'PARK': 26.43} Points:18
+6 {'MCC': 27.27} Points:17
+7 {'PARK': 27.66} Points:16
+8 {'MCC': 29.47} Points:15
+9 {'MCC': 29.59} Points:14
+10 {'PARK': 30.83} Points:13
+11 {'MCC': 31.28} Points:11
+12 {'MCC': 31.38} Points:9
+13 {'PARK': 31.76} Points:8
+14 {'PARK': 32.38} Points:7
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+15 {'PARK': 1000} Points:6
+
+15/18 Boys Back Points: 
+[('MCC', 126), ('PARK', 122)]
+
+========================
+15/18 Boys Fly:
+========================
+1 {'PARK': 23.89} Points:24
+2 {'MCC': 24.06} Points:21
+3 {'PARK': 24.43} Points:20
+4 {'PARK': 24.69} Points:19
+5 {'MCC': 24.88} Points:18
+6 {'MCC': 25.16} Points:17
+7 {'PARK': 25.67} Points:16
+8 {'MCC': 26.49} Points:15
+9 {'PARK': 26.73} Points:14
+10 {'MCC': 27.04} Points:13
+11 {'MCC': 27.07} Points:11
+12 {'PARK': 27.22} Points:9
+13 {'MCC': 27.77} Points:8
+14 {'MCC': 28.18} Points:7
+15 {'PARK': 28.83} Points:6
+16 {'MCC': 29.0} Points:5
+17 {'PARK': 29.41} Points:4
+18 {'PARK': 1000} Points:3
+18 {'PARK': 1000} Points:3
+18 {'PARK': 1000} Points:3
+18 {'PARK': 1000} Points:3
+
+15/18 Boys Fly Points: 
+[('PARK', 124), ('MCC', 115)]
+
+========================
+15/18 Boys IM:
+========================
+1 {'MCC': 56.74} Points:24
+2 {'PARK': 57.74} Points:21
+3 {'MCC': 64.26} Points:20
+4 {'PARK': 65.45} Points:19
+5 {'PARK': 67.97} Points:18
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+6 {'PARK': 1000} Points:17
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+15 {'MCC': 1000} Points:6
+
+15/18 Boys IM Points: 
+[('PARK', 211), ('MCC', 104)]
+
+========================
+15/18 Boys Free Relay:
+========================
+1 {'PARK': 92.14} Points:48
+2 {'MCC': 93.64} Points:42
+
+15/18 Boys Free Relay Points: 
+[('PARK', 48), ('MCC', 42)]
+
+
+
+========================================================================
+========================    SCORING SUMMARY     ========================
+========================================================================
+
+================================================
+================   Six and Unders  =============
+================================================
+
+========================
+6/Under Girls
+========================
+
+6/Under Girls Free
+[('MCC', 164), ('PARK', 94)]
+
+6/Under Girls Breast
+[('MCC', 163), ('PARK', 84)]
+
+6/Under Girls Back
+[('MCC', 156), ('PARK', 89)]
+
+6/Under Girls Fly
+[('MCC', 156), ('PARK', 89)]
+
+6/Under Girls Medley Relay
+
+6/Under Girls Free Relay
+[('MCC', 48), ('PARK', 42)]
+
+6/Under Girls Total Age Group Points
+[('MCC', 720), ('PARK', 430)]
+
+========================
+6/Under Boys
+========================
+
+6/Under Boys Free
+[('MCC', 163), ('PARK', 87)]
+
+6/Under Boys Breast
+[('MCC', 171), ('PARK', 116)]
+
+6/Under Boys Back
+[('MCC', 169), ('PARK', 103)]
+
+6/Under Boys Fly
+[('MCC', 169), ('PARK', 103)]
+
+6/Under Boys Medley Relay
+
+6/Under Boys Free Relay
+[('MCC', 48), ('PARK', 42)]
+
+6/Under Boys Total Age Group Points
+[('MCC', 718), ('PARK', 465)]
+
+========================
+6/U Girls and Boys
+========================
+
+6/Under Girls and Boys Free
+[('MCC', 327), ('PARK', 181)]
+
+6/Under Girls and Boys Breast
+[('MCC', 334), ('PARK', 200)]
+
+6/Under Girls and Boys Back
+[('MCC', 325), ('PARK', 192)]
+
+6/Under Girls and Boys Fly
+[('MCC', 356), ('PARK', 238)]
+
+6/Under Girls and Boys Total Age Group Points + Relays
+[('MCC', 1438), ('PARK', 895)]
+
+================================================
+================  Seven and Eights  ============
+================================================
+
+========================
+7/8 Girls
+========================
+
+7/8 Girls Free
+[('MCC', 168), ('PARK', 109)]
+
+7/8 Girls Breast
+[('MCC', 151), ('PARK', 135)]
+
+7/8 Girls Back
+[('MCC', 154), ('PARK', 105)]
+
+7/8 Girls Fly
+[('MCC', 154), ('PARK', 105)]
+
+7/8 Girls Medley Relay
+
+7/8 Girls Free Relay
+[('MCC', 48), ('PARK', 42)]
+
+7/8 Girls Total Age Group Points
+[('MCC', 824), ('PARK', 630)]
+
+========================
+7/8 Boys
+========================
+
+7/8 Boys Free
+[('MCC', 179), ('PARK', 93)]
+
+7/8 Boys Breast
+[('MCC', 179), ('PARK', 82)]
+
+7/8 Boys Back
+[('MCC', 178), ('PARK', 79)]
+
+7/8 Boys Fly
+[('MCC', 178), ('PARK', 79)]
+
+7/8 Boys Medley Relay
+
+7/8 Boys Free Relay
+[('MCC', 48), ('PARK', 42)]
+
+7/8 Boys Total Age Group Points
+[('MCC', 921), ('PARK', 514)]
+
+========================
+7/8 Girls and Boys
+========================
+
+7/8 Girls and Boys Free
+[('MCC', 347), ('PARK', 202)]
+
+7/8 Girls and Boys Breast
+[('MCC', 330), ('PARK', 217)]
+
+7/8 Girls and Boys Back
+[('MCC', 332), ('PARK', 184)]
+
+7/8 Girls and Boys Fly
+[('MCC', 318), ('PARK', 245)]
+
+7/8 Girls and Boys IM
+[('MCC', 322), ('PARK', 212)]
+
+7/8 Girls and Boys Total Age Group Points + Relays
+[('MCC', 1745), ('PARK', 1144)]
+
+================================================
+=========  8 and Under Girls and Boys  =========
+================================================
+
+8 and Under Girls and Boys Free
+[('MCC', 674), ('PARK', 383)]
+
+8 and Under Girls and Boys Breast
+[('MCC', 664), ('PARK', 417)]
+
+8 and Under Girls and Boys Back
+[('MCC', 657), ('PARK', 376)]
+
+8 and Under Girls and Boys Fly
+[('MCC', 674), ('PARK', 483)]
+
+8 and Under Girls and Boys IM
+[('MCC', 322), ('PARK', 212)]
+
+8 and Under Girls and Boys Total Age Group Points + Relays
+[('MCC', 3183), ('PARK', 2039)]
+
+================================================
+================   Nine and Tens   =============
+================================================
+
+========================
+9/10 Girls
+========================
+
+9/10 Girls Free
+[('MCC', 134), ('PARK', 125)]
+
+9/10 Girls Breast
+[('MCC', 150), ('PARK', 148)]
+
+9/10 Girls Back
+[('MCC', 151), ('PARK', 109)]
+
+9/10 Girls Fly
+[('MCC', 151), ('PARK', 109)]
+
+9/10 Girls Medley Relay
+
+9/10 Girls Free Relay
+[('PARK', 48), ('MCC', 42)]
+
+9/10 Girls Total Age Group Points
+[('MCC', 725), ('PARK', 707)]
+
+========================
+9/10 Boys
+========================
+
+9/10 Boys Free
+[('PARK', 149), ('MCC', 118)]
+
+9/10 Boys Breast
+[('PARK', 157), ('MCC', 124)]
+
+9/10 Boys Back
+[('PARK', 162), ('MCC', 119)]
+
+9/10 Boys Fly
+[('PARK', 162), ('MCC', 119)]
+
+9/10 Boys Medley Relay
+
+9/10 Boys Free Relay
+[('PARK', 48), ('MCC', 42)]
+
+9/10 Boys Total Age Group Points
+[('PARK', 798), ('MCC', 635)]
+
+========================
+9/10 Girls and Boys
+========================
+
+9/10 Girls and Boys Free
+[('PARK', 274), ('MCC', 252)]
+
+9/10 Girls and Boys Breast
+[('PARK', 305), ('MCC', 274)]
+
+9/10 Girls and Boys Back
+[('PARK', 271), ('MCC', 270)]
+
+9/10 Girls and Boys Fly
+[('PARK', 281), ('MCC', 244)]
+
+9/10 Girls and Boys IM
+[('PARK', 278), ('MCC', 236)]
+
+9/10 Girls and Boys Total Age Group Points + Relays
+[('PARK', 1505), ('MCC', 1360)]
+
+================================================
+===============  Eleven and Twelves  ===========
+================================================
+
+========================
+11/12 Girls
+========================
+
+11/12 Girls Free
+[('PARK', 165), ('MCC', 90)]
+
+11/12 Girls Breast
+[('PARK', 167), ('MCC', 84)]
+
+11/12 Girls Back
+[('PARK', 173), ('MCC', 106)]
+
+11/12 Girls Fly
+[('PARK', 173), ('MCC', 106)]
+
+11/12 Girls Medley Relay
+
+11/12 Girls Free Relay
+[('PARK', 48), ('MCC', 42)]
+
+11/12 Girls Total Age Group Points
+[('PARK', 870), ('MCC', 501)]
+
+========================
+11/12 Boys
+========================
+
+11/12 Boys Free
+[('PARK', 135), ('MCC', 121)]
+
+11/12 Boys Breast
+[('PARK', 185), ('MCC', 97)]
+
+11/12 Boys Back
+[('PARK', 134), ('MCC', 125)]
+
+11/12 Boys Fly
+[('PARK', 134), ('MCC', 125)]
+
+11/12 Boys Medley Relay
+
+11/12 Boys Free Relay
+[('PARK', 48), ('MCC', 42)]
+
+11/12 Boys Total Age Group Points
+[('PARK', 825), ('MCC', 591)]
+
+========================
+11/12 Girls and Boys
+========================
+
+11/12 Girls and Boys Free
+[('PARK', 300), ('MCC', 211)]
+
+11/12 Girls and Boys Breast
+[('PARK', 352), ('MCC', 181)]
+
+11/12 Girls and Boys Back
+[('PARK', 307), ('MCC', 231)]
+
+11/12 Girls and Boys Fly
+[('PARK', 322), ('MCC', 200)]
+
+11/12 Girls and Boys IM
+[('PARK', 318), ('MCC', 185)]
+
+11/12 Girls and Boys Total Age Group Points + Relays
+[('PARK', 1695), ('MCC', 1092)]
+
+================================================
+=========    9 to 12 Girls and Boys    =========
+================================================
+
+9 to 12 Girls and Boys Free
+[('PARK', 574), ('MCC', 463)]
+
+9 to 12 Girls and Boys Breast
+[('PARK', 657), ('MCC', 455)]
+
+9 to 12 Girls and Boys Back
+[('PARK', 578), ('MCC', 501)]
+
+9 to 12 Girls and Boys Fly
+[('PARK', 603), ('MCC', 444)]
+
+9 to 12 Girls and Boys IM
+[('PARK', 596), ('MCC', 421)]
+
+9 to 12 Girls and Boys Total Age Group Points + Relays
+[('PARK', 3200), ('MCC', 2452)]
+
+================================================
+=============  Thirteen and Fourteens  =========
+================================================
+
+========================
+13/14 Girls
+========================
+
+13/14 Girls Free
+[('MCC', 137), ('PARK', 135)]
+
+13/14 Girls Breast
+[('PARK', 157), ('MCC', 130)]
+
+13/14 Girls Back
+[('MCC', 146), ('PARK', 126)]
+
+13/14 Girls Fly
+[('MCC', 146), ('PARK', 126)]
+
+13/14 Girls Medley Relay
+
+13/14 Girls Free Relay
+[('MCC', 48), ('PARK', 42)]
+
+13/14 Girls Total Age Group Points
+[('MCC', 728), ('PARK', 717)]
+
+========================
+13/14 Boys
+========================
+
+13/14 Boys Free
+[('MCC', 111), ('PARK', 111)]
+
+13/14 Boys Breast
+[('MCC', 114), ('PARK', 96)]
+
+13/14 Boys Back
+[('PARK', 115), ('MCC', 111)]
+
+13/14 Boys Fly
+[('PARK', 115), ('MCC', 111)]
+
+13/14 Boys Medley Relay
+
+13/14 Boys Free Relay
+[('MCC', 48), ('PARK', 42)]
+
+13/14 Boys Total Age Group Points
+[('MCC', 600), ('PARK', 581)]
+
+========================
+13/14 Girls and Boys
+========================
+
+13/14 Girls and Boys Free
+[('MCC', 248), ('PARK', 246)]
+
+13/14 Girls and Boys Breast
+[('PARK', 253), ('MCC', 244)]
+
+13/14 Girls and Boys Back
+[('MCC', 257), ('PARK', 241)]
+
+13/14 Girls and Boys Fly
+[('PARK', 247), ('MCC', 234)]
+
+13/14 Girls and Boys IM
+[('MCC', 249), ('PARK', 227)]
+
+13/14 Girls and Boys Total Age Group Points + Relays
+[('MCC', 1328), ('PARK', 1298)]
+
+================================================
+=============  Fifteen and Eighteens  ==========
+================================================
+
+========================
+15/18 Girls
+========================
+
+15/18 Girls Free
+[('PARK', 160), ('MCC', 94)]
+
+15/18 Girls Breast
+[('PARK', 227), ('MCC', 89)]
+
+15/18 Girls Back
+[('PARK', 172), ('MCC', 82)]
+
+15/18 Girls Fly
+[('PARK', 172), ('MCC', 82)]
+
+15/18 Girls Medley Relay
+
+15/18 Girls Free Relay
+[('PARK', 48), ('MCC', 42)]
+
+15/18 Girls Total Age Group Points
+[('PARK', 1019), ('MCC', 454)]
+
+========================
+15/18 Boys
+========================
+
+15/18 Boys Free
+[('PARK', 155), ('MCC', 108)]
+
+15/18 Boys Breast
+[('PARK', 181), ('MCC', 108)]
+
+15/18 Boys Back
+[('MCC', 126), ('PARK', 122)]
+
+15/18 Boys Fly
+[('MCC', 126), ('PARK', 122)]
+
+15/18 Boys Medley Relay
+
+15/18 Boys Free Relay
+[('PARK', 48), ('MCC', 42)]
+
+15/18 Boys Total Age Group Points + Relays
+[('PARK', 841), ('MCC', 603)]
+
+========================
+15/18 Girls and Boys
+========================
+
+15/18 Girls and Boys Free
+[('PARK', 315), ('MCC', 202)]
+
+15/18 Girls and Boys Breast
+[('PARK', 408), ('MCC', 197)]
+
+15/18 Girls and Boys Back
+[('PARK', 294), ('MCC', 208)]
+
+15/18 Girls and Boys Fly
+[('PARK', 316), ('MCC', 187)]
+
+15/18 Girls and Boys IM
+[('PARK', 431), ('MCC', 179)]
+
+15/18 Girls and Boys Total Age Group Points + Relays
+[('PARK', 1860), ('MCC', 1057)]
+
+================================================
+=========    13 and Up Girls and Boys    =======
+================================================
+
+13 and Up Girls and Boys Free
+[('PARK', 561), ('MCC', 450)]
+
+13 and Up Girls and Boys Breast
+[('PARK', 661), ('MCC', 441)]
+
+13 and Up Girls and Boys Back
+[('PARK', 535), ('MCC', 465)]
+
+13 and Up Girls and Boys Fly
+[('PARK', 563), ('MCC', 421)]
+
+13 and Up Girls and Boys IM
+[('PARK', 658), ('MCC', 428)]
+
+13 and Up Girls and Boys Total Age Group Points + Relays
+[('PARK', 3158), ('MCC', 2385)]
+
+
+
+================================================
+============    Team Stroke Scores    ==========
+================================================
+
+Team Freestyle
+[('MCC', 1587), ('PARK', 1518)]
+
+Team Breastroke
+[('PARK', 1735), ('MCC', 1560)]
+
+Team Backstroke
+[('MCC', 1623), ('PARK', 1489)]
+
+Team Butterfly
+[('PARK', 1649), ('MCC', 1539)]
+
+Team IM
+[('PARK', 1466), ('MCC', 1171)]
+
+Team Medley Relays
+
+Team Free Relays
+
+[('MCC', 540), ('PARK', 540)]
+
+================================================
+============    Total Team Scores     ==========
+================================================
+
+[('PARK', 8397), ('MCC', 8020)]

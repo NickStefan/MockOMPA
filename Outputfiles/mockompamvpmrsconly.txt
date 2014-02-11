@@ -1,0 +1,2379 @@
+mockompamvpmrsconly
+========================================================================
+========================       MOCK OMPA        ========================
+========================================================================
+
+========================
+6/Under Girls Free:
+========================
+1 {'MRSC': 19.75} Points:24
+2 {'MRSC': 19.78} Points:21
+3 {'MRSC': 21.78} Points:20
+4 {'MRSC': 21.85} Points:19
+4 {'MRSC': 21.85} Points:19
+6 {'MVP': 22.0} Points:17
+7 {'MVP': 22.57} Points:16
+8 {'MVP': 24.26} Points:15
+9 {'MRSC': 24.27} Points:14
+10 {'MVP': 24.5} Points:13
+11 {'MVP': 26.26} Points:11
+12 {'MVP': 26.88} Points:9
+13 {'MRSC': 27.11} Points:8
+14 {'MVP': 27.44} Points:7
+15 {'MRSC': 27.8} Points:6
+16 {'MRSC': 28.92} Points:5
+17 {'MVP': 29.59} Points:4
+18 {'MVP': 30.14} Points:3
+19 {'MVP': 30.2} Points:2
+20 {'MRSC': 30.57} Points:1
+
+6/Under Girls Free Points: 
+[('MRSC', 137), ('MVP', 97)]
+
+========================
+6/Under Girls Breast:
+========================
+1 {'MVP': 29.54} Points:24
+2 {'MVP': 32.87} Points:21
+3 {'MVP': 36.42} Points:20
+4 {'MVP': 37.8} Points:19
+5 {'MVP': 38.85} Points:18
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+
+6/Under Girls Breast Points: 
+[('MRSC', 323), ('MVP', 102)]
+
+========================
+6/Under Girls Back:
+========================
+1 {'MVP': 25.39} Points:24
+2 {'MRSC': 25.48} Points:21
+3 {'MRSC': 25.97} Points:20
+4 {'MVP': 26.88} Points:19
+5 {'MRSC': 27.16} Points:18
+6 {'MVP': 29.43} Points:17
+7 {'MRSC': 29.77} Points:16
+8 {'MVP': 30.21} Points:15
+9 {'MRSC': 30.24} Points:14
+10 {'MVP': 31.19} Points:13
+11 {'MVP': 31.88} Points:11
+12 {'MRSC': 32.65} Points:9
+13 {'MRSC': 33.3} Points:8
+14 {'MRSC': 33.81} Points:7
+15 {'MRSC': 34.29} Points:6
+16 {'MRSC': 34.54} Points:5
+17 {'MVP': 34.69} Points:4
+18 {'MRSC': 37.24} Points:3
+19 {'MVP': 37.73} Points:2
+20 {'MVP': 38.74} Points:1
+
+6/Under Girls Back Points: 
+[('MRSC', 127), ('MVP', 106)]
+
+========================
+6/Under Girls Fly:
+========================
+1 {'MRSC': 22.51} Points:24
+2 {'MRSC': 25.92} Points:21
+3 {'MVP': 26.17} Points:20
+4 {'MVP': 26.41} Points:19
+5 {'MRSC': 27.13} Points:18
+6 {'MRSC': 27.16} Points:17
+7 {'MRSC': 29.64} Points:16
+8 {'MRSC': 30.87} Points:15
+9 {'MRSC': 31.88} Points:14
+10 {'MRSC': 33.77} Points:13
+11 {'MRSC': 38.95} Points:11
+12 {'MRSC': 47.36} Points:9
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+
+6/Under Girls Fly Points: 
+[('MRSC', 230), ('MVP', 39)]
+
+========================
+6/Under Girls Free Relay:
+========================
+1 {'MRSC': 83.16} Points:48
+2 {'MVP': 93.33000000000001} Points:42
+
+6/Under Girls Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+6/Under Boys Free:
+========================
+1 {'MRSC': 19.0} Points:24
+2 {'MRSC': 20.94} Points:21
+3 {'MVP': 21.33} Points:20
+4 {'MRSC': 24.52} Points:19
+5 {'MVP': 24.87} Points:18
+6 {'MRSC': 25.61} Points:17
+7 {'MVP': 26.34} Points:16
+8 {'MRSC': 28.14} Points:15
+9 {'MVP': 30.33} Points:14
+10 {'MVP': 31.78} Points:13
+11 {'MVP': 32.66} Points:11
+12 {'MVP': 34.99} Points:9
+13 {'MVP': 37.53} Points:8
+14 {'MRSC': 37.68} Points:7
+15 {'MRSC': 40.13} Points:6
+16 {'MVP': 41.51} Points:5
+17 {'MVP': 44.38} Points:4
+18 {'MVP': 46.89} Points:3
+19 {'MVP': 47.09} Points:2
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+
+6/Under Boys Free Points: 
+[('MVP', 123), ('MRSC', 114)]
+
+========================
+6/Under BoysBoys Breast:
+========================
+1 {'MRSC': 24.4} Points:24
+2 {'MRSC': 25.53} Points:21
+3 {'MRSC': 25.55} Points:20
+4 {'MVP': 28.35} Points:19
+5 {'MVP': 42.16} Points:18
+6 {'MVP': 50.19} Points:17
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+7 {'MRSC': 1000} Points:16
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+16 {'MVP': 1000} Points:5
+
+6/Under Boys Breast Points: 
+[('MRSC', 209), ('MVP', 119)]
+
+========================
+6/Under Boys Back:
+========================
+1 {'MRSC': 13.4} Points:24
+2 {'MVP': 25.19} Points:21
+3 {'MVP': 27.53} Points:20
+4 {'MVP': 30.83} Points:19
+5 {'MRSC': 31.94} Points:18
+6 {'MRSC': 32.04} Points:17
+7 {'MRSC': 33.63} Points:16
+8 {'MVP': 33.66} Points:15
+9 {'MVP': 37.72} Points:14
+10 {'MVP': 40.22} Points:13
+11 {'MRSC': 40.79} Points:11
+12 {'MVP': 41.25} Points:9
+13 {'MRSC': 44.76} Points:8
+14 {'MRSC': 50.12} Points:7
+15 {'MRSC': 50.19} Points:6
+16 {'MRSC': 99.03} Points:5
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+
+6/Under Boys Back Points: 
+[('MRSC', 124), ('MVP', 120)]
+
+========================
+6/Under Boys Fly:
+========================
+1 {'MVP': 22.7} Points:24
+2 {'MRSC': 26.89} Points:21
+3 {'MVP': 28.11} Points:20
+4 {'MVP': 29.71} Points:19
+5 {'MVP': 30.94} Points:18
+6 {'MRSC': 36.44} Points:17
+7 {'MRSC': 41.58} Points:16
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+
+6/Under Boys Fly Points: 
+[('MRSC', 189), ('MVP', 129)]
+
+========================
+6/Under Boys Free Relay:
+========================
+1 {'MRSC': 88.22} Points:48
+2 {'MVP': 92.63} Points:42
+
+6/Under Boys Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+7/8 Girls Free:
+========================
+1 {'MRSC': 15.93} Points:24
+2 {'MRSC': 16.74} Points:21
+3 {'MVP': 16.84} Points:20
+4 {'MRSC': 16.93} Points:19
+5 {'MVP': 16.95} Points:18
+6 {'MRSC': 17.19} Points:17
+7 {'MRSC': 17.26} Points:16
+8 {'MVP': 18.03} Points:15
+9 {'MRSC': 18.15} Points:14
+10 {'MRSC': 18.2} Points:13
+11 {'MRSC': 18.73} Points:11
+12 {'MVP': 19.53} Points:9
+13 {'MVP': 19.64} Points:8
+14 {'MVP': 19.75} Points:7
+15 {'MRSC': 19.85} Points:6
+16 {'MVP': 20.13} Points:5
+17 {'MVP': 20.15} Points:4
+18 {'MRSC': 20.23} Points:3
+19 {'MRSC': 20.24} Points:2
+20 {'MRSC': 20.54} Points:1
+
+7/8 Girls Free Points: 
+[('MRSC', 147), ('MVP', 86)]
+
+========================
+7/8 Girls Breast:
+========================
+1 {'MVP': 19.94} Points:24
+2 {'MVP': 21.01} Points:21
+3 {'MVP': 22.05} Points:20
+4 {'MRSC': 22.54} Points:19
+5 {'MRSC': 23.7} Points:18
+6 {'MVP': 23.77} Points:17
+7 {'MVP': 24.72} Points:16
+8 {'MRSC': 26.61} Points:15
+9 {'MRSC': 26.94} Points:14
+10 {'MRSC': 28.17} Points:13
+11 {'MRSC': 28.26} Points:11
+12 {'MRSC': 28.92} Points:9
+13 {'MRSC': 29.14} Points:8
+14 {'MVP': 29.42} Points:7
+15 {'MVP': 30.28} Points:6
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+
+7/8 Girls Breast Points: 
+[('MRSC', 167), ('MVP', 111)]
+
+========================
+7/8 Girls Back:
+========================
+1 {'MVP': 20.7} Points:24
+2 {'MRSC': 20.84} Points:21
+3 {'MRSC': 21.14} Points:20
+4 {'MRSC': 21.36} Points:19
+5 {'MRSC': 22.17} Points:18
+6 {'MRSC': 22.19} Points:17
+7 {'MVP': 22.87} Points:16
+8 {'MRSC': 23.59} Points:15
+9 {'MVP': 23.82} Points:14
+10 {'MVP': 24.22} Points:13
+11 {'MRSC': 24.27} Points:11
+12 {'MVP': 24.79} Points:9
+13 {'MRSC': 24.8} Points:8
+14 {'MRSC': 25.18} Points:7
+15 {'MVP': 25.48} Points:6
+16 {'MVP': 25.62} Points:5
+17 {'MRSC': 25.81} Points:4
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+
+7/8 Girls Back Points: 
+[('MRSC', 170), ('MVP', 87)]
+
+========================
+7/8 Girls Fly:
+========================
+1 {'MRSC': 17.86} Points:24
+2 {'MRSC': 18.09} Points:21
+3 {'MVP': 18.26} Points:20
+4 {'MVP': 18.43} Points:19
+5 {'MVP': 18.64} Points:18
+6 {'MRSC': 18.65} Points:17
+7 {'MRSC': 19.29} Points:16
+8 {'MVP': 19.38} Points:15
+9 {'MRSC': 19.81} Points:14
+10 {'MVP': 20.68} Points:13
+11 {'MRSC': 23.12} Points:11
+12 {'MVP': 24.08} Points:9
+13 {'MVP': 24.43} Points:8
+14 {'MVP': 25.12} Points:7
+15 {'MVP': 25.33} Points:6
+16 {'MRSC': 25.61} Points:5
+17 {'MVP': 25.61} Points:4
+18 {'MRSC': 25.93} Points:3
+19 {'MRSC': 26.15} Points:2
+20 {'MRSC': 26.63} Points:1
+
+7/8 Girls Fly Points: 
+[('MVP', 119), ('MRSC', 114)]
+
+========================
+7/8 Girls IM:
+========================
+1 {'MVP': 90.16} Points:24
+2 {'MVP': 92.67} Points:21
+3 {'MVP': 103.06} Points:20
+4 {'MVP': 107.45} Points:19
+5 {'MRSC': 107.55} Points:18
+6 {'MRSC': 107.83} Points:17
+7 {'MVP': 112.75} Points:16
+8 {'MVP': 114.2} Points:15
+9 {'MVP': 114.34} Points:14
+10 {'MVP': 114.7} Points:13
+11 {'MRSC': 119.63} Points:11
+12 {'MVP': 135.34} Points:9
+13 {'MRSC': 137.21} Points:8
+14 {'MRSC': 143.96} Points:7
+15 {'MRSC': 150.26} Points:6
+16 {'MRSC': 169.77} Points:5
+17 {'MRSC': 182.23} Points:4
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+
+7/8 Girls IM Points: 
+[('MVP', 151), ('MRSC', 112)]
+
+========================
+7/8 Girls Free Relay:
+========================
+1 {'MRSC': 66.79} Points:48
+2 {'MVP': 68.77000000000001} Points:42
+
+7/8 Girls Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+7/8 Boys Free:
+========================
+1 {'MRSC': 16.22} Points:24
+2 {'MVP': 16.46} Points:21
+3 {'MVP': 16.81} Points:20
+4 {'MRSC': 16.88} Points:19
+5 {'MVP': 17.52} Points:18
+6 {'MRSC': 17.73} Points:17
+7 {'MRSC': 18.76} Points:16
+8 {'MVP': 18.85} Points:15
+9 {'MRSC': 19.07} Points:14
+10 {'MRSC': 19.33} Points:13
+11 {'MRSC': 19.71} Points:11
+12 {'MRSC': 19.98} Points:9
+13 {'MRSC': 20.05} Points:8
+14 {'MVP': 20.28} Points:7
+15 {'MVP': 20.29} Points:6
+16 {'MVP': 20.75} Points:5
+17 {'MRSC': 20.97} Points:4
+18 {'MRSC': 21.34} Points:3
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+
+7/8 Boys Free Points: 
+[('MRSC', 152), ('MVP', 92)]
+
+========================
+7/8 Boys Breast:
+========================
+1 {'MVP': 19.96} Points:24
+2 {'MVP': 21.14} Points:21
+3 {'MVP': 23.29} Points:20
+4 {'MRSC': 24.63} Points:19
+5 {'MRSC': 25.06} Points:18
+6 {'MRSC': 26.01} Points:17
+7 {'MRSC': 27.06} Points:16
+8 {'MRSC': 28.29} Points:15
+9 {'MRSC': 29.35} Points:14
+10 {'MVP': 29.49} Points:13
+11 {'MRSC': 29.65} Points:11
+12 {'MVP': 31.24} Points:9
+13 {'MRSC': 32.23} Points:8
+14 {'MRSC': 33.31} Points:7
+15 {'MRSC': 34.35} Points:6
+16 {'MRSC': 35.5} Points:5
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+17 {'MRSC': 1000} Points:4
+
+7/8 Boys Breast Points: 
+[('MRSC', 164), ('MVP', 87)]
+
+========================
+7/8 Boys Back:
+========================
+1 {'MVP': 19.35} Points:24
+2 {'MVP': 20.87} Points:21
+3 {'MRSC': 21.06} Points:20
+4 {'MVP': 21.26} Points:19
+5 {'MRSC': 23.63} Points:18
+6 {'MVP': 24.56} Points:17
+7 {'MVP': 24.74} Points:16
+8 {'MRSC': 25.23} Points:15
+9 {'MVP': 26.01} Points:14
+10 {'MRSC': 26.2} Points:13
+11 {'MVP': 26.34} Points:11
+12 {'MRSC': 26.44} Points:9
+13 {'MVP': 26.52} Points:8
+14 {'MVP': 26.61} Points:7
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+
+7/8 Boys Back Points: 
+[('MRSC', 153), ('MVP', 137)]
+
+========================
+7/8 Boys Fly:
+========================
+1 {'MVP': 17.13} Points:24
+2 {'MVP': 17.38} Points:21
+3 {'MRSC': 19.08} Points:20
+4 {'MRSC': 19.49} Points:19
+5 {'MRSC': 19.98} Points:18
+6 {'MVP': 20.51} Points:17
+7 {'MVP': 20.94} Points:16
+8 {'MRSC': 21.74} Points:15
+9 {'MRSC': 22.05} Points:14
+10 {'MVP': 23.88} Points:13
+11 {'MRSC': 23.93} Points:11
+12 {'MVP': 25.86} Points:9
+13 {'MRSC': 26.03} Points:8
+14 {'MRSC': 26.65} Points:7
+15 {'MVP': 30.48} Points:6
+16 {'MVP': 30.72} Points:5
+17 {'MRSC': 30.86} Points:4
+18 {'MVP': 30.97} Points:3
+19 {'MRSC': 31.23} Points:2
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+
+7/8 Boys Fly Points: 
+[('MRSC', 126), ('MVP', 114)]
+
+========================
+7/8 Boys IM:
+========================
+1 {'MVP': 90.66} Points:24
+2 {'MVP': 93.4} Points:21
+3 {'MVP': 103.28} Points:20
+4 {'MRSC': 108.62} Points:19
+5 {'MRSC': 108.92} Points:18
+6 {'MVP': 110.64} Points:17
+7 {'MRSC': 118.0} Points:16
+8 {'MRSC': 124.1} Points:15
+9 {'MRSC': 148.82} Points:14
+10 {'MRSC': 168.65} Points:13
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+
+7/8 Boys IM Points: 
+[('MRSC', 227), ('MVP', 82)]
+
+========================
+7/8 Boys Free Relay:
+========================
+1 {'MVP': 67.13} Points:48
+2 {'MRSC': 69.59} Points:42
+
+7/8 Boys Free Relay Points: 
+[('MVP', 48), ('MRSC', 42)]
+
+========================
+9/10 Girls Free:
+========================
+1 {'MRSC': 29.89} Points:24
+2 {'MRSC': 33.82} Points:21
+3 {'MRSC': 33.83} Points:20
+4 {'MVP': 33.92} Points:19
+5 {'MRSC': 33.99} Points:18
+6 {'MRSC': 34.1} Points:17
+7 {'MVP': 34.13} Points:16
+8 {'MRSC': 34.65} Points:15
+9 {'MVP': 35.09} Points:14
+10 {'MRSC': 35.48} Points:13
+11 {'MVP': 36.76} Points:11
+12 {'MRSC': 36.91} Points:9
+13 {'MVP': 36.94} Points:8
+14 {'MVP': 38.2} Points:7
+15 {'MRSC': 38.67} Points:6
+16 {'MRSC': 38.72} Points:5
+17 {'MRSC': 39.07} Points:4
+18 {'MRSC': 39.19} Points:3
+19 {'MRSC': 39.2} Points:2
+19 {'MRSC': 39.2} Points:2
+
+9/10 Girls Free Points: 
+[('MRSC', 159), ('MVP', 75)]
+
+========================
+9/10 Girls Breast:
+========================
+1 {'MVP': 38.6} Points:24
+2 {'MRSC': 43.16} Points:21
+3 {'MRSC': 43.27} Points:20
+4 {'MRSC': 44.93} Points:19
+5 {'MVP': 46.04} Points:18
+6 {'MRSC': 46.16} Points:17
+7 {'MVP': 46.84} Points:16
+8 {'MVP': 47.81} Points:15
+9 {'MVP': 48.78} Points:14
+10 {'MRSC': 49.3} Points:13
+11 {'MVP': 49.79} Points:11
+12 {'MRSC': 51.2} Points:9
+13 {'MRSC': 51.27} Points:8
+14 {'MVP': 51.96} Points:7
+15 {'MRSC': 52.46} Points:6
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+
+9/10 Girls Breast Points: 
+[('MRSC', 193), ('MVP', 105)]
+
+========================
+9/10 Girls Back:
+========================
+1 {'MVP': 37.28} Points:24
+2 {'MRSC': 41.47} Points:21
+3 {'MRSC': 42.86} Points:20
+4 {'MRSC': 43.42} Points:19
+5 {'MVP': 45.14} Points:18
+6 {'MRSC': 45.71} Points:17
+7 {'MRSC': 45.72} Points:16
+8 {'MVP': 45.83} Points:15
+9 {'MRSC': 46.24} Points:14
+10 {'MVP': 46.98} Points:13
+11 {'MVP': 47.2} Points:11
+12 {'MRSC': 47.39} Points:9
+13 {'MVP': 47.56} Points:8
+14 {'MRSC': 47.88} Points:7
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+
+9/10 Girls Back Points: 
+[('MRSC', 219), ('MVP', 89)]
+
+========================
+9/10 Girls Fly:
+========================
+1 {'MVP': 34.63} Points:24
+2 {'MRSC': 35.16} Points:21
+3 {'MVP': 37.68} Points:20
+4 {'MRSC': 38.27} Points:19
+5 {'MVP': 38.47} Points:18
+6 {'MVP': 38.54} Points:17
+7 {'MRSC': 39.73} Points:16
+8 {'MRSC': 41.24} Points:15
+9 {'MVP': 42.44} Points:14
+10 {'MRSC': 42.53} Points:13
+11 {'MRSC': 43.38} Points:11
+12 {'MVP': 45.47} Points:9
+13 {'MRSC': 45.98} Points:8
+14 {'MRSC': 48.57} Points:7
+15 {'MVP': 48.57} Points:6
+16 {'MRSC': 49.33} Points:5
+17 {'MVP': 50.54} Points:4
+18 {'MRSC': 50.88} Points:3
+19 {'MRSC': 52.02} Points:2
+20 {'MVP': 52.47} Points:1
+
+9/10 Girls Fly Points: 
+[('MRSC', 120), ('MVP', 113)]
+
+========================
+9/10 Girls IM:
+========================
+1 {'MVP': 81.23} Points:24
+2 {'MVP': 83.96} Points:21
+3 {'MVP': 87.61} Points:20
+4 {'MRSC': 88.71} Points:19
+5 {'MRSC': 89.01} Points:18
+6 {'MVP': 90.02} Points:17
+7 {'MRSC': 90.84} Points:16
+8 {'MRSC': 93.68} Points:15
+9 {'MRSC': 93.92} Points:14
+10 {'MVP': 93.96} Points:13
+11 {'MVP': 94.31} Points:11
+12 {'MVP': 94.57} Points:9
+13 {'MRSC': 97.55} Points:8
+14 {'MVP': 98.37} Points:7
+15 {'MRSC': 98.78} Points:6
+16 {'MVP': 101.38} Points:5
+17 {'MRSC': 102.55} Points:4
+18 {'MRSC': 103.04} Points:3
+19 {'MVP': 103.66} Points:2
+20 {'MVP': 104.3} Points:1
+
+9/10 Girls IM Points: 
+[('MVP', 130), ('MRSC', 103)]
+
+========================
+9/10 Girls Free Relay:
+========================
+1 {'MRSC': 131.53} Points:48
+2 {'MVP': 135.59} Points:42
+
+9/10 Girls Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+9/10 Boys Free:
+========================
+1 {'MRSC': 29.34} Points:24
+2 {'MRSC': 29.65} Points:21
+3 {'MVP': 30.02} Points:20
+4 {'MRSC': 30.58} Points:19
+5 {'MRSC': 32.94} Points:18
+6 {'MRSC': 33.58} Points:17
+7 {'MRSC': 33.64} Points:16
+8 {'MRSC': 33.77} Points:15
+9 {'MRSC': 33.86} Points:14
+10 {'MRSC': 34.05} Points:13
+11 {'MVP': 34.54} Points:11
+12 {'MRSC': 34.8} Points:9
+13 {'MVP': 34.97} Points:8
+14 {'MVP': 35.03} Points:7
+15 {'MVP': 35.21} Points:6
+16 {'MRSC': 36.95} Points:5
+17 {'MRSC': 37.08} Points:4
+18 {'MVP': 38.36} Points:3
+19 {'MRSC': 39.3} Points:2
+19 {'MRSC': 39.3} Points:2
+
+9/10 Boys Free Points: 
+[('MRSC', 179), ('MVP', 55)]
+
+========================
+9/10 Boys Breast:
+========================
+1 {'MVP': 43.61} Points:24
+2 {'MRSC': 44.69} Points:21
+3 {'MRSC': 44.74} Points:20
+4 {'MVP': 48.6} Points:19
+5 {'MRSC': 49.03} Points:18
+6 {'MRSC': 49.59} Points:17
+7 {'MRSC': 50.69} Points:16
+8 {'MVP': 51.45} Points:15
+9 {'MRSC': 52.87} Points:14
+10 {'MRSC': 52.98} Points:13
+11 {'MRSC': 53.22} Points:11
+12 {'MRSC': 54.66} Points:9
+13 {'MVP': 55.49} Points:8
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+
+9/10 Boys Breast Points: 
+[('MRSC', 237), ('MVP', 66)]
+
+========================
+9/10 Boys Back:
+========================
+1 {'MRSC': 36.19} Points:24
+2 {'MRSC': 36.63} Points:21
+3 {'MRSC': 38.82} Points:20
+4 {'MRSC': 39.34} Points:19
+5 {'MRSC': 39.56} Points:18
+6 {'MRSC': 40.94} Points:17
+7 {'MRSC': 41.65} Points:16
+8 {'MRSC': 41.87} Points:15
+9 {'MRSC': 42.65} Points:14
+10 {'MVP': 42.92} Points:13
+11 {'MVP': 43.02} Points:11
+12 {'MRSC': 43.95} Points:9
+13 {'MRSC': 43.96} Points:8
+14 {'MRSC': 44.62} Points:7
+15 {'MRSC': 46.04} Points:6
+16 {'MRSC': 46.12} Points:5
+17 {'MRSC': 47.06} Points:4
+18 {'MVP': 47.6} Points:3
+19 {'MVP': 47.63} Points:2
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+
+9/10 Boys Back Points: 
+[('MRSC', 211), ('MVP', 29)]
+
+========================
+9/10 Boys Fly:
+========================
+1 {'MVP': 32.69} Points:24
+2 {'MRSC': 34.43} Points:21
+3 {'MRSC': 34.8} Points:20
+4 {'MRSC': 36.05} Points:19
+5 {'MRSC': 40.31} Points:18
+6 {'MVP': 41.22} Points:17
+7 {'MRSC': 42.72} Points:16
+8 {'MRSC': 46.54} Points:15
+9 {'MVP': 51.79} Points:14
+10 {'MRSC': 55.52} Points:13
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+
+9/10 Boys Fly Points: 
+[('MRSC', 298), ('MVP', 55)]
+
+========================
+9/10 Boys IM:
+========================
+1 {'MVP': 76.87} Points:24
+2 {'MRSC': 77.64} Points:21
+3 {'MRSC': 80.45} Points:20
+4 {'MVP': 86.64} Points:19
+5 {'MRSC': 86.73} Points:18
+6 {'MRSC': 86.79} Points:17
+7 {'MVP': 87.84} Points:16
+8 {'MRSC': 88.95} Points:15
+9 {'MRSC': 91.87} Points:14
+10 {'MVP': 94.22} Points:13
+11 {'MRSC': 96.84} Points:11
+12 {'MRSC': 98.99} Points:9
+13 {'MVP': 103.46} Points:8
+14 {'MRSC': 104.26} Points:7
+15 {'MRSC': 109.65} Points:6
+16 {'MRSC': 112.16} Points:5
+17 {'MVP': 115.03} Points:4
+18 {'MVP': 116.81} Points:3
+19 {'MRSC': 117.31} Points:2
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+20 {'MRSC': 1000} Points:1
+
+9/10 Boys IM Points: 
+[('MRSC', 156), ('MVP', 87)]
+
+========================
+9/10 Boys Free Relay:
+========================
+1 {'MRSC': 121.69} Points:48
+2 {'MVP': 134.56} Points:42
+
+9/10 Boys Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+11/12 Girls Free:
+========================
+1 {'MVP': 28.6} Points:24
+2 {'MRSC': 28.83} Points:21
+3 {'MRSC': 28.85} Points:20
+4 {'MRSC': 28.88} Points:19
+5 {'MRSC': 28.9} Points:18
+6 {'MRSC': 29.35} Points:17
+7 {'MRSC': 30.3} Points:16
+8 {'MRSC': 30.63} Points:15
+9 {'MVP': 31.89} Points:14
+10 {'MVP': 31.95} Points:13
+11 {'MRSC': 32.02} Points:11
+12 {'MRSC': 32.08} Points:9
+13 {'MRSC': 32.25} Points:8
+14 {'MVP': 32.45} Points:7
+15 {'MRSC': 32.5} Points:6
+16 {'MVP': 33.06} Points:5
+17 {'MVP': 33.15} Points:4
+18 {'MVP': 33.18} Points:3
+19 {'MVP': 33.2} Points:2
+20 {'MVP': 33.59} Points:1
+
+11/12 Girls Free Points: 
+[('MRSC', 160), ('MVP', 73)]
+
+========================
+11/12 Girls Breast:
+========================
+1 {'MVP': 38.73} Points:24
+2 {'MRSC': 39.92} Points:21
+3 {'MRSC': 40.53} Points:20
+4 {'MVP': 40.8} Points:19
+5 {'MRSC': 40.92} Points:18
+6 {'MRSC': 42.34} Points:17
+7 {'MVP': 43.95} Points:16
+8 {'MVP': 44.04} Points:15
+9 {'MRSC': 44.76} Points:14
+10 {'MVP': 44.87} Points:13
+11 {'MVP': 45.03} Points:11
+12 {'MRSC': 47.07} Points:9
+13 {'MVP': 47.91} Points:8
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+
+11/12 Girls Breast Points: 
+[('MRSC', 190), ('MVP', 106)]
+
+========================
+11/12 Girls Back:
+========================
+1 {'MRSC': 32.74} Points:24
+2 {'MRSC': 35.38} Points:21
+3 {'MVP': 37.0} Points:20
+4 {'MVP': 37.64} Points:19
+5 {'MVP': 38.4} Points:18
+6 {'MRSC': 38.45} Points:17
+7 {'MRSC': 39.68} Points:16
+8 {'MRSC': 39.92} Points:15
+9 {'MVP': 41.38} Points:14
+10 {'MRSC': 42.49} Points:13
+11 {'MRSC': 43.09} Points:11
+12 {'MRSC': 43.24} Points:9
+13 {'MVP': 44.22} Points:8
+14 {'MRSC': 44.49} Points:7
+15 {'MVP': 45.13} Points:6
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+
+11/12 Girls Back Points: 
+[('MRSC', 183), ('MVP', 85)]
+
+========================
+11/12 Girls Fly:
+========================
+1 {'MRSC': 30.64} Points:24
+2 {'MVP': 31.91} Points:21
+3 {'MRSC': 33.22} Points:20
+4 {'MRSC': 33.5} Points:19
+5 {'MRSC': 33.72} Points:18
+6 {'MRSC': 34.59} Points:17
+7 {'MVP': 34.99} Points:16
+8 {'MRSC': 36.48} Points:15
+9 {'MRSC': 36.51} Points:14
+10 {'MVP': 38.06} Points:13
+11 {'MVP': 38.6} Points:11
+12 {'MRSC': 40.31} Points:9
+13 {'MVP': 41.08} Points:8
+14 {'MVP': 41.49} Points:7
+15 {'MVP': 42.59} Points:6
+16 {'MRSC': 44.51} Points:5
+17 {'MVP': 46.64} Points:4
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+
+11/12 Girls Fly Points: 
+[('MRSC', 171), ('MVP', 86)]
+
+========================
+11/12 Girls IM:
+========================
+1 {'MRSC': 71.88} Points:24
+2 {'MVP': 74.73} Points:21
+3 {'MRSC': 75.06} Points:20
+4 {'MRSC': 75.12} Points:19
+5 {'MRSC': 75.59} Points:18
+6 {'MVP': 75.79} Points:17
+7 {'MRSC': 80.28} Points:16
+8 {'MVP': 81.44} Points:15
+9 {'MRSC': 83.49} Points:14
+10 {'MRSC': 84.49} Points:13
+11 {'MVP': 84.55} Points:11
+12 {'MRSC': 87.5} Points:9
+13 {'MVP': 87.93} Points:8
+14 {'MVP': 89.33} Points:7
+15 {'MRSC': 92.65} Points:6
+16 {'MRSC': 92.86} Points:5
+17 {'MVP': 98.2} Points:4
+18 {'MRSC': 112.72} Points:3
+19 {'MRSC': 119.36} Points:2
+20 {'MRSC': 124.87} Points:1
+
+11/12 Girls IM Points: 
+[('MRSC', 150), ('MVP', 83)]
+
+========================
+11/12 Girls Free Relay:
+========================
+1 {'MRSC': 115.46000000000001} Points:48
+2 {'MVP': 123.91} Points:42
+
+11/12 Girls Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+11/12 Boys Free:
+========================
+1 {'MRSC': 26.98} Points:24
+2 {'MRSC': 27.95} Points:21
+3 {'MRSC': 28.27} Points:20
+4 {'MVP': 29.69} Points:19
+5 {'MRSC': 29.98} Points:18
+6 {'MVP': 30.17} Points:17
+7 {'MRSC': 30.38} Points:16
+8 {'MRSC': 30.45} Points:15
+9 {'MRSC': 30.55} Points:14
+10 {'MVP': 31.11} Points:13
+11 {'MRSC': 32.06} Points:11
+12 {'MVP': 32.12} Points:9
+13 {'MRSC': 32.38} Points:8
+14 {'MVP': 32.58} Points:7
+15 {'MRSC': 32.94} Points:6
+16 {'MRSC': 33.03} Points:5
+17 {'MRSC': 33.55} Points:4
+18 {'MRSC': 33.59} Points:3
+19 {'MRSC': 34.17} Points:2
+20 {'MVP': 35.38} Points:1
+
+11/12 Boys Free Points: 
+[('MRSC', 167), ('MVP', 66)]
+
+========================
+11/12 Boys Breast:
+========================
+1 {'MRSC': 33.44} Points:24
+2 {'MRSC': 34.74} Points:21
+3 {'MRSC': 36.98} Points:20
+4 {'MVP': 39.54} Points:19
+5 {'MRSC': 40.05} Points:18
+6 {'MVP': 40.23} Points:17
+7 {'MRSC': 41.1} Points:16
+8 {'MVP': 41.12} Points:15
+9 {'MRSC': 41.95} Points:14
+10 {'MVP': 43.0} Points:13
+11 {'MRSC': 43.67} Points:11
+12 {'MRSC': 44.41} Points:9
+13 {'MRSC': 44.53} Points:8
+14 {'MVP': 44.83} Points:7
+15 {'MVP': 46.25} Points:6
+16 {'MVP': 47.69} Points:5
+17 {'MVP': 47.91} Points:4
+18 {'MVP': 48.12} Points:3
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+
+11/12 Boys Breast Points: 
+[('MRSC', 161), ('MVP', 89)]
+
+========================
+11/12 Boys Back:
+========================
+1 {'MRSC': 31.37} Points:24
+2 {'MRSC': 34.95} Points:21
+3 {'MVP': 35.14} Points:20
+4 {'MVP': 35.6} Points:19
+5 {'MRSC': 35.83} Points:18
+6 {'MRSC': 36.02} Points:17
+7 {'MRSC': 36.49} Points:16
+8 {'MRSC': 37.18} Points:15
+9 {'MRSC': 37.51} Points:14
+10 {'MVP': 37.66} Points:13
+11 {'MRSC': 38.68} Points:11
+12 {'MRSC': 40.1} Points:9
+13 {'MVP': 41.31} Points:8
+14 {'MRSC': 41.35} Points:7
+15 {'MRSC': 42.5} Points:6
+16 {'MRSC': 42.53} Points:5
+17 {'MRSC': 42.7} Points:4
+18 {'MVP': 47.14} Points:3
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+19 {'MRSC': 1000} Points:2
+
+11/12 Boys Back Points: 
+[('MRSC', 179), ('MVP', 63)]
+
+========================
+11/12 Boys Fly:
+========================
+1 {'MRSC': 29.67} Points:24
+2 {'MRSC': 31.74} Points:21
+3 {'MRSC': 32.2} Points:20
+4 {'MVP': 32.77} Points:19
+5 {'MRSC': 33.65} Points:18
+6 {'MVP': 33.84} Points:17
+7 {'MVP': 34.36} Points:16
+8 {'MRSC': 34.46} Points:15
+9 {'MRSC': 35.01} Points:14
+10 {'MRSC': 36.26} Points:13
+11 {'MRSC': 36.5} Points:11
+12 {'MRSC': 36.75} Points:9
+13 {'MRSC': 36.96} Points:8
+14 {'MRSC': 41.28} Points:7
+15 {'MRSC': 55.4} Points:6
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+
+11/12 Boys Fly Points: 
+[('MRSC', 201), ('MVP', 52)]
+
+========================
+11/12 Boys IM:
+========================
+1 {'MRSC': 68.68} Points:24
+2 {'MRSC': 71.65} Points:21
+3 {'MRSC': 76.36} Points:20
+4 {'MVP': 77.52} Points:19
+5 {'MRSC': 79.4} Points:18
+6 {'MVP': 80.04} Points:17
+7 {'MRSC': 80.11} Points:16
+8 {'MRSC': 80.28} Points:15
+9 {'MRSC': 84.13} Points:14
+10 {'MVP': 85.79} Points:13
+11 {'MRSC': 90.07} Points:11
+12 {'MVP': 90.79} Points:9
+13 {'MVP': 91.05} Points:8
+14 {'MRSC': 104.24} Points:7
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+
+11/12 Boys IM Points: 
+[('MRSC', 206), ('MVP', 66)]
+
+========================
+11/12 Boys Free Relay:
+========================
+1 {'MRSC': 113.11} Points:48
+2 {'MVP': 121.38} Points:42
+
+11/12 Boys Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+13/14 Girls Free:
+========================
+1 {'MVP': 26.51} Points:24
+2 {'MVP': 26.64} Points:21
+3 {'MVP': 27.33} Points:20
+4 {'MVP': 27.48} Points:19
+5 {'MRSC': 28.78} Points:18
+6 {'MRSC': 29.27} Points:17
+7 {'MRSC': 29.33} Points:16
+8 {'MRSC': 29.34} Points:15
+9 {'MVP': 29.57} Points:14
+10 {'MVP': 29.63} Points:13
+11 {'MVP': 29.91} Points:11
+12 {'MVP': 30.06} Points:9
+13 {'MVP': 30.08} Points:8
+14 {'MVP': 30.23} Points:7
+15 {'MRSC': 30.24} Points:6
+16 {'MVP': 30.6} Points:5
+17 {'MVP': 30.76} Points:4
+17 {'MVP': 30.76} Points:4
+19 {'MVP': 31.21} Points:2
+20 {'MVP': 31.63} Points:1
+
+13/14 Girls Free Points: 
+[('MVP', 162), ('MRSC', 72)]
+
+========================
+13/14 Girls Breast:
+========================
+1 {'MVP': 33.21} Points:24
+2 {'MVP': 34.57} Points:21
+3 {'MVP': 35.32} Points:20
+4 {'MVP': 38.19} Points:19
+5 {'MRSC': 38.3} Points:18
+6 {'MVP': 38.51} Points:17
+7 {'MVP': 38.93} Points:16
+8 {'MVP': 38.95} Points:15
+9 {'MVP': 39.31} Points:14
+10 {'MVP': 40.09} Points:13
+11 {'MVP': 40.44} Points:11
+12 {'MRSC': 42.33} Points:9
+13 {'MRSC': 42.96} Points:8
+14 {'MRSC': 49.26} Points:7
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+15 {'MRSC': 1000} Points:6
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+20 {'MVP': 1000} Points:1
+
+13/14 Girls Breast Points: 
+[('MVP', 179), ('MRSC', 72)]
+
+========================
+13/14 Girls Back:
+========================
+1 {'MVP': 32.24} Points:24
+2 {'MVP': 32.91} Points:21
+3 {'MRSC': 34.73} Points:20
+4 {'MVP': 34.99} Points:19
+5 {'MRSC': 36.07} Points:18
+6 {'MVP': 36.39} Points:17
+7 {'MVP': 36.51} Points:16
+8 {'MVP': 38.94} Points:15
+9 {'MVP': 41.92} Points:14
+10 {'MRSC': 42.51} Points:13
+11 {'MRSC': 43.62} Points:11
+12 {'MRSC': 1000} Points:9
+12 {'MRSC': 1000} Points:9
+12 {'MRSC': 1000} Points:9
+12 {'MRSC': 1000} Points:9
+12 {'MRSC': 1000} Points:9
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+
+13/14 Girls Back Points: 
+[('MVP', 174), ('MRSC', 107)]
+
+========================
+13/14 Girls Fly:
+========================
+1 {'MVP': 29.12} Points:24
+2 {'MRSC': 30.21} Points:21
+3 {'MVP': 30.54} Points:20
+4 {'MVP': 30.58} Points:19
+5 {'MVP': 30.8} Points:18
+6 {'MRSC': 32.22} Points:17
+7 {'MRSC': 32.23} Points:16
+8 {'MRSC': 33.3} Points:15
+9 {'MVP': 34.31} Points:14
+10 {'MVP': 34.47} Points:13
+11 {'MVP': 38.38} Points:11
+12 {'MRSC': 39.91} Points:9
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+
+13/14 Girls Fly Points: 
+[('MVP', 167), ('MRSC', 110)]
+
+========================
+13/14 Girls IM:
+========================
+1 {'MVP': 68.56} Points:24
+2 {'MVP': 69.8} Points:21
+3 {'MVP': 70.55} Points:20
+4 {'MVP': 71.0} Points:19
+5 {'MVP': 75.35} Points:18
+6 {'MRSC': 76.34} Points:17
+7 {'MVP': 76.4} Points:16
+8 {'MRSC': 76.63} Points:15
+9 {'MVP': 77.19} Points:14
+10 {'MVP': 77.35} Points:13
+11 {'MVP': 77.86} Points:11
+12 {'MVP': 78.44} Points:9
+13 {'MVP': 78.53} Points:8
+14 {'MRSC': 78.62} Points:7
+15 {'MVP': 80.57} Points:6
+16 {'MVP': 80.62} Points:5
+17 {'MVP': 82.24} Points:4
+18 {'MVP': 87.3} Points:3
+19 {'MRSC': 87.75} Points:2
+20 {'MRSC': 88.35} Points:1
+
+13/14 Girls IM Points: 
+[('MVP', 191), ('MRSC', 42)]
+
+========================
+13/14 Girls Free Relay:
+========================
+1 {'MVP': 107.96000000000001} Points:48
+2 {'MRSC': 116.72} Points:42
+
+13/14 Girls Free Relay Points: 
+[('MVP', 48), ('MRSC', 42)]
+
+========================
+13/14 Boys Free:
+========================
+1 {'MRSC': 25.02} Points:24
+2 {'MVP': 25.22} Points:21
+3 {'MRSC': 25.5} Points:20
+4 {'MRSC': 26.09} Points:19
+5 {'MRSC': 27.01} Points:18
+6 {'MVP': 27.13} Points:17
+7 {'MRSC': 27.37} Points:16
+8 {'MRSC': 27.79} Points:15
+9 {'MVP': 28.56} Points:14
+10 {'MVP': 29.35} Points:13
+11 {'MRSC': 29.41} Points:11
+12 {'MRSC': 30.4} Points:9
+13 {'MVP': 30.73} Points:8
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+19 {'MVP': 1000} Points:2
+19 {'MVP': 1000} Points:2
+19 {'MVP': 1000} Points:2
+
+13/14 Boys Free Points: 
+[('MRSC', 167), ('MVP', 79)]
+
+========================
+13/14 Boys Breast:
+========================
+1 {'MRSC': 31.55} Points:24
+2 {'MVP': 31.61} Points:21
+3 {'MVP': 32.17} Points:20
+4 {'MRSC': 33.19} Points:19
+5 {'MVP': 33.56} Points:18
+6 {'MRSC': 34.4} Points:17
+7 {'MRSC': 35.69} Points:16
+8 {'MVP': 35.95} Points:15
+9 {'MRSC': 37.72} Points:14
+10 {'MVP': 39.95} Points:13
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+19 {'MVP': 1000} Points:2
+19 {'MVP': 1000} Points:2
+19 {'MVP': 1000} Points:2
+
+13/14 Boys Breast Points: 
+[('MRSC', 178), ('MVP', 93)]
+
+========================
+13/14 Boys Back:
+========================
+1 {'MVP': 27.4} Points:24
+2 {'MVP': 29.06} Points:21
+3 {'MRSC': 30.63} Points:20
+4 {'MRSC': 31.91} Points:19
+5 {'MRSC': 32.93} Points:18
+6 {'MRSC': 33.16} Points:17
+7 {'MRSC': 33.63} Points:16
+8 {'MRSC': 34.93} Points:15
+9 {'MRSC': 35.65} Points:14
+10 {'MVP': 35.78} Points:13
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+11 {'MRSC': 1000} Points:11
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+
+13/14 Boys Back Points: 
+[('MRSC', 185), ('MVP', 78)]
+
+========================
+13/14 Boys Fly:
+========================
+1 {'MVP': 26.13} Points:24
+2 {'MVP': 26.33} Points:21
+3 {'MRSC': 26.86} Points:20
+4 {'MVP': 27.95} Points:19
+5 {'MRSC': 28.57} Points:18
+6 {'MRSC': 28.8} Points:17
+7 {'MRSC': 29.71} Points:16
+8 {'MRSC': 30.09} Points:15
+9 {'MRSC': 30.25} Points:14
+10 {'MVP': 30.78} Points:13
+11 {'MRSC': 31.51} Points:11
+12 {'MRSC': 32.1} Points:9
+13 {'MRSC': 32.33} Points:8
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+14 {'MRSC': 1000} Points:7
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+
+13/14 Boys Fly Points: 
+[('MRSC', 156), ('MVP', 89)]
+
+========================
+13/14 Boys IM:
+========================
+1 {'MVP': 61.26} Points:24
+2 {'MRSC': 64.93} Points:21
+3 {'MVP': 66.31} Points:20
+4 {'MRSC': 67.42} Points:19
+5 {'MRSC': 67.65} Points:18
+6 {'MRSC': 69.21} Points:17
+7 {'MVP': 70.26} Points:16
+8 {'MRSC': 70.6} Points:15
+9 {'MRSC': 70.75} Points:14
+10 {'MVP': 70.95} Points:13
+11 {'MRSC': 71.9} Points:11
+12 {'MRSC': 73.14} Points:9
+13 {'MRSC': 76.68} Points:8
+14 {'MRSC': 78.15} Points:7
+15 {'MVP': 79.93} Points:6
+16 {'MVP': 81.42} Points:5
+17 {'MVP': 83.19} Points:4
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+18 {'MRSC': 1000} Points:3
+
+13/14 Boys IM Points: 
+[('MRSC', 148), ('MVP', 88)]
+
+========================
+13/14 Boys Free Relay:
+========================
+1 {'MRSC': 103.62} Points:48
+2 {'MVP': 104.25} Points:42
+
+13/14 Boys Free Relay Points: 
+[('MRSC', 48), ('MVP', 42)]
+
+========================
+15/18 Girls Free:
+========================
+1 {'MVP': 25.73} Points:24
+2 {'MRSC': 26.68} Points:21
+3 {'MRSC': 27.58} Points:20
+4 {'MVP': 27.71} Points:19
+5 {'MRSC': 28.22} Points:18
+6 {'MRSC': 28.25} Points:17
+7 {'MVP': 28.8} Points:16
+8 {'MRSC': 29.38} Points:15
+9 {'MRSC': 29.5} Points:14
+10 {'MRSC': 29.64} Points:13
+11 {'MVP': 29.97} Points:11
+12 {'MVP': 30.12} Points:9
+13 {'MVP': 31.82} Points:8
+14 {'MRSC': 33.44} Points:7
+15 {'MRSC': 34.35} Points:6
+16 {'MRSC': 1000} Points:5
+16 {'MRSC': 1000} Points:5
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+
+15/18 Girls Free Points: 
+[('MRSC', 141), ('MVP', 96)]
+
+========================
+15/18 Girls Breast:
+========================
+1 {'MVP': 33.07} Points:24
+2 {'MRSC': 33.62} Points:21
+3 {'MRSC': 34.72} Points:20
+4 {'MRSC': 35.86} Points:19
+5 {'MVP': 36.19} Points:18
+6 {'MRSC': 37.04} Points:17
+7 {'MRSC': 39.23} Points:16
+8 {'MRSC': 40.68} Points:15
+9 {'MRSC': 40.79} Points:14
+10 {'MVP': 43.24} Points:13
+11 {'MRSC': 44.25} Points:11
+12 {'MRSC': 47.09} Points:9
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+15 {'MVP': 1000} Points:6
+15 {'MVP': 1000} Points:6
+15 {'MVP': 1000} Points:6
+15 {'MVP': 1000} Points:6
+15 {'MVP': 1000} Points:6
+15 {'MVP': 1000} Points:6
+
+15/18 Girls Breast Points: 
+[('MRSC', 158), ('MVP', 91)]
+
+========================
+15/18 Girls Back:
+========================
+1 {'MVP': 31.71} Points:24
+2 {'MVP': 32.25} Points:21
+3 {'MVP': 32.55} Points:20
+4 {'MRSC': 34.03} Points:19
+5 {'MVP': 35.63} Points:18
+6 {'MVP': 35.79} Points:17
+7 {'MVP': 35.87} Points:16
+8 {'MRSC': 35.97} Points:15
+9 {'MRSC': 36.31} Points:14
+10 {'MVP': 36.42} Points:13
+11 {'MRSC': 36.45} Points:11
+12 {'MRSC': 39.96} Points:9
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+19 {'MVP': 1000} Points:2
+19 {'MVP': 1000} Points:2
+
+15/18 Girls Back Points: 
+[('MVP', 133), ('MRSC', 116)]
+
+========================
+15/18 Girls Fly:
+========================
+1 {'MVP': 30.07} Points:24
+2 {'MVP': 30.15} Points:21
+3 {'MVP': 30.49} Points:20
+4 {'MRSC': 30.97} Points:19
+5 {'MVP': 31.43} Points:18
+6 {'MRSC': 31.5} Points:17
+7 {'MRSC': 31.61} Points:16
+8 {'MVP': 31.69} Points:15
+9 {'MRSC': 32.57} Points:14
+10 {'MRSC': 33.14} Points:13
+11 {'MVP': 35.0} Points:11
+12 {'MRSC': 40.59} Points:9
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+13 {'MRSC': 1000} Points:8
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+18 {'MVP': 1000} Points:3
+
+15/18 Girls Fly Points: 
+[('MRSC', 128), ('MVP', 118)]
+
+========================
+15/18 Girls IM:
+========================
+1 {'MVP': 65.77} Points:24
+2 {'MRSC': 68.21} Points:21
+3 {'MRSC': 69.73} Points:20
+4 {'MVP': 70.21} Points:19
+5 {'MVP': 71.79} Points:18
+6 {'MRSC': 74.26} Points:17
+7 {'MVP': 75.16} Points:16
+8 {'MRSC': 75.74} Points:15
+9 {'MVP': 78.97} Points:14
+10 {'MRSC': 1000} Points:13
+10 {'MRSC': 1000} Points:13
+10 {'MRSC': 1000} Points:13
+10 {'MRSC': 1000} Points:13
+10 {'MRSC': 1000} Points:13
+10 {'MRSC': 1000} Points:13
+10 {'MRSC': 1000} Points:13
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+17 {'MVP': 1000} Points:4
+
+15/18 Girls IM Points: 
+[('MRSC', 164), ('MVP', 107)]
+
+========================
+15/18 Girls Free Relay:
+========================
+1 {'MVP': 110.34} Points:48
+2 {'MRSC': 110.72999999999999} Points:42
+
+15/18 Girls Free Relay Points: 
+[('MVP', 48), ('MRSC', 42)]
+
+========================
+15/18 Boys Free:
+========================
+1 {'MVP': 24.03} Points:24
+2 {'MVP': 24.4} Points:21
+3 {'MVP': 24.45} Points:20
+4 {'MRSC': 25.26} Points:19
+5 {'MRSC': 25.74} Points:18
+6 {'MVP': 26.28} Points:17
+7 {'MRSC': 27.14} Points:16
+8 {'MRSC': 29.14} Points:15
+9 {'MVP': 29.47} Points:14
+10 {'MRSC': 29.95} Points:13
+11 {'MRSC': 1000} Points:11
+12 {'MVP': 1000} Points:9
+
+15/18 Boys Free Points: 
+[('MVP', 105), ('MRSC', 92)]
+
+========================
+15/18 Boys Breast:
+========================
+1 {'MRSC': 30.7} Points:24
+2 {'MVP': 31.5} Points:21
+3 {'MRSC': 33.79} Points:20
+4 {'MVP': 35.0} Points:19
+5 {'MRSC': 1000} Points:18
+5 {'MRSC': 1000} Points:18
+5 {'MRSC': 1000} Points:18
+5 {'MRSC': 1000} Points:18
+9 {'MVP': 1000} Points:14
+9 {'MVP': 1000} Points:14
+9 {'MVP': 1000} Points:14
+9 {'MVP': 1000} Points:14
+
+15/18 Boys Breast Points: 
+[('MRSC', 116), ('MVP', 96)]
+
+========================
+15/18 Boys Back:
+========================
+1 {'MVP': 28.61} Points:24
+2 {'MVP': 28.86} Points:21
+3 {'MRSC': 32.79} Points:20
+4 {'MRSC': 34.11} Points:19
+5 {'MRSC': 35.13} Points:18
+6 {'MVP': 37.95} Points:17
+7 {'MRSC': 43.49} Points:16
+8 {'MRSC': 1000} Points:15
+8 {'MRSC': 1000} Points:15
+10 {'MVP': 1000} Points:13
+10 {'MVP': 1000} Points:13
+10 {'MVP': 1000} Points:13
+
+15/18 Boys Back Points: 
+[('MRSC', 103), ('MVP', 101)]
+
+========================
+15/18 Boys Fly:
+========================
+1 {'MVP': 24.64} Points:24
+2 {'MVP': 25.07} Points:21
+3 {'MVP': 25.34} Points:20
+4 {'MVP': 27.99} Points:19
+5 {'MRSC': 28.07} Points:18
+6 {'MRSC': 30.79} Points:17
+7 {'MRSC': 33.95} Points:16
+8 {'MRSC': 35.01} Points:15
+9 {'MRSC': 1000} Points:14
+9 {'MRSC': 1000} Points:14
+11 {'MVP': 1000} Points:11
+11 {'MVP': 1000} Points:11
+
+15/18 Boys Fly Points: 
+[('MVP', 106), ('MRSC', 94)]
+
+========================
+15/18 Boys IM:
+========================
+1 {'MVP': 58.4} Points:24
+2 {'MVP': 60.33} Points:21
+3 {'MRSC': 63.45} Points:20
+4 {'MVP': 63.55} Points:19
+5 {'MVP': 67.49} Points:18
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+6 {'MRSC': 1000} Points:17
+11 {'MVP': 1000} Points:11
+11 {'MVP': 1000} Points:11
+
+15/18 Boys IM Points: 
+[('MRSC', 105), ('MVP', 104)]
+
+========================
+15/18 Boys Free Relay:
+========================
+1 {'MVP': 99.16} Points:48
+2 {'MRSC': 104.4} Points:42
+
+15/18 Boys Free Relay Points: 
+[('MVP', 48), ('MRSC', 42)]
+
+
+
+========================================================================
+========================    SCORING SUMMARY     ========================
+========================================================================
+
+================================================
+================   Six and Unders  =============
+================================================
+
+========================
+6/Under Girls
+========================
+
+6/Under Girls Free
+[('MRSC', 137), ('MVP', 97)]
+
+6/Under Girls Breast
+[('MRSC', 323), ('MVP', 102)]
+
+6/Under Girls Back
+[('MRSC', 127), ('MVP', 106)]
+
+6/Under Girls Fly
+[('MRSC', 127), ('MVP', 106)]
+
+6/Under Girls Medley Relay
+
+6/Under Girls Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+6/Under Girls Total Age Group Points
+[('MRSC', 865), ('MVP', 386)]
+
+========================
+6/Under Boys
+========================
+
+6/Under Boys Free
+[('MVP', 123), ('MRSC', 114)]
+
+6/Under Boys Breast
+[('MRSC', 209), ('MVP', 119)]
+
+6/Under Boys Back
+[('MRSC', 124), ('MVP', 120)]
+
+6/Under Boys Fly
+[('MRSC', 124), ('MVP', 120)]
+
+6/Under Boys Medley Relay
+
+6/Under Boys Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+6/Under Boys Total Age Group Points
+[('MRSC', 684), ('MVP', 533)]
+
+========================
+6/U Girls and Boys
+========================
+
+6/Under Girls and Boys Free
+[('MRSC', 251), ('MVP', 220)]
+
+6/Under Girls and Boys Breast
+[('MRSC', 532), ('MVP', 221)]
+
+6/Under Girls and Boys Back
+[('MRSC', 251), ('MVP', 226)]
+
+6/Under Girls and Boys Fly
+[('MRSC', 419), ('MVP', 168)]
+
+6/Under Girls and Boys Total Age Group Points + Relays
+[('MRSC', 1549), ('MVP', 919)]
+
+================================================
+================  Seven and Eights  ============
+================================================
+
+========================
+7/8 Girls
+========================
+
+7/8 Girls Free
+[('MRSC', 147), ('MVP', 86)]
+
+7/8 Girls Breast
+[('MRSC', 167), ('MVP', 111)]
+
+7/8 Girls Back
+[('MRSC', 170), ('MVP', 87)]
+
+7/8 Girls Fly
+[('MRSC', 170), ('MVP', 87)]
+
+7/8 Girls Medley Relay
+
+7/8 Girls Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+7/8 Girls Total Age Group Points
+[('MRSC', 758), ('MVP', 596)]
+
+========================
+7/8 Boys
+========================
+
+7/8 Boys Free
+[('MRSC', 152), ('MVP', 92)]
+
+7/8 Boys Breast
+[('MRSC', 164), ('MVP', 87)]
+
+7/8 Boys Back
+[('MRSC', 153), ('MVP', 137)]
+
+7/8 Boys Fly
+[('MRSC', 153), ('MVP', 137)]
+
+7/8 Boys Medley Relay
+
+7/8 Boys Free Relay
+[('MVP', 48), ('MRSC', 42)]
+
+7/8 Boys Total Age Group Points
+[('MRSC', 864), ('MVP', 560)]
+
+========================
+7/8 Girls and Boys
+========================
+
+7/8 Girls and Boys Free
+[('MRSC', 299), ('MVP', 178)]
+
+7/8 Girls and Boys Breast
+[('MRSC', 331), ('MVP', 198)]
+
+7/8 Girls and Boys Back
+[('MRSC', 323), ('MVP', 224)]
+
+7/8 Girls and Boys Fly
+[('MRSC', 240), ('MVP', 233)]
+
+7/8 Girls and Boys IM
+[('MRSC', 339), ('MVP', 233)]
+
+7/8 Girls and Boys Total Age Group Points + Relays
+[('MRSC', 1622), ('MVP', 1156)]
+
+================================================
+=========  8 and Under Girls and Boys  =========
+================================================
+
+8 and Under Girls and Boys Free
+[('MRSC', 550), ('MVP', 398)]
+
+8 and Under Girls and Boys Breast
+[('MRSC', 863), ('MVP', 419)]
+
+8 and Under Girls and Boys Back
+[('MRSC', 574), ('MVP', 450)]
+
+8 and Under Girls and Boys Fly
+[('MRSC', 659), ('MVP', 401)]
+
+8 and Under Girls and Boys IM
+[('MRSC', 339), ('MVP', 233)]
+
+8 and Under Girls and Boys Total Age Group Points + Relays
+[('MRSC', 3171), ('MVP', 2075)]
+
+================================================
+================   Nine and Tens   =============
+================================================
+
+========================
+9/10 Girls
+========================
+
+9/10 Girls Free
+[('MRSC', 159), ('MVP', 75)]
+
+9/10 Girls Breast
+[('MRSC', 193), ('MVP', 105)]
+
+9/10 Girls Back
+[('MRSC', 219), ('MVP', 89)]
+
+9/10 Girls Fly
+[('MRSC', 219), ('MVP', 89)]
+
+9/10 Girls Medley Relay
+
+9/10 Girls Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+9/10 Girls Total Age Group Points
+[('MRSC', 842), ('MVP', 554)]
+
+========================
+9/10 Boys
+========================
+
+9/10 Boys Free
+[('MRSC', 179), ('MVP', 55)]
+
+9/10 Boys Breast
+[('MRSC', 237), ('MVP', 66)]
+
+9/10 Boys Back
+[('MRSC', 211), ('MVP', 29)]
+
+9/10 Boys Fly
+[('MRSC', 211), ('MVP', 29)]
+
+9/10 Boys Medley Relay
+
+9/10 Boys Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+9/10 Boys Total Age Group Points
+[('MRSC', 1129), ('MVP', 334)]
+
+========================
+9/10 Girls and Boys
+========================
+
+9/10 Girls and Boys Free
+[('MRSC', 338), ('MVP', 130)]
+
+9/10 Girls and Boys Breast
+[('MRSC', 430), ('MVP', 171)]
+
+9/10 Girls and Boys Back
+[('MRSC', 430), ('MVP', 118)]
+
+9/10 Girls and Boys Fly
+[('MRSC', 418), ('MVP', 168)]
+
+9/10 Girls and Boys IM
+[('MRSC', 259), ('MVP', 217)]
+
+9/10 Girls and Boys Total Age Group Points + Relays
+[('MRSC', 1971), ('MVP', 888)]
+
+================================================
+===============  Eleven and Twelves  ===========
+================================================
+
+========================
+11/12 Girls
+========================
+
+11/12 Girls Free
+[('MRSC', 160), ('MVP', 73)]
+
+11/12 Girls Breast
+[('MRSC', 190), ('MVP', 106)]
+
+11/12 Girls Back
+[('MRSC', 183), ('MVP', 85)]
+
+11/12 Girls Fly
+[('MRSC', 183), ('MVP', 85)]
+
+11/12 Girls Medley Relay
+
+11/12 Girls Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+11/12 Girls Total Age Group Points
+[('MRSC', 902), ('MVP', 475)]
+
+========================
+11/12 Boys
+========================
+
+11/12 Boys Free
+[('MRSC', 167), ('MVP', 66)]
+
+11/12 Boys Breast
+[('MRSC', 161), ('MVP', 89)]
+
+11/12 Boys Back
+[('MRSC', 179), ('MVP', 63)]
+
+11/12 Boys Fly
+[('MRSC', 179), ('MVP', 63)]
+
+11/12 Boys Medley Relay
+
+11/12 Boys Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+11/12 Boys Total Age Group Points
+[('MRSC', 962), ('MVP', 378)]
+
+========================
+11/12 Girls and Boys
+========================
+
+11/12 Girls and Boys Free
+[('MRSC', 327), ('MVP', 139)]
+
+11/12 Girls and Boys Breast
+[('MRSC', 351), ('MVP', 195)]
+
+11/12 Girls and Boys Back
+[('MRSC', 362), ('MVP', 148)]
+
+11/12 Girls and Boys Fly
+[('MRSC', 372), ('MVP', 138)]
+
+11/12 Girls and Boys IM
+[('MRSC', 356), ('MVP', 149)]
+
+11/12 Girls and Boys Total Age Group Points + Relays
+[('MRSC', 1864), ('MVP', 853)]
+
+================================================
+=========    9 to 12 Girls and Boys    =========
+================================================
+
+9 to 12 Girls and Boys Free
+[('MRSC', 665), ('MVP', 269)]
+
+9 to 12 Girls and Boys Breast
+[('MRSC', 781), ('MVP', 366)]
+
+9 to 12 Girls and Boys Back
+[('MRSC', 792), ('MVP', 266)]
+
+9 to 12 Girls and Boys Fly
+[('MRSC', 790), ('MVP', 306)]
+
+9 to 12 Girls and Boys IM
+[('MRSC', 615), ('MVP', 366)]
+
+9 to 12 Girls and Boys Total Age Group Points + Relays
+[('MRSC', 3835), ('MVP', 1741)]
+
+================================================
+=============  Thirteen and Fourteens  =========
+================================================
+
+========================
+13/14 Girls
+========================
+
+13/14 Girls Free
+[('MVP', 162), ('MRSC', 72)]
+
+13/14 Girls Breast
+[('MVP', 179), ('MRSC', 72)]
+
+13/14 Girls Back
+[('MVP', 174), ('MRSC', 107)]
+
+13/14 Girls Fly
+[('MVP', 174), ('MRSC', 107)]
+
+13/14 Girls Medley Relay
+
+13/14 Girls Free Relay
+[('MVP', 48), ('MRSC', 42)]
+
+13/14 Girls Total Age Group Points
+[('MVP', 921), ('MRSC', 445)]
+
+========================
+13/14 Boys
+========================
+
+13/14 Boys Free
+[('MRSC', 167), ('MVP', 79)]
+
+13/14 Boys Breast
+[('MRSC', 178), ('MVP', 93)]
+
+13/14 Boys Back
+[('MRSC', 185), ('MVP', 78)]
+
+13/14 Boys Fly
+[('MRSC', 185), ('MVP', 78)]
+
+13/14 Boys Medley Relay
+
+13/14 Boys Free Relay
+[('MRSC', 48), ('MVP', 42)]
+
+13/14 Boys Total Age Group Points
+[('MRSC', 882), ('MVP', 469)]
+
+========================
+13/14 Girls and Boys
+========================
+
+13/14 Girls and Boys Free
+[('MVP', 241), ('MRSC', 239)]
+
+13/14 Girls and Boys Breast
+[('MVP', 272), ('MRSC', 250)]
+
+13/14 Girls and Boys Back
+[('MRSC', 292), ('MVP', 252)]
+
+13/14 Girls and Boys Fly
+[('MRSC', 266), ('MVP', 256)]
+
+13/14 Girls and Boys IM
+[('MVP', 279), ('MRSC', 190)]
+
+13/14 Girls and Boys Total Age Group Points + Relays
+[('MVP', 1390), ('MRSC', 1327)]
+
+================================================
+=============  Fifteen and Eighteens  ==========
+================================================
+
+========================
+15/18 Girls
+========================
+
+15/18 Girls Free
+[('MRSC', 141), ('MVP', 96)]
+
+15/18 Girls Breast
+[('MRSC', 158), ('MVP', 91)]
+
+15/18 Girls Back
+[('MVP', 133), ('MRSC', 116)]
+
+15/18 Girls Fly
+[('MVP', 133), ('MRSC', 116)]
+
+15/18 Girls Medley Relay
+
+15/18 Girls Free Relay
+[('MVP', 48), ('MRSC', 42)]
+
+15/18 Girls Total Age Group Points
+[('MRSC', 749), ('MVP', 593)]
+
+========================
+15/18 Boys
+========================
+
+15/18 Boys Free
+[('MVP', 105), ('MRSC', 92)]
+
+15/18 Boys Breast
+[('MRSC', 116), ('MVP', 96)]
+
+15/18 Boys Back
+[('MRSC', 103), ('MVP', 101)]
+
+15/18 Boys Fly
+[('MRSC', 103), ('MVP', 101)]
+
+15/18 Boys Medley Relay
+
+15/18 Boys Free Relay
+[('MVP', 48), ('MRSC', 42)]
+
+15/18 Boys Total Age Group Points + Relays
+[('MVP', 560), ('MRSC', 552)]
+
+========================
+15/18 Girls and Boys
+========================
+
+15/18 Girls and Boys Free
+[('MRSC', 233), ('MVP', 201)]
+
+15/18 Girls and Boys Breast
+[('MRSC', 274), ('MVP', 187)]
+
+15/18 Girls and Boys Back
+[('MVP', 234), ('MRSC', 219)]
+
+15/18 Girls and Boys Fly
+[('MVP', 224), ('MRSC', 222)]
+
+15/18 Girls and Boys IM
+[('MRSC', 269), ('MVP', 211)]
+
+15/18 Girls and Boys Total Age Group Points + Relays
+[('MRSC', 1301), ('MVP', 1153)]
+
+================================================
+=========    13 and Up Girls and Boys    =======
+================================================
+
+13 and Up Girls and Boys Free
+[('MRSC', 472), ('MVP', 442)]
+
+13 and Up Girls and Boys Breast
+[('MRSC', 524), ('MVP', 459)]
+
+13 and Up Girls and Boys Back
+[('MRSC', 511), ('MVP', 486)]
+
+13 and Up Girls and Boys Fly
+[('MRSC', 488), ('MVP', 480)]
+
+13 and Up Girls and Boys IM
+[('MVP', 490), ('MRSC', 459)]
+
+13 and Up Girls and Boys Total Age Group Points + Relays
+[('MRSC', 2628), ('MVP', 2543)]
+
+
+
+================================================
+============    Team Stroke Scores    ==========
+================================================
+
+Team Freestyle
+[('MRSC', 1687), ('MVP', 1109)]
+
+Team Breastroke
+[('MRSC', 2168), ('MVP', 1244)]
+
+Team Backstroke
+[('MRSC', 1877), ('MVP', 1202)]
+
+Team Butterfly
+[('MRSC', 1937), ('MVP', 1187)]
+
+Team IM
+[('MRSC', 1413), ('MVP', 1089)]
+
+Team Medley Relays
+
+Team Free Relays
+
+[('MRSC', 552), ('MVP', 528)]
+
+================================================
+============    Total Team Scores     ==========
+================================================
+
+[('MRSC', 9634), ('MVP', 6359)]
