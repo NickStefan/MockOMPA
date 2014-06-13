@@ -1,0 +1,133 @@
+ 
+WEB DATA #############################################################
+#Use scrappy to collect the web data
+http://doc.scrapy.org/en/latest/intro/overview.html
+
+
+#Collect the top 100 freestylers in 1 item into a .csv
+
+#Collect scrapy items in a .csv file by executing this in the shell:
+scrapy crawl craig -o items.csv -t csv
+
+# how to run multiple bots at once. Run bots. then run python.
+
+#Use openpyxl to extract the csv information into a workbook column
+#Repeat process to get a second item into the next workbook column
+#Items needed might be: name?, team, age, IM, Free, Breast, Back, Fly
+EITHER: #Use openpyxl to load the needed dictionaries
+OR: adjust data directly inside the worksheet. could do all the age groups at once. ie 7 bots items x 2 genders x 3 distances. 42 bots
+
+#Using FormRequest to send data via HTTP POST
+If you want to simulate a HTML Form POST in your spider and send a couple of key-value fields, you can return a FormRequest object (from your spider) like this:
+return [FormRequest(url="http://www.example.com/post/action",
+                    formdata={'name': 'John Doe', 'age': '27'},
+                    callback=self.after_post)]
+					
+					
+
+#manipulate the URL or the java form to get the top 100 6uGirlsFree List
+### need to get the string name of swimmer in top 100 list, then i can get 100 of them, store them in a list
+### need to learn to work with web
+#enter each name one at a time into the form to get their best times
+#store their best times in a dictionary named for their team
+
+# create a dictionary for each swimmer, add them to one of 9 team swimmerlists
+# need to handle the blank entries for swimmers without all 5 strokes
+SuzieJohnson_dict = {fly:22, back: 23, breast: 30, free: 17}
+add suziejohnson_dict to mcc_list
+TammySue_dict = {fly:21, back: 25, breast: N/A, free: N/A}
+add TammySue_dict to mcc_list
+
+
+
+SWIMMER DATA ######################################################
+#enter everyone into all 5 events, but adjust their worst two to be 1000 seconds
+#do this 9 times, once for each team's list of swimmer dictionaries
+for swimtime in team'slist of swimmerdictionaries
+divide by countytime
+sort dictionary
+change highest 2 real numbers into 1000
+
+#do this 9 times. once for each teams list of dictionaries for this age group
+for swimmerdictionaries in team'slist
+add the value that corresponds to "fly" and assign the key "mcc" for the agegroupgenderstroke_dict
+
+#sort the pairs by fastest time. 
+6uGirlsFree_dict = {'MCC':16.1,'OCC':20.2,;'SH':19.5}
+sorted(6uGirlFree, key=lambda key: 6uGirlsFree[key])
+[‘MCC', ’SH', ‘OCC']
+
+#loop to replace the times with points
+for dictionary index 0 to 19
+replace time with list(24,22,20,19,etc)
+for index 20 to end?
+replace time with 0
+
+#do this 9 times, once for each teamagegroupscore_dict
+for mcc in 6uGirlsFree_dict:
+add value to mcc teamagegroupscore_dict
+
+#do this 9 times, once for each teamageroupscore_dict
+for team in teamagegroupscore
+add value to team in totalscore
+
+OUTPUT DATA #########################################################
+
+ideas: breakdown points by team age group, by team stroke, by team age group stroke
+
+
+###################################################
+known needs:
+
+
+60 stroke age group gender dictionaries key=team value=time
+
+1 points list
+
+9 team age group score dictionaries key=team value = points
+
+1 total score dictionary
+
+##################################################
+### sorting a dictionary:
+@Remi, those are two different things! sorted(d.values()) returns sorted list of the values from the dictionary, where sorted(d, key=d.get) returns list of the keys, sorted in order of the values! Way different. If you don't see the need for the latter, read my post above for "real life" example
+
+>>> # dictionary sorted by value
+>>> OrderedDict(sorted(d.items(), key=lambda t: t[1]))
+OrderedDict([('pear', 1), ('orange', 2), ('banana', 3), ('apple', 4)])
+
+from collections import OrderedDict
+>>> d_sorted_by_value = OrderedDict(sorted(d.items(), key=lambda x: x[1]))
+
+@jie d.items() returns a list of key/value pairs from the dictionary and x is an element of this tuple. x[0] will be key and x[1] will be the value. As we intend to sort on the value, we pass x[1] to the lambda. –
+
+from collections import OrderedDict
+# regular unsorted dictionary
+d = {'banana': 3, 'apple':4, 'pear': 1, 'orange': 2}
+
+# dictionary sorted by key
+OrderedDict(sorted(d.items(), key=lambda t: t[0]))
+OrderedDict([('apple', 4), ('banana', 3), ('orange', 2), ('pear', 1)])
+
+# dictionary sorted by value
+OrderedDict(sorted(d.items(), key=lambda t: t[1]))
+OrderedDict([('pear', 1), ('orange', 2), ('banana', 3), ('apple', 4)])
+###################################################
+
+###################################################
+Using Classes
+>>> class Student:
+        def __init__(self, name, grade, age):
+            self.name = name
+            self.grade = grade
+            self.age = age
+        def __repr__(self):
+            return repr((self.name, self.grade, self.age))
+>>>
+>>> student_objects = [
+    Student('john', 'A', 15),
+    Student('jane', 'B', 12),
+    Student('dave', 'B', 10),
+]
+>>> sorted(student_objects, key=lambda student: student.age)   # sort by age
+[('dave', 'B', 10), ('jane', 'B', 12), ('john', 'A', 15)]

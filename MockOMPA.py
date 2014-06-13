@@ -1,29 +1,5 @@
 #!/usr/bin/python
 
-# MockOMPA
-# Uses: 
-# <> fully quantified knowlegde of team strengths and weaknesses
-# <> program runnable at any time of the season, good for tracking team improvemts
-# <> just for fun, the total scores can be like the BCS of OMPA swimming
-# <> can run the meet with certain teams removed
-# <> can remove all but two teams to simulate a dualmeet
-# <> can toggle dual meet scoring or ompa scoring
-# code written and designed by Nick Stefan
-
-
-# the flow of data in this program is as such:
-# ompascrapymanager.py is run at the command line separate from this program
-# the .json files from ompascrapymanager.py are fed into LoadScrapyData()
-# LoadScrappyData() -> ReOrderStrokes() -> SortTeamSwimmers() -> PickEvents() -> FillEvents()
-# variables loaded from FillEvents() are then evaluated with ScoreEvent()
-# ScoreEvent() also prints out event results (ie 1st place swimmer, 2nd place swimmer etc)
-
-# various points dictionaries stated in ompapresetvariables module are then added and totaled
-# in various ways to give information such as total team points, team fly points, team 6/u girls points etc
-# AddTwoDictionaries() helps with the totaling of these different dictionaries
-# OrderedScores() is a formating tool for printing, but really isnt used to affect program variables
-
-
 import ompapresetvariables as ov
 import ompafunctions as ofunc
 

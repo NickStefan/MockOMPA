@@ -13,34 +13,33 @@ from ompa.items import OmpaItem
 # sel.xpath("//td[4]/text()")
 
 from scrapy.utils.response import open_in_browser
-#  open_in_browser(response)
 
 
 class MySpider(BaseSpider):
     name = "ompaspider"
-    # start_urls = ["http://crgwebservices.com/OMPA/tt-srch.cgi"]
-    start_urls = ["http://crgwebservices.com/Springbrook/tt-srch.cgi"]
-    # start_urls = ["http://crgwebservices.com/DCSL/tt-srch.cgi"]
+    start_urls = ["http://www.acornswim.com",
+    "http://www.acornswim.com/Database/index.php?league=ompa",
+    "http://www.acornswim.com/Database/search/ttsearch.php?sttchoice=Search+Top+Times"]
     
     def parse(self, response):
-        return [FormRequest.from_response(response,formname="TTForm",
-                    formdata={"Ctype":"A", "Req_Team":"", "AgeGrp":"", 
-                    "lowage": self.lowage, "highage": self.highage, "sex": self.sex, "StrkDist": self.StrkDist, 
-                    "How_Many": "25", "foolOldPerl": ""}
+        #open_in_browser(response)
+        return [FormRequest.from_response(response,formname="ttimes",
+                    formdata={"ttteams":"", "ttagegroups":"", 
+                    "ttloage": self.ttloage, "tthiage": self.tthiage, "ttgenders": self.ttgenders, "ttdistances": self.ttdistances, 
+                    "ttstrokes": self.ttstrokes,"ttdisplay": "25"}
                     ,callback=self.parse1,dont_click=True)]
     
     def parse1(self, response):       
-        
         hxs = Selector(response)
         rows = hxs.xpath(".//tr")
         items = []
         
         for rows in rows[4:29]:
             item = OmpaItem()
-            item["names"] = rows.xpath(".//td[2]/text()").extract()
-            item["age"] = rows.xpath(".//td[3]/text()").extract()
-            item["time"] = rows.xpath(".//td[4]/text()").extract()
-            item["team"] = rows.xpath(".//td[6]/text()").extract()
+            item["names"] = rows.xpath(".//td[3]/a[1]/text()").extract()
+            item["age"] = rows.xpath(".//td[4]/text()").extract()
+            item["time"] = rows.xpath(".//td[5]/text()").extract()
+            item["team"] = rows.xpath(".//td[7]/text()").extract()
             items.append(item)           
         return items
 
