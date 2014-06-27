@@ -1,16 +1,6 @@
 #!/usr/bin/python
 
-# MockOMPA
-# Uses: 
-# <> fully quantified knowlegde of team strengths and weaknesses
-# <> program runnable at any time of the season, good for tracking team improvemts
-# <> just for fun, the total scores can be like the BCS of OMPA swimming
-# code written and designed by Nick Stefan
-
 # functions to be imported to MockOMPA.py
-
-# to add a team, add their name to the SwimTeamList variable, check loadscrapydata, and add their names into the LafOMPA version of the loadscrapydata() function (it takes more than one json)
-
 
 def getSec(s):
 
@@ -40,9 +30,18 @@ def getSec(s):
     except AttributeError:
         r = s
     return r
-#
 
-
+def ParseScrapyData(JSONlist):
+    output = []
+    
+    for jsonitem in JSONlist:
+        if jsonitem == "sixundergirlsim.json" or jsonitem == "sixunderboysim.json":
+            temp = [[],[],[],[]]
+            output.append(temp)
+        else:
+            temp = LoadScrapyData(jsonitem)
+            output.append(temp)
+    return output
 
 def LoadScrapyData(jsonscrapy):
 
@@ -53,74 +52,33 @@ def LoadScrapyData(jsonscrapy):
     import json
     import ast
     import re
-
+    
+    # add the directory housing our JSONs
+    jsonscrapy = "JSONdata/" + jsonscrapy
+    
     with open(jsonscrapy) as json_file:
         json_data = json.load(json_file)
         json_data = ast.literal_eval(json.dumps(json_data))
 
-    # gets rid of the json crap, u', and extra brackets
+    # parses the json, converts unicode
     namelist = []
     agelist = []
     teamlist = []
     timelist = []
-    # datelist = []
     
     for swimmers in json_data:
         namelist.extend(swimmers["names"])
         agelist.extend(swimmers["age"])
         teamlist.extend(swimmers["team"])
         timelist.extend(swimmers["time"])
-        # try:
-#             datelist.extend(swimmers["date"])
-#         except KeyError:
-#             pass
-   
-    # gets rid of swimmers from wrong teams who sometimes find there way into the database
-    # for some reason the team filter needs to be run twice! 
-    # it works on one team fine, but with say: swims == "OCC" or swims == "SH" will take out all SH and all but 1 OCC.
-    for swims in teamlist:
-        swimmerID = teamlist.index(swims)
-        if swims == "LMYA" or swims == "" or swims == "LMYA":
-            del namelist[swimmerID]
-            del agelist[swimmerID]
-            del teamlist[swimmerID]
-            del timelist[swimmerID]
-            # del datelist[swimmerID]
-        for swimmers2 in teamlist:
-            swimmerID2 = teamlist.index(swimmers2)
-            if swimmers2 == "LMYA" or swimmers2 == "LMYA" or swimmers2 == "":
-                del namelist[swimmerID2]
-                del agelist[swimmerID2]
-                del teamlist[swimmerID2]
-                del timelist[swimmerID2]
-                # del datelist[swimmerID2]
-    
-    # for dates in datelist:
-    #     dateID = datelist.index(dates)
-    #     if dates contain "2012":
-    #             del namelist[swimmerID]
-    #             del agelist[swimmerID]
-    #             del teamlist[swimmerID]
-    #             del timelist[swimmerID]
-    #             del datelist[swimmerID]
-    #         for swimmers2 in teamlist:
-    #             swimmerID2 = teamlist.index(swimmers2)
-    #             if swimmers2 == "2012":
-    #                 del namelist[swimmerID2]
-    #                 del agelist[swimmerID2]
-    #                 del teamlist[swimmerID2]
-    #                 del timelist[swimmerID2]
-    #                 del datelist[swimmerID]
                 
-        # fixes the "21.05y" into an actual float
-        for times in timelist:
-            timeID = timelist.index(times)
-            timelist[timeID]= float(re.match(r'[-+]?\d*\.\d+|\d+', str(getSec(times))).group())
+    # fixes the "21.05y" into an actual float
+    for times in timelist:
+        timeID = timelist.index(times)
+        timelist[timeID]= float(re.match(r'[-+]?\d*\.\d+|\d+', str(getSec(times))).group())
     
     #returns a tuple. so to print only the list of names: print namelist[0]
     return namelist, agelist, teamlist, timelist
-
-#
 
 def LoadScrapyData2(jsonscrapy,jsonscrapy2,jsonscrapy3):
 
@@ -141,17 +99,13 @@ def LoadScrapyData2(jsonscrapy,jsonscrapy2,jsonscrapy3):
     agelist = []
     teamlist = []
     timelist = []
-    # datelist = []
+
     
     for swimmers in json_data:
         namelist.extend(swimmers["names"])
         agelist.extend(swimmers["age"])
         teamlist.extend(swimmers["team"])
         timelist.extend(swimmers["time"])
-        # try:
-#             datelist.extend(swimmers["date"])
-#         except KeyError:
-#             pass
 
     with open(jsonscrapy2) as json_file2:
         json_data2 = json.load(json_file2)
@@ -172,55 +126,28 @@ def LoadScrapyData2(jsonscrapy,jsonscrapy2,jsonscrapy3):
         agelist.extend(swimmers["age"])
         teamlist.extend(swimmers["team"])
         timelist.extend(swimmers["time"])
-   
-    # gets rid of swimmers from wrong teams who sometimes find there way into the database
-    # for some reason the team filter needs to be run twice! 
-    # it works on one team fine, but with say: swims == "OCC" or swims == "SH" will take out all SH and all but 1 OCC.
-    for swims in teamlist:
-        swimmerID = teamlist.index(swims)
-        if swims == "LMYA" or swims == "" or swims == "LMYA":
-            del namelist[swimmerID]
-            del agelist[swimmerID]
-            del teamlist[swimmerID]
-            del timelist[swimmerID]
-            # del datelist[swimmerID]
-        for swimmers2 in teamlist:
-            swimmerID2 = teamlist.index(swimmers2)
-            if swimmers2 == "LMYA" or swimmers2 == "LMYA" or swimmers2 == "":
-                del namelist[swimmerID2]
-                del agelist[swimmerID2]
-                del teamlist[swimmerID2]
-                del timelist[swimmerID2]
-                # del datelist[swimmerID2]
-    
-    # for dates in datelist:
-    #     dateID = datelist.index(dates)
-    #     if dates contain "2012":
-    #             del namelist[swimmerID]
-    #             del agelist[swimmerID]
-    #             del teamlist[swimmerID]
-    #             del timelist[swimmerID]
-    #             del datelist[swimmerID]
-    #         for swimmers2 in teamlist:
-    #             swimmerID2 = teamlist.index(swimmers2)
-    #             if swimmers2 == "2012":
-    #                 del namelist[swimmerID2]
-    #                 del agelist[swimmerID2]
-    #                 del teamlist[swimmerID2]
-    #                 del timelist[swimmerID2]
-    #                 del datelist[swimmerID]
-                
-        # fixes the "21.05y" into an actual float
-        for times in timelist:
-            timeID = timelist.index(times)
-            timelist[timeID]= float(re.match(r'[-+]?\d*\.\d+|\d+', str(getSec(times))).group())
+
+    # fixes the "21.05y" into an actual float
+    for times in timelist:
+        timeID = timelist.index(times)
+        timelist[timeID]= float(re.match(r'[-+]?\d*\.\d+|\d+', str(getSec(times))).group())
     
     #returns a tuple. so to print only the list of names: print namelist[0]
     return namelist, agelist, teamlist, timelist
 
-
-
-
+def SortWholeAgeGroupGender(strokesdata):
+    output = []
+    
+    # count in increments of 5 from 0 to 60 
+    # (5 events for 12 age group genders)
+    for i in [j for j in range(0,60,5)]:
+        temp = ReOrderStrokes(
+                strokesdata[i],strokesdata[i+1],
+                strokesdata[i+2],strokesdata[i++3],strokesdata[i+4]
+                )
+        output.append(temp)
+        
+    return output
 
 def ReOrderStrokes(ScrapyFree,ScrapyBreast,ScrapyBack,ScrapyFly,ScrapyIM):
     #all of the strokes, teams, times, really all of the data in this age 
@@ -344,9 +271,6 @@ def ReOrderStrokes(ScrapyFree,ScrapyBreast,ScrapyBack,ScrapyFly,ScrapyIM):
         OutputIM.append(ScrapyIM[3][imid])
         
     return ScrapyFree[0],ScrapyFree[2],ScrapyFree[3],OutputBreast, OutputBack, OutputFly, OutputIM
-#
-
-
 
 
 def SortTeamSwimmers(AgeGroupGender,SwimTeamList):
@@ -372,59 +296,8 @@ def SortTeamSwimmers(AgeGroupGender,SwimTeamList):
                  TeamAgeGroupGender[teamid].append({"Free":AgeGroupGender[2][swimmerID],
                  "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
                  "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-        
-        # # SH
-#         if AgeGroupGender[1][swimmerID] == SwimTeamList:
-#              TeamAgeGroupGender[0].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # OCC
-#         elif AgeGroupGender[1][swimmerID] == "OCC":
-#              TeamAgeGroupGender[1].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # PARK
-#         elif AgeGroupGender[1][swimmerID] == "PARK":
-#              TeamAgeGroupGender[2].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # MEAD
-#         elif AgeGroupGender[1][swimmerID] == "MEAD":
-#              TeamAgeGroupGender[3].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # MVP
-#         elif AgeGroupGender[1][swimmerID] == "MVP":
-#              TeamAgeGroupGender[4].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # MIRA
-#         elif AgeGroupGender[1][swimmerID] == "MIRA":
-#              TeamAgeGroupGender[5].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # MCC
-#         elif AgeGroupGender[1][swimmerID] == "MCC":
-#              TeamAgeGroupGender[6].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # MRSC
-#         elif AgeGroupGender[1][swimmerID] == "MRSC":
-#              TeamAgeGroupGender[7].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
-#         # CCC
-#         elif AgeGroupGender[1][swimmerID] == "CCC":
-#              TeamAgeGroupGender[8].append({"Free":AgeGroupGender[2][swimmerID],
-#              "Breast":AgeGroupGender[3][swimmerID],"Back":AgeGroupGender[4][swimmerID],
-#              "Fly":AgeGroupGender[5][swimmerID],"IM":AgeGroupGender[6][swimmerID]})
     
     return TeamAgeGroupGender
-
-#
-
-
-
 
 def PickEvents(TeamAgeGroupGender,countylist):
     # the online database has best times for up to all 5 events, but in the real ompa,
@@ -1210,11 +1083,6 @@ def PickEvents(TeamAgeGroupGender,countylist):
     
     return TeamAgeGroupGender
 
-#
-
-
-
-
 
 def FillEvent(TeamAgeGroupGender,SwimTeamList): 
     # this takes the lists of swimmer sorted by teams, and then uses them to fill up each event with swimmers
@@ -1232,48 +1100,79 @@ def FillEvent(TeamAgeGroupGender,SwimTeamList):
             for swimmers in TeamAgeGroupGender[teamid]:
                 swimmerID = TeamAgeGroupGender[teamid].index(swimmers)
                 AgeGroupStroke[eventid].append({SwimTeams:TeamAgeGroupGender[teamid][swimmerID][event]})
-   
-    
-#         for swimmers in TeamAgeGroupGender[0]:
-#             swimmerID = TeamAgeGroupGender[0].index(swimmers)
-#             AgeGroupStroke[eventid].append({"SH":TeamAgeGroupGender[0][swimmerID][event]})
-#
-#       # for swimmers in TeamAgeGroupGender[1]:
-#             swimmerID = TeamAgeGroupGender[1].index(swimmers)
-#             AgeGroupStroke[eventid].append({"OCC":TeamAgeGroupGender[1][swimmerID][event]})
-#     
-#         for swimmers in TeamAgeGroupGender[2]:
-#             swimmerID = TeamAgeGroupGender[2].index(swimmers)
-#             AgeGroupStroke[eventid].append({"PARK":TeamAgeGroupGender[2][swimmerID][event]})
-#      
-#         for swimmers in TeamAgeGroupGender[3]:
-#             swimmerID = TeamAgeGroupGender[3].index(swimmers)
-#             AgeGroupStroke[eventid].append({"MEAD":TeamAgeGroupGender[3][swimmerID][event]})
-#         
-#         for swimmers in TeamAgeGroupGender[4]:
-#            swimmerID = TeamAgeGroupGender[4].index(swimmers)
-#            AgeGroupStroke[eventid].append({"MVP":TeamAgeGroupGender[4][swimmerID][event]})
-#        
-#         for swimmers in TeamAgeGroupGender[5]:
-#            swimmerID = TeamAgeGroupGender[5].index(swimmers)
-#            AgeGroupStroke[eventid].append({"MIRA":TeamAgeGroupGender[5][swimmerID][event]})
-#     
-#         for swimmers in TeamAgeGroupGender[6]:
-#            swimmerID = TeamAgeGroupGender[6].index(swimmers)
-#            AgeGroupStroke[eventid].append({"MCC":TeamAgeGroupGender[6][swimmerID][event]})
-#         
-#         for swimmers in TeamAgeGroupGender[7]:
-#            swimmerID = TeamAgeGroupGender[7].index(swimmers)
-#            AgeGroupStroke[eventid].append({"MRSC":TeamAgeGroupGender[7][swimmerID][event]})
-#     
-#         for swimmers in TeamAgeGroupGender[8]:
-#            swimmerID = TeamAgeGroupGender[8].index(swimmers)
-#            AgeGroupStroke[eventid].append({"CCC":TeamAgeGroupGender[8][swimmerID][event]})
     
         AgeGroupStroke[eventid] = sorted(AgeGroupStroke[eventid], key=lambda k: k.values())    
     return AgeGroupStroke
-    
-##
+
+def FillMedleyRelay(TeamAgeGroupGender,SwimTeamList):
+    # this takes the lists of swimmer sorted by teams, and then uses them to fill up each event with swimmers
+    # so that they then can be scored in the next part of the program
+
+    AgeGroupStroke = []
+    # TeamAgeGroupGender[teamid][swimmerID]["Free"]
+
+    RelayPlaceHolder = [[] for i in range(len(SwimTeamList))]
+
+    for SwimTeams in SwimTeamList:
+        
+        freetimes = []
+        backtimes = []
+        breasttimes = []
+        flytimes = []
+        
+        teamid = SwimTeamList.index(SwimTeams)
+
+        for swimmers in TeamAgeGroupGender[teamid]:
+            swimmerID = TeamAgeGroupGender[teamid].index(swimmers)
+            
+            freetimes.append({SwimTeams:TeamAgeGroupGender[teamid][swimmerID]["Free"],"id":swimmerID})
+            breasttimes.append({SwimTeams:TeamAgeGroupGender[teamid][swimmerID]["Breast"],"id":swimmerID})
+            backtimes.append({SwimTeams:TeamAgeGroupGender[teamid][swimmerID]["Back"],"id":swimmerID})
+            flytimes.append({SwimTeams:TeamAgeGroupGender[teamid][swimmerID]["Fly"],"id":swimmerID})
+        
+        freetimes = sorted(freetimes, key=lambda k: k.values())
+        freetimes = freetimes[0:5]
+              
+        breasttimes = sorted(breasttimes, key=lambda k: k.values())
+        breasttimes = breasttimes[0:5]
+
+        backtimes = sorted(backtimes, key=lambda k: k.values())
+        backtimes = backtimes[0:5]
+            
+        flytimes = sorted(flytimes, key=lambda k: k.values())
+        flytimes = flytimes[0:5]
+            
+        minHolder = 5000
+        
+        for free in freetimes:
+            
+            for breast in breasttimes:
+                
+                for back in backtimes:
+                    
+                    for fly in flytimes:
+                        
+                        relayIDs = []
+                        relayIDs.extend((free["id"],breast["id"],back["id"],fly["id"]))
+                        
+                        if unique_values(relayIDs):
+                            relay = free[SwimTeams] + breast[SwimTeams] + back[SwimTeams] + fly[SwimTeams]
+
+                            if relay < minHolder:
+                                minHolder = relay
+                                
+        AgeGroupStroke.append({SwimTeams: minHolder })
+
+    AgeGroupStroke = sorted(AgeGroupStroke, key=lambda k: k.values())
+
+    return AgeGroupStroke
+
+def unique_values(g):
+    s = set()
+    for x in g:
+        if x in s: return False
+        s.add(x)
+    return True
 
 def FillFreeRelay(TeamAgeGroupGender,SwimTeamList): 
     # this takes the lists of swimmer sorted by teams, and then uses them to fill up each event with swimmers
@@ -1286,7 +1185,7 @@ def FillFreeRelay(TeamAgeGroupGender,SwimTeamList):
     RelayPlaceHolder = [[] for i in range(len(SwimTeamList))]
           
     for SwimTeams in SwimTeamList:
-        # RelayPlaceHolder.append(empty)
+
         teamid = SwimTeamList.index(SwimTeams)
         
         for swimmers in TeamAgeGroupGender[teamid]:
@@ -1300,20 +1199,37 @@ def FillFreeRelay(TeamAgeGroupGender,SwimTeamList):
             AgeGroupStroke.append(AddTwoDictionaries(LegsOneTwo,LegsThreeFour))
         except IndexError:
             norelay = {}
-            norelay[SwimTeams] = 1000
+            norelay[SwimTeams] = 4001
             AgeGroupStroke.append(norelay)
     AgeGroupStroke = sorted(AgeGroupStroke, key=lambda k: k.values())
     
     return AgeGroupStroke
-##
 
 def CreateOutPutFile():
-    filename = raw_input("What would you like to name the output file? (no extensions): ")
-    with open(str(filename + ".txt"), "w") as f:
-        f.write(str(filename)+ "\n")
+    import os, re, sys
+ 
+    # absolute dir the script is in
+    script_dir = os.path.dirname(__file__)
+    
+    # sub path and file name given
+    # filepathname = raw_input("What would you like to name the output file? (no extensions): ")
+    filepathname = str(sys.argv[1])
+    
+    filename = re.split("/",filepathname)[::-1]
+
+    if re.match('$/',filepathname):
+        pass
+    else:
+        filepathname = "/" + filepathname
+
+    abs_file_path = script_dir + filepathname
+    
+    with open(str(abs_file_path), "w") as f:
+        # include the filename at the top of the file
+        f.write(str(filename[0])+ "\n")
         f.close
-        return str(filename + ".txt")
-##
+        return str(abs_file_path)
+
 
 def ScoreEvent(AgeGroupStroke, AgeGroupPoints, AgeGroupStrokePoints, ScoringScheme, SwimTeamList):
     # the event is scored and loaded into global agegroupgender_points dictionaries,
@@ -1323,13 +1239,15 @@ def ScoreEvent(AgeGroupStroke, AgeGroupPoints, AgeGroupStrokePoints, ScoringSche
     
     # for each dictionary contained in the list
     for swimmers in AgeGroupStroke:
+
         # index rank of each dictionary contained in the list
         swimmerID = AgeGroupStroke.index(swimmers)
         
         for swimteams in SwimTeamList:
   # SH
-  # if the key "SH" is in the dictionary, and the index is less than 20 (index 0-19 score) 
-            if swimteams in swimmers and swimmerID < 20:
+  # if the key "SH" is in the dictionary, and the index is less than 20 (index 0-19 score)
+  # if swimmer[teamname] == 1000, ie not a real time, dont score it
+            if swimteams in swimmers and swimmerID < 20 and swimmers[swimteams] != 1000:
               eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
               if swimteams in AgeGroupPoints:
                   AgeGroupPoints[swimteams] = AgeGroupPoints[swimteams] + ScoringScheme[swimmerID]
@@ -1350,200 +1268,9 @@ def ScoreEvent(AgeGroupStroke, AgeGroupPoints, AgeGroupStrokePoints, ScoringSche
               else:
                   AgeGroupStrokePoints[swimteams] = 0  
     
-        # # SH
-#         # if the key "SH" is in the dictionary, and the index is less than 20 (index 0-19 score) 
-#         if "SH" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "SH" in AgeGroupPoints:
-#                 AgeGroupPoints["SH"] = AgeGroupPoints["SH"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["SH"] = ScoringScheme[swimmerID]
-#             if "SH" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["SH"] = AgeGroupStrokePoints["SH"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["SH"] = ScoringScheme[swimmerID]
-#         # if SH doesnt have anyone in the 0-19 index, still create an entry of {"SH":0}. this avoids errors later
-#         else:
-#             if "SH" in AgeGroupPoints:
-#                 AgeGroupPoints["SH"] = AgeGroupPoints["SH"] + 0
-#             else:
-#                 AgeGroupPoints["SH"] = 0
-#             if  "SH" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["SH"] = AgeGroupStrokePoints["SH"] + 0
-#             else:
-#                 AgeGroupStrokePoints["SH"] = 0
-#         # OCC
-#         if "OCC" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "OCC" in AgeGroupPoints:
-#                 AgeGroupPoints["OCC"] = AgeGroupPoints["OCC"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["OCC"] = ScoringScheme[swimmerID]
-#             if "OCC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["OCC"] = AgeGroupStrokePoints["OCC"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["OCC"] = ScoringScheme[swimmerID]
-#         else:
-#             if "OCC" in AgeGroupPoints:
-#                 AgeGroupPoints["OCC"] = AgeGroupPoints["OCC"] + 0
-#             else:
-#                 AgeGroupPoints["OCC"] = 0
-#             if  "OCC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["OCC"] = AgeGroupStrokePoints["OCC"] + 0
-#             else:
-#                 AgeGroupStrokePoints["OCC"] = 0
-#         # PARK
-#         if "PARK" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "PARK" in AgeGroupPoints:
-#                 AgeGroupPoints["PARK"] = AgeGroupPoints["PARK"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["PARK"] = ScoringScheme[swimmerID]
-#             if "PARK" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["PARK"] = AgeGroupStrokePoints["PARK"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["PARK"] = ScoringScheme[swimmerID]
-#         else:
-#             if "PARK" in AgeGroupPoints:
-#                 AgeGroupPoints["PARK"] = AgeGroupPoints["PARK"] + 0
-#             else:
-#                 AgeGroupPoints["PARK"] = 0
-#             if  "PARK" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["PARK"] = AgeGroupStrokePoints["PARK"] + 0
-#             else:
-#                 AgeGroupStrokePoints["PARK"] = 0
-#         # MEAD
-#         if "MEAD" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "MEAD" in AgeGroupPoints:
-#                 AgeGroupPoints["MEAD"] = AgeGroupPoints["MEAD"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["MEAD"] = ScoringScheme[swimmerID]
-#             if "MEAD" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MEAD"] = AgeGroupStrokePoints["MEAD"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["MEAD"] = ScoringScheme[swimmerID]
-#         else:
-#             if "MEAD" in AgeGroupPoints:
-#                 AgeGroupPoints["MEAD"] = AgeGroupPoints["MEAD"] + 0
-#             else:
-#                 AgeGroupPoints["MEAD"] = 0
-#             if  "MEAD" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MEAD"] = AgeGroupStrokePoints["MEAD"] + 0
-#             else:
-#                 AgeGroupStrokePoints["MEAD"] = 0
-#         # MVP
-#         if "MVP" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "MVP" in AgeGroupPoints:
-#                 AgeGroupPoints["MVP"] = AgeGroupPoints["MVP"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["MVP"] = ScoringScheme[swimmerID]
-#             if "MVP" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MVP"] = AgeGroupStrokePoints["MVP"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["MVP"] = ScoringScheme[swimmerID]
-#         else:
-#             if "MVP" in AgeGroupPoints:
-#                 AgeGroupPoints["MVP"] = AgeGroupPoints["MVP"] + 0
-#             else:
-#                 AgeGroupPoints["MVP"] = 0
-#             if  "MVP" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MVP"] = AgeGroupStrokePoints["MVP"] + 0
-#             else:
-#                 AgeGroupStrokePoints["MVP"] = 0
-#         # MIRA
-#         if "MIRA" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "MIRA" in AgeGroupPoints:
-#                 AgeGroupPoints["MIRA"] = AgeGroupPoints["MIRA"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["MIRA"] = ScoringScheme[swimmerID]
-#             if "MIRA" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MIRA"] = AgeGroupStrokePoints["MIRA"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["MIRA"] = ScoringScheme[swimmerID]
-#         else:
-#             if "MIRA" in AgeGroupPoints:
-#                 AgeGroupPoints["MIRA"] = AgeGroupPoints["MIRA"] + 0
-#             else:
-#                 AgeGroupPoints["MIRA"] = 0
-#             if  "MIRA" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MIRA"] = AgeGroupStrokePoints["MIRA"] + 0
-#             else:
-#                 AgeGroupStrokePoints["MIRA"] = 0
-#         # MCC
-#         if "MCC" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "MCC" in AgeGroupPoints:
-#                 AgeGroupPoints["MCC"] = AgeGroupPoints["MCC"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["MCC"] = ScoringScheme[swimmerID]
-#             if "MCC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MCC"] = AgeGroupStrokePoints["MCC"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["MCC"] = ScoringScheme[swimmerID]
-#         else:
-#             if "MCC" in AgeGroupPoints:
-#                 AgeGroupPoints["MCC"] = AgeGroupPoints["MCC"] + 0
-#             else:
-#                 AgeGroupPoints["MCC"] = 0
-#             if  "MCC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MCC"] = AgeGroupStrokePoints["MCC"] + 0
-#             else:
-#                 AgeGroupStrokePoints["MCC"] = 0
-#         # MRSC
-#         if "MRSC" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "MRSC" in AgeGroupPoints:
-#                 AgeGroupPoints["MRSC"] = AgeGroupPoints["MRSC"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["MRSC"] = ScoringScheme[swimmerID]
-#             if "MRSC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MRSC"] = AgeGroupStrokePoints["MRSC"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["MRSC"] = ScoringScheme[swimmerID]
-#         else:
-#             if "MRSC" in AgeGroupPoints:
-#                 AgeGroupPoints["MRSC"] = AgeGroupPoints["MRSC"] + 0
-#             else:
-#                 AgeGroupPoints["MRSC"] = 0
-#             if  "MRSC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["MRSC"] = AgeGroupStrokePoints["MRSC"] + 0
-#             else:
-#                 AgeGroupStrokePoints["MRSC"] = 0
-#         # CCC
-#         if "CCC" in swimmers and swimmerID < 20:
-#             eventresults.append((str(swimmerID+1) + " " + str(swimmers) + " Points:" + str(ScoringScheme[swimmerID]) + "\n"))
-#             if "CCC" in AgeGroupPoints:
-#                 AgeGroupPoints["CCC"] = AgeGroupPoints["CCC"] + ScoringScheme[swimmerID]
-#             else:
-#                  AgeGroupPoints["CCC"] = ScoringScheme[swimmerID]
-#             if "CCC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["CCC"] = AgeGroupStrokePoints["CCC"] + ScoringScheme[swimmerID]
-#             else:
-#                 AgeGroupStrokePoints["CCC"] = ScoringScheme[swimmerID]
-#         else:
-#             if "CCC" in AgeGroupPoints:
-#                 AgeGroupPoints["CCC"] = AgeGroupPoints["CCC"] + 0
-#             else:
-#                 AgeGroupPoints["CCC"] = 0
-#             if  "CCC" in AgeGroupStrokePoints:
-#                 AgeGroupStrokePoints["CCC"] = AgeGroupStrokePoints["CCC"] + 0
-#             else:
-#                 AgeGroupStrokePoints["CCC"] = 0
+
     return eventresults
     
-#
-
-
-
-
-
-
-
-
-
 def OrderedScores(AgeGroupPoints):
     # this turns the AgeGroupPoints into an orderd tuple. Using this inside the ScoreEvent() 
     # doesnt work because the ordered tuples cant be continiously added to like the key can in a dictionary. 
@@ -1552,13 +1279,18 @@ def OrderedScores(AgeGroupPoints):
     OrderedScores = sorted(AgeGroupPoints.items(), key=lambda x: x[1], reverse = True)
     return OrderedScores
 
+# create a function that reduces a list of identitcal dictionaries
 
-#
-
-
-
-
-
+def ReduceDictionaries(arr):
+    
+    current = arr[0]
+    i = 1
+    
+    while (i < len(arr)):
+        current = AddTwoDictionaries(current,arr[i])
+        i += 1
+    
+    return current
 
 def AddTwoDictionaries(PointsOne,PointsTwo):
     # use this to total up a teams fly points (ie add their 6ugirls fly, 6u boys fly, 78girls fly etc)
@@ -1568,40 +1300,471 @@ def AddTwoDictionaries(PointsOne,PointsTwo):
         TotalPoints[keys] = PointsOne[keys] + PointsTwo[keys]
     return TotalPoints
 
-#
+#### WRAPPER FUNCTIONS these take callback functions such as "fill events" and calls for each agegroup found in an agegroup list
 
-def TotalPoints(SixUnderGirls,SixUnderBoys,SevenEightGirls,SevenEightBoys,
-NineTenGirls,NineTenBoys,ElevenTwelveGirls,ElevenTwelveBoys,ThirteenFourteenGirls,ThirteenFourteenBoys,FifteenEighteenGirls,FifteenEighteenBoys):
+def AgeGroupWrapper(AgeGroupList,callbackArg2,callback):
+    output = []
+        
+    for group in AgeGroupList:
+        temp = callback(group,callbackArg2)
+        output.append(temp)
+        
+    return output
+    
+def AgeGroupWrapperDoubleList(AgeGroupList,callbackArg2List,callback):
+    output = []
+    
+    for group in AgeGroupList:
+        groupid = AgeGroupList.index(group)
+        temp = callback(group,callbackArg2List[groupid])
+        output.append(temp)
+        
+    return output
+    
+def ScoreEventsWrapper(AgeGroupGenderEvents,ScoringScheme,SwimTeamList,callback):
+    import ompapresetvariables as ov
+            
+    i = 0
+    g = 0
+    s = 0
+        
+    while (g < len(AgeGroupGenderEvents)):
+          
+        if i < len(AgeGroupGenderEvents[g]):
+            eventkey = ov.EventResultsKeys[s]
+            pointkey = ov.AgeGroupPointsKeys[g]
+            
+            try: 
+                ov.AgeGroupPoints[pointkey]
+            except KeyError:
+                ov.AgeGroupPoints[pointkey] = {}
+                
+            try:
+                ov.EventPoints[eventkey]
+            except: 
+                ov.EventPoints[eventkey] = {}
+                
+            ov.EventResults[eventkey] = callback( AgeGroupGenderEvents[g][i], ov.AgeGroupPoints[pointkey], ov.EventPoints[eventkey], ScoringScheme, SwimTeamList)
+            i += 1
+            s += 1
+                
+        else:
+            g += 1
+            i = 0
+
+def ScoreMedleyRelaysWrapper(AgeGroupGenderRelays,ScoringScheme,SwimTeamList,callback):
+    import ompapresetvariables as ov
+    
+    i = 0
+    g = 0        
+    
+    while (g < len(AgeGroupGenderRelays)):
+        eventkey = ov.MedleyRelayResultsKeys[i]
+        pointkey = ov.AgeGroupPointsKeys[g]
+        
+        try: 
+            ov.AgeGroupPoints[pointkey]
+        except KeyError:
+            ov.AgeGroupPoints[pointkey] = {}
+            
+        try:
+            ov.EventPoints[eventkey]
+        except: 
+            ov.EventPoints[eventkey] = {}
+        
+        ov.EventResults[eventkey] = callback( AgeGroupGenderRelays[g], ov.AgeGroupPoints[pointkey], ov.EventPoints[eventkey], ScoringScheme, SwimTeamList)              
+        i += 1                
+        g += 1
+
+def ScoreFreeRelaysWrapper(AgeGroupGenderRelays,ScoringScheme,SwimTeamList,callback):
+    import ompapresetvariables as ov
+    
+    i = 0
+    g = 0        
+    
+    while (g < len(AgeGroupGenderRelays)):
+        eventkey = ov.FreeRelayResultsKeys[i]
+        pointkey = ov.AgeGroupPointsKeys[g]
+        
+        try: 
+            ov.AgeGroupPoints[pointkey]
+        except KeyError:
+            ov.AgeGroupPoints[pointkey] = {}
+            
+        try:
+            ov.EventPoints[eventkey]
+        except: 
+            ov.EventPoints[eventkey] = {}
+            
+            
+        ov.EventResults[eventkey] = callback( AgeGroupGenderRelays[g], ov.AgeGroupPoints[pointkey], ov.EventPoints[eventkey], ScoringScheme, SwimTeamList)              
+        i += 1             
+        g += 1
+
+# writing output functions
+
+def TotalPoints(arr,diction):
+    pointsArr = []
+    for keys in arr:
+        pointsArr.append(diction[keys])
+    
+    return str(OrderedScores(ReduceDictionaries(
+        pointsArr
+        )))
+        
+def ThreeBar(string):
+    
+    width = 50
+    rows = 3
+    buffering = 4
+    header = len(string)
+    
+    top = ("=" * width) + "\n"
+    bottom = ("=" * width) + "\n"
+    
+    leftright = width - header - (2 * (buffering))
+    
+    if leftright % 2 == 0:
+        left = ("=" * (leftright / 2)) + (buffering * " ")
+        right = (buffering * " ") + ("=" * (leftright / 2))
+        
+    else:
+        left = ("=" * ((leftright - 1) / 2)) + (buffering * " ")
+        right = (buffering * " ") + ("=" * ((leftright + 1) / 2))
+        
+    middle = left + string + right + "\n"
+    
+    return top + middle + bottom
+    
+    
+    
+def TwoBar(string):
+    
+    width = 25
+    rows = 3
+    header = len(string)
+    
+    top = ("=" * width) + "\n"
+    bottom = ("=" * width) + "\n"
+    
+    leftright = width - header
+    
+    if leftright % 2 == 0:
+        left = (" " * (leftright / 2))
+        right = left
+    
+    else:
+        left = (" " * ((leftright - 1) / 2))
+        right = (" " * ((leftright + 1) / 2))
+        
+    middle = left + string + right + "\n"
+    
+    return top + middle + bottom
+    
+    
+    
+def MeetResults(f):
+    import ompapresetvariables as ov
+    
+    # age group gender
+    g = 0
+    # single event
+    e = 0
+    # relay event
+    r = 0
+    
+    
+    while (g < len(ov.AgeGroupPointsKeys)):
+
+        f.write("\n")
+        f.write(TwoBar(ov.EventResultsKeys[e]))
+        for things in ov.EventResults[ov.EventResultsKeys[e]]:
+            f.write(things)
+        f.write("\n")
+        f.write(ov.EventResultsKeys[e] + " Points: \n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]]))+"\n")
+        
+        e += 1
+
+        f.write("\n")
+        f.write(TwoBar(ov.EventResultsKeys[e]))
+        for things in ov.EventResults[ov.EventResultsKeys[e]]:
+            f.write(things)
+        f.write("\n")
+        f.write(ov.EventResultsKeys[e] + " Points: \n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]]))+"\n")
+        
+        e += 1
+
+        f.write("\n")
+        f.write(TwoBar(ov.EventResultsKeys[e]))
+        for things in ov.EventResults[ov.EventResultsKeys[e]]:
+            f.write(things)
+        f.write("\n")
+        f.write(ov.EventResultsKeys[e] + " Points: \n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]]))+"\n")
+        
+        e += 1
+
+        f.write("\n")
+        f.write(TwoBar(ov.EventResultsKeys[e]))
+        for things in ov.EventResults[ov.EventResultsKeys[e]]:
+            f.write(things)
+        f.write("\n")
+        f.write(ov.EventResultsKeys[e] + " Points: \n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]]))+"\n")
+        
+        e += 1
+        
+        # only print IM if its not six and unders
+        if g < 2:
+            pass
+            # 6 and unders
+        else:
+            f.write("\n")
+            f.write(TwoBar(ov.EventResultsKeys[e]))
+            for things in ov.EventResults[ov.EventResultsKeys[e]]:
+                f.write(things)
+            f.write("\n")
+            f.write(ov.EventResultsKeys[e] + " Points: \n")
+            f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]]))+ "\n")
+        
+        e += 1
+        
+        f.write("\n")
+        f.write(TwoBar(ov.MedleyRelayResultsKeys[r]))
+        for things in ov.EventResults[ov.MedleyRelayResultsKeys[r]]:
+            f.write(things)
+        f.write("\n")
+        f.write(ov.MedleyRelayResultsKeys[r] + " Points: \n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.MedleyRelayResultsKeys[r]]))+"\n")
+        f.write("\n")
+
+        f.write("\n")
+        f.write(TwoBar(ov.FreeRelayResultsKeys[r]))
+        for things in ov.EventResults[ov.FreeRelayResultsKeys[r]]:
+            f.write(things)
+        f.write("\n")
+        f.write(ov.FreeRelayResultsKeys[r] + " Points: \n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.FreeRelayResultsKeys[r]]))+"\n")
+        f.write("\n")
+        
+        r += 1
+        g += 1
+        
+def TeamMacroScores(f):
+    import ompapresetvariables as ov
+    
+    f.write("\n")
+    f.write(ThreeBar('8 and Under Girls and Boys'))
+    f.write("\n")
+    
+    for e in [r for r in range(20,61,20)]:
+        b = e - 20
+        
+        FreeArr = []
+        for i in [j for j in range(b,e,5)]:
+            FreeArr.append(ov.EventResultsKeys[i])
+
+        BreastArr = []
+        for i in [j for j in range(b+1,e,5)]:
+            BreastArr.append(ov.EventResultsKeys[i])
+
+        BackArr = []
+        for i in [j for j in range(b+2,e,5)]:
+            BackArr.append(ov.EventResultsKeys[i])
+
+        FlyArr = []
+        for i in [j for j in range(b+3,e,5)]:
+            FlyArr.append(ov.EventResultsKeys[i])
+
+        ImArr = []
+        for i in [j for j in range(b+4,e,5)]:
+            ImArr.append(ov.EventResultsKeys[i])
+        
+        AgeGroupArr = []
+            
+        if e == 20:
+            header = "8/Under Girls/Boys"
+            
+            for i in [j for j in range(0,4)]:
+                AgeGroupArr.append(ov.AgeGroupPointsKeys[i])
+                
+        elif e == 40:
+            header = "9-12 Girls/Boys"
+            
+            for i in [j for j in range(5,8)]:
+                AgeGroupArr.append(ov.AgeGroupPointsKeys[i])
+                
+        elif e == 60:
+            header = "13/up Girls/Boys"
+            
+            for i in [j for j in range(9,12)]:
+                AgeGroupArr.append(ov.AgeGroupPointsKeys[i])
+        
+        f.write("\n")
+        f.write(TwoBar(header))
+        
+        f.write("\n")
+        f.write(header + " Free\n")
+        f.write(TotalPoints(FreeArr,ov.EventPoints) +"\n")
+
+        f.write("\n")
+        f.write(header + " Breast\n")
+        f.write(TotalPoints(BreastArr,ov.EventPoints) +"\n")
+
+        f.write("\n")
+        f.write(header + " Back\n")
+        f.write(TotalPoints(BackArr,ov.EventPoints) +"\n")
+
+        f.write("\n")
+        f.write(header + " Fly\n")
+        f.write(TotalPoints(FlyArr,ov.EventPoints) +"\n")
+
+        f.write("\n")
+        f.write(header + " IM\n")
+        f.write(TotalPoints(ImArr,ov.EventPoints) +"\n")
+
+        f.write("\n")
+        f.write(TwoBar(header + " Total Age Group Points + Relays"))
+        f.write(TotalPoints(AgeGroupArr,ov.AgeGroupPoints) +"\n")
+
+def TeamAgeGroupScores(f):
+    
+    import ompapresetvariables as ov
+    
+    groupsMacro = [
+    "Six and Under","Seven and Eights", "Nine and Tens", "Eleven and Twelves",
+    "Thirteen and Fourteens", "Fifteen and Eighteens"
+    ]
+    
+    gM = 0
+    g = 0
+    i = 0
+    e = 0
+        
+    while (g < len(ov.AgeGroupPointsKeys)):
+        
+        if g % 2 == 0:
+            f.write("\n")
+            f.write("\n")
+            f.write(ThreeBar(groupsMacro[gM]))
+            gM += 1
+        else:
+            pass
+       
+        f.write("\n")
+        f.write(TwoBar(ov.AgeGroupPointsKeys[g]))
+        f.write("\n")
+        
+        f.write(ov.EventResultsKeys[e] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]])) + "\n")
+        f.write("\n")
+        
+        e += 1
+        
+        f.write(ov.EventResultsKeys[e] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]])) + "\n")
+        f.write("\n")
+        
+        e += 1
+        
+        f.write(ov.EventResultsKeys[e] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]])) + "\n")
+        f.write("\n")
+        
+        e += 1
+        
+        f.write(ov.EventResultsKeys[e] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]])) + "\n")
+        f.write("\n")
+        
+        e += 1
+        
+        f.write(ov.EventResultsKeys[e] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.EventResultsKeys[e]])) + "\n")
+        f.write("\n")
+        
+        e += 1
+        
+        f.write(ov.MedleyRelayResultsKeys[g] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.MedleyRelayResultsKeys[g]])) + "\n")
+        f.write("\n")
+        
+        f.write(ov.FreeRelayResultsKeys[g] + "\n")
+        f.write(str(OrderedScores(ov.EventPoints[ov.FreeRelayResultsKeys[g]])) + "\n")
+        f.write("\n")
+        
+        f.write(ov.AgeGroupPointsKeys[g] + " Total Age Group Points\n")
+        f.write(str(OrderedScores(ov.AgeGroupPoints[ov.AgeGroupPointsKeys[g]])) + "\n")
+        f.write("\n")
+        
+        g += 1
 
     
-    SixUnder = AddTwoDictionaries(SixUnderGirls,SixUnderBoys)
+def TeamStrokeScores(f):
     
+    import ompapresetvariables as ov
     
-    SevenEight = AddTwoDictionaries(SevenEightGirls,SevenEightBoys)
-    
-  
-    NineTen = AddTwoDictionaries(NineTenGirls,NineTenBoys)
-    
-   
-    ElevenTwelve = AddTwoDictionaries(ElevenTwelveGirls,ElevenTwelveBoys)
-    
-    
-    ThirteenFourteen = AddTwoDictionaries(ThirteenFourteenGirls,ThirteenFourteenBoys)
-    
-   
-    FifteenEighteen = AddTwoDictionaries(FifteenEighteenGirls,FifteenEighteenBoys)
-    
-   
-    EightUnder = AddTwoDictionaries(SixUnder,SevenEight)
-    
-    
-    NineTwelve = AddTwoDictionaries(NineTen,ElevenTwelve)
-    
-    ThirteenUp = AddTwoDictionaries(ThirteenFourteen,FifteenEighteen)
-    
-    TotalPointCount = AddTwoDictionaries(AddTwoDictionaries(EightUnder,NineTwelve),ThirteenUp)
+    FreeArr = []
+    for i in [j for j in range(0,60,5)]:
+        FreeArr.append(ov.EventResultsKeys[i])
 
-    return TotalPointCount
-
-
+    BreastArr = []
+    for i in [j for j in range(1,60,5)]:
+        BreastArr.append(ov.EventResultsKeys[i])
+    
+    BackArr = []
+    for i in [j for j in range(2,60,5)]:
+        BackArr.append(ov.EventResultsKeys[i])
+    
+    FlyArr = []
+    for i in [j for j in range(3,60,5)]:
+        FlyArr.append(ov.EventResultsKeys[i])
+    
+    ImArr = []
+    for i in [j for j in range(4,60,5)]:
+        ImArr.append(ov.EventResultsKeys[i])
+    
+    f.write(ThreeBar("Team Stroke Scores"))
+    f.write("\n")
+    
+    f.write("\n")
+    f.write("Team Freestyle\n")
+    f.write(TotalPoints(FreeArr,ov.EventPoints)+"\n")
+    
+    f.write("\n")
+    f.write("Team Breastroke\n")
+    f.write(TotalPoints(BreastArr,ov.EventPoints)+"\n")
+    f.write("\n")
+    
+    f.write("Team Backstroke\n")
+    f.write(TotalPoints(BackArr,ov.EventPoints)+"\n")
+    f.write("\n")
+    
+    f.write("Team Butterfly\n")
+    f.write(TotalPoints(FlyArr,ov.EventPoints)+"\n")
+    f.write("\n")
+    
+    f.write("Team IM\n")
+    f.write(TotalPoints(ImArr,ov.EventPoints)+"\n")
+    f.write("\n")
+    
+    f.write("Team Medley Relays\n")
+    f.write(TotalPoints(ov.MedleyRelayResultsKeys,ov.EventPoints)+"\n")
+    f.write("\n")
+    
+    f.write("Team Free Relays\n")
+    f.write(TotalPoints(ov.FreeRelayResultsKeys,ov.EventPoints)+"\n")
+    f.write("\n")
+        
+def TeamScores(f):
+    import ompapresetvariables as ov
+    
+    f.write("\n")
+    f.write(ThreeBar("Total Team Points"))
+    f.write("\n")
+    f.write(TotalPoints(ov.AgeGroupPointsKeys,ov.AgeGroupPoints)+"\n")
+    f.write("\n")
+        
 

@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+
+{% block head_title %}Mock OMPA{% endblock %}
+
+{% block index_content %}
+<div class="container colorblock-black img-block-landing">
+		<br>
+		<br>
+		<div class="row">
+			<div class="col-sm-12">
+				<div id='ompaBox' class="col-sm-12 transparent-black">
+							<br>
+							<h4>Mock OMPA - June 22, 2014</h4>
+              <ol id='mockompa'>
+              </ol>
+              <p><a style='color:#fff;' href='/static/txt/mockompa2014june22.txt'>Click Here For Full Results</a></p>
+              <p id='mockompalegend'></p>
+              <canvas id='mockompachart'></canvas>
+
+				</div>	
+			</div>
+		
+	</div><!-- row -->
+<br>
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="col-sm-12 transparent-white-75">
+							<br>
+							<h4>Mock OMPA</h4>
+              <h6>Description</h6>
+              <ul>
+                <li>Scrapes the OMPA website and scores an OMPA style championship meet</li>
+                <li>Swimmers are automatically entered into only their best events</li>
+                <li>Includes Free and Medley Relays</li>
+              </ul>
+              <h6>Text Output File</h6>
+              <ul>
+                <li>The total predicted team scores</li>
+                <li>Team score broken down by stroke</li>
+                <li>Scores broken down by interesting macro groups: 8/under, 9/12, and 13/up</li>
+                <li>Age group scores</li>
+                <li>Event by Event meet results</li>
+                <li>No swimmer names are outputted to the text file</li>          
+              </ul>
+              <h6>Bugs & Inaccuracies</h6>
+              <ul>
+                <li>Ties don't split points, but simply both get the same points</li>
+                <li>'Vacation' swimmers are obviously not excluded</li>
+              </ul>
+              <h6>Why A Mock OMPA?</h6>
+              <ul>
+                <li>For fun; it's like how football has in-season power rankings and BCS polls</li>
+                <li>It's not supposed to 'predict' anything. If team A is ranked 3rd early in the year, but ends up in second
+                  I don't view that as the 'prediction' being wrong. Instead it's just that things changed, and people got  faster/slower.
+                  <li>I'm curious to see if there's any ebb and flow during the season.</li> 
+                    <li>I've always heard stories of "Team X outswam the program by 300 points", and I thought it would be cool to chart how much each team swims ahead or behind of their in-season points.</li>
+              </ul>
+
+              <h5>Past Mock OMPAs</h5>
+              <ul>
+                <li><a href='/static/txt/mockompa2014june22.txt'>Jun 22, 2014  (added medley relays calculations)</a></li>
+                <li><a href='/static/txt/mockompa2014june13.txt'>Jun 13, 2014 (missing Mira and CCC data) </a></li>
+                <li><a href='/static/txt/mockompa2014pretimetrials.txt'>Jan 30, 2014 (2013 data 'aged up')</a></li>
+                <li><a href='/static/txt/mockompa2013postOMPA.txt'>Aug 4, 2013 (post OMPA)</a></li>
+              </ul>
+              <br>
+				</div>	
+			</div>
+		
+	</div><!-- row -->
+  
+</div>
+
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+<script src='/static/js/Chart.min.js'></script>
+<script src='/static/js/mockompa.js'></script>
+
+{% endblock %}

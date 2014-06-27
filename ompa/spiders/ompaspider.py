@@ -26,7 +26,7 @@ class MySpider(BaseSpider):
         return [FormRequest.from_response(response,formname="ttimes",
                     formdata={"ttteams":"", "ttagegroups":"", 
                     "ttloage": self.ttloage, "tthiage": self.tthiage, "ttgenders": self.ttgenders, "ttdistances": self.ttdistances, 
-                    "ttstrokes": self.ttstrokes,"ttdisplay": "25"}
+                    "ttstrokes": self.ttstrokes,"ttdisplay": "50"}
                     ,callback=self.parse1,dont_click=True)]
     
     def parse1(self, response):       
@@ -34,7 +34,7 @@ class MySpider(BaseSpider):
         rows = hxs.xpath(".//tr")
         items = []
         
-        for rows in rows[4:29]:
+        for rows in rows[4:39]:
             item = OmpaItem()
             item["names"] = rows.xpath(".//td[3]/a[1]/text()").extract()
             item["age"] = rows.xpath(".//td[4]/text()").extract()

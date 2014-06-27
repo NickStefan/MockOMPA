@@ -1,132 +1,8 @@
 #!/usr/bin/python
 
-# MockOMPA
-# Uses: 
-# <> fully quantified knowlegde of team strengths and weaknesses
-# <> program runnable at any time of the season, good for tracking team improvemts
-# <> just for fun, the total scores can be like the BCS of OMPA swimming
-# code written and designed by Nick Stefan copyright 2014
-# all of the preset variables to be imported into MockOMPA
-
 # the order matters in determing the way ties are awarded points. changing the order will only change
 # say a 10th 11 points and a 11th 9 points between a tie. So it only changes a total team score by a few points
 SwimTeamList = ["SH","OCC","PARK","MEAD","MVP","MIRA","MCC","MRSC","CCC"]
-
-# point totals for each age group
-SixUnderGirls_Points = {}
-SixUnderBoys_Points = {}
-SevenEightGirls_Points = {}
-SevenEightBoys_Points = {}
-NineTenGirls_Points = {}
-NineTenBoys_Points = {}
-ElevenTwelveGirls_Points = {}
-ElevenTwelveBoys_Points = {}
-ThirteenFourteenGirls_Points = {}
-ThirteenFourteenBoys_Points = {}
-FifteenEighteenGirls_Points = {}
-FifteenEighteenBoys_Points = {}
-
-# point totals for each age group each stroke
-SixUnderGirls_Free_Points = {}
-SixUnderGirls_Breast_Points = {}
-SixUnderGirls_Back_Points = {}
-SixUnderGirls_Fly_Points = {}
-SixUnderGirls_IM_Points = {}
-
-SixUnderBoys_Free_Points = {}
-SixUnderBoys_Breast_Points = {}
-SixUnderBoys_Back_Points = {}
-SixUnderBoys_Fly_Points = {}
-SixUnderBoys_IM_Points = {}
-
-SevenEightGirls_Free_Points = {}
-SevenEightGirls_Breast_Points = {}
-SevenEightGirls_Back_Points = {}
-SevenEightGirls_Fly_Points = {}
-SevenEightGirls_IM_Points = {}
-
-SevenEightBoys_Free_Points = {}
-SevenEightBoys_Breast_Points = {}
-SevenEightBoys_Back_Points = {}
-SevenEightBoys_Fly_Points = {}
-SevenEightBoys_IM_Points = {}
-
-NineTenGirls_Free_Points = {}
-NineTenGirls_Breast_Points = {}
-NineTenGirls_Back_Points = {}
-NineTenGirls_Fly_Points = {}
-NineTenGirls_IM_Points = {}
-
-NineTenBoys_Free_Points = {}
-NineTenBoys_Breast_Points = {}
-NineTenBoys_Back_Points = {}
-NineTenBoys_Fly_Points = {}
-NineTenBoys_IM_Points = {}
-
-ElevenTwelveGirls_Free_Points = {}
-ElevenTwelveGirls_Breast_Points = {}
-ElevenTwelveGirls_Back_Points = {}
-ElevenTwelveGirls_Fly_Points = {}
-ElevenTwelveGirls_IM_Points = {}
-
-ElevenTwelveBoys_Free_Points = {}
-ElevenTwelveBoys_Breast_Points = {}
-ElevenTwelveBoys_Back_Points = {}
-ElevenTwelveBoys_Fly_Points = {}
-ElevenTwelveBoys_IM_Points = {}
-
-ThirteenFourteenGirls_Free_Points = {}
-ThirteenFourteenGirls_Breast_Points = {}
-ThirteenFourteenGirls_Back_Points = {}
-ThirteenFourteenGirls_Fly_Points = {}
-ThirteenFourteenGirls_IM_Points = {}
-
-ThirteenFourteenBoys_Free_Points = {}
-ThirteenFourteenBoys_Breast_Points = {}
-ThirteenFourteenBoys_Back_Points = {}
-ThirteenFourteenBoys_Fly_Points = {}
-ThirteenFourteenBoys_IM_Points = {}
-
-FifteenEighteenGirls_Free_Points = {}
-FifteenEighteenGirls_Breast_Points = {}
-FifteenEighteenGirls_Back_Points = {}
-FifteenEighteenGirls_Fly_Points = {}
-FifteenEighteenGirls_IM_Points = {}
-
-FifteenEighteenBoys_Free_Points = {}
-FifteenEighteenBoys_Breast_Points = {}
-FifteenEighteenBoys_Back_Points = {}
-FifteenEighteenBoys_Fly_Points = {}
-FifteenEighteenBoys_IM_Points = {}
-
-# relay points
-SixUnderGirls_MedRelay_Points = {}
-SixUnderBoys_MedRelay_Points = {}
-SevenEightGirls_MedRelay_Points = {}
-SevenEightBoys_MedRelay_Points = {}
-NineTenGirls_MedRelay_Points = {}
-NineTenBoys_MedRelay_Points = {}
-ElevenTwelveGirls_MedRelay_Points = {}
-ElevenTwelveBoys_MedRelay_Points = {}
-ThirteenFourteenGirls_MedRelay_Points = {}
-ThirteenFourteenBoys_MedRelay_Points = {}
-FifteenEighteenGirls_MedRelay_Points = {}
-FifteenEighteenBoys_MedRelay_Points = {}
-
-SixUnderGirls_FreeRelay_Points = {}
-SixUnderBoys_FreeRelay_Points = {}
-SevenEightGirls_FreeRelay_Points = {}
-SevenEightBoys_FreeRelay_Points = {}
-NineTenGirls_FreeRelay_Points = {}
-NineTenBoys_FreeRelay_Points = {}
-ElevenTwelveGirls_FreeRelay_Points = {}
-ElevenTwelveBoys_FreeRelay_Points = {}
-ThirteenFourteenGirls_FreeRelay_Points = {}
-ThirteenFourteenBoys_FreeRelay_Points = {}
-FifteenEighteenGirls_FreeRelay_Points = {}
-FifteenEighteenBoys_FreeRelay_Points = {}
-
-TotalFreeRelay_Points = []
 
 # 2014 county times
 SixUnderGirlsCounty = {"FreeCounty": 20.88, "BreastCounty": 29.21, "BackCounty": 25.95, "FlyCounty": 25.37, "IMCounty": 10000.00}
@@ -142,6 +18,12 @@ ThirteenFourteenBoysCounty = {"FreeCounty": 25.88, "BreastCounty": 33.49, "BackC
 FifteenEighteenGirlsCounty = {"FreeCounty": 26.99, "BreastCounty": 34.99, "BackCounty": 31.50, "FlyCounty": 30.25, "IMCounty": 68.50}
 FifteenEighteenBoysCounty = {"FreeCounty": 23.99, "BreastCounty": 31.39, "BackCounty": 29.10, "FlyCounty": 26.75, "IMCounty": 61.70}
 
+CountyTimes = [
+    SixUnderGirlsCounty,SixUnderBoysCounty,SevenEightGirlsCounty,SevenEightBoysCounty,NineTenGirlsCounty,NineTenBoysCounty,
+    ElevenTwelveGirlsCounty,ElevenTwelveBoysCounty,ThirteenFourteenGirlsCounty,ThirteenFourteenBoysCounty,
+    FifteenEighteenGirlsCounty,FifteenEighteenBoysCounty
+]
+
 # individual event scoring system
 ScoringScheme1 = [24,21,20,19,18,17,16,15,14,13,11,9,8,7,6,5,4,3,2,1]
 
@@ -153,3 +35,133 @@ ScoringScheme3 = [5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 
 # traditional dual meet relay scoring system
 ScoringScheme4 = [7,3]
+
+# JSON data from the web scraper
+AgeGroupStrokeJSONs = [
+    "sixundergirlsfree.json",
+    "sixundergirlsbreast.json",
+    "sixundergirlsback.json",
+    "sixundergirlsfly.json",
+    "sixundergirlsim.json",
+
+    "sixunderboysfree.json",
+    "sixunderboysbreast.json",
+    "sixunderboysback.json",
+    "sixunderboysfly.json",
+    "sixunderboysim.json",
+
+    "seveneightgirlsfree.json",
+    "seveneightgirlsbreast.json",
+    "seveneightgirlsback.json",
+    "seveneightgirlsfly.json",
+    "seveneightgirlsim.json",
+
+    "seveneightboysfree.json",
+    "seveneightboysbreast.json",
+    "seveneightboysback.json",
+    "seveneightboysfly.json",
+   "seveneightboysim.json",
+
+    "ninetengirlsfree.json",
+    "ninetengirlsbreast.json",
+    "ninetengirlsback.json",
+    "ninetengirlsfly.json",
+    "ninetengirlsim.json",
+
+   "ninetenboysfree.json",
+   "ninetenboysbreast.json",
+    "ninetenboysback.json",
+   "ninetenboysfly.json",
+    "ninetenboysim.json",
+
+    "eleventwelvegirlsfree.json",
+    "eleventwelvegirlsbreast.json",
+    "eleventwelvegirlsback.json",
+    "eleventwelvegirlsfly.json",
+    "eleventwelvegirlsim.json",
+
+    "eleventwelveboysfree.json",
+    "eleventwelveboysbreast.json",
+    "eleventwelveboysback.json",
+    "eleventwelveboysfly.json",
+    "eleventwelveboysim.json",
+
+    "thirteenfourteengirlsfree.json",
+    "thirteenfourteengirlsbreast.json",
+    "thirteenfourteengirlsback.json",
+    "thirteenfourteengirlsfly.json",
+    "thirteenfourteengirlsim.json",
+
+    "thirteenfourteenboysfree.json",
+    "thirteenfourteenboysbreast.json",
+    "thirteenfourteenboysback.json",
+    "thirteenfourteenboysfly.json",
+    "thirteenfourteenboysim.json",
+
+    "fifteeneighteengirlsfree.json",
+    "fifteeneighteengirlsbreast.json",
+    "fifteeneighteengirlsback.json",
+    "fifteeneighteengirlsfly.json",
+    "fifteeneighteengirlsim.json",
+
+    "fifteeneighteenboysfree.json",
+    "fifteeneighteenboysbreast.json",
+    "fifteeneighteenboysback.json",
+    "fifteeneighteenboysfly.json",
+    "fifteeneighteenboysim.json",
+]
+
+EventResults = {}
+
+EventResultsKeys = [
+            'SixUnderGirls_Free', 'SixUnderGirls_Breast', 'SixUnderGirls_Back', 'SixUnderGirls_Fly', 'SixUnderGirls_IM',
+    
+            'SixUnderBoys_Free','SixUnderBoys_Breast','SixUnderBoys_Back','SixUnderBoys_Fly','SixUnderBoys_IM',
+    
+            'SevenEightGirls_Free','SevenEightGirls_Breast','SevenEightGirls_Back','SevenEightGirls_Fly','SevenEightGirls_IM',
+    
+            'SevenEightBoys_Free','SevenEightBoys_Breast','SevenEightBoys_Back','SevenEightBoys_Fly','SevenEightBoy_IM',
+    
+            'NineTenGirls_Free','NineTenGirls_Breast','NineTenGirls_Back','NineTenGirls_Fly','NineTenGirls_IM',
+    
+            'NineTenBoys_Free','NineTenBoys_Breast','NineTenBoys_Back','NineTenBoys_Fly','NineTenBoys_IM',
+    
+            'ElevenTwelveGirls_Free','ElevenTwelveGirls_Breast','ElevenTwelveGirls_Back','ElevenTwelveGirls_Fly','ElevenTwelveGirls_IM',
+    
+            'ElevenTwelveBoys_Free','ElevenTwelveBoys_Breast','ElevenTwelveBoys_Back','ElevenTwelveBoys_Fly','ElevenTwelveBoys_IM',
+    
+            'ThirteenFourteenGirls_Free','ThirteenFourteenGirls_Breast','ThirteenFourteenGirls_Back','ThirteenFourteenGirls_Fly','ThirteenFourteenGirls_IM',
+    
+            'ThirteenFourteenBoys_Free','ThirteenFourteenBoys_Breast','ThirteenFourteenBoys_Back','ThirteenFourteenBoys_Fly','ThirteenFourteenBoys_IM',
+    
+            'FifteenEighteenGirls_Free','FifteenEighteenGirls_Breast','FifteenEighteenGirls_Back','FifteenEighteenGirls_Fly','FifteenEighteenGirls_IM',
+    
+            'FifteenEighteenBoys_Free','FifteenEighteenBoys_Breast','FifteenEighteenBoys_Back','FifteenEighteenBoys_Fly','FifteenEighteenBoys_IM'
+    ]
+
+FreeRelayResultsKeys = [
+    
+    'SixUnderGirls_FreeRelay','SixUnderBoys_FreeRelay','SevenEightGirls_FreeRelay','SevenEightBoys_FreeRelay',
+    'NineTenGirls_FreeRelay','NineTenBoys_FreeRelay','ElevenTwelveGirls_FreeRelay','ElevenTwelveBoys_FreeRelay',
+    'ThirteenFourteenGirls_FreeRelay','ThirteenFourteenBoys_FreeRelay',
+    'FifteenEighteenGirls_FreeRelay','FifteenEighteenBoys_FreeRelay'
+]
+
+MedleyRelayResultsKeys = [
+
+    'SixUnderGirls_MedleyRelay','SixUnderBoys_MedleyRelay','SevenEightGirls_MedleyRelay','SevenEightBoys_MedleyRelay',
+    'NineTenGirls_MedleyRelay','NineTenBoys_MedleyRelay','ElevenTwelveGirls_MedleyRelay','ElevenTwelveBoys_MedleyRelay',
+    'ThirteenFourteenGirls_MedleyRelay','ThirteenFourteenBoys_MedleyRelay',
+    'FifteenEighteenGirls_MedleyRelay','FifteenEighteenBoys_MedleyRelay'
+    
+]
+
+EventPoints = {}
+
+AgeGroupPointsKeys = [
+    "SixUnderGirls","SixUnderBoys","SevenEightGirls","SevenEightBoys","NineTenGirls","NineTenBoys",
+    "ElevenTwelveGirls","ElevenTwelveBoys","ThirteenFourteenGirls","ThirteenFourteenBoys",
+    "FifteenEighteenGirls","FifteenEighteenBoys"
+]
+
+AgeGroupPoints = {}
