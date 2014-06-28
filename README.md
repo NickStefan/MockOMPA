@@ -1,6 +1,6 @@
 # MockOMPA.py
 
-## Current Outputs: [swimsolo.com/mockompa](http://www.swimsolo.com/mockompa, "swimsolo.com/mockompa")
+## Current Outputs: [swimsolo.com/mockompa](http://www.swimsolo.com/mockompa)
 
 #### Dependencies:
 * Scrapy python webscraping library release 0.20.2
@@ -57,5 +57,5 @@
   * AgeGroupGenderEvents --> ScoreEventsWrapper() uses callback ScoreEvent() --> EventPoints and EventResults
 
 #### Web Presentation:
-* The web presentation folder contains the css and javascript files that create [swimsolo.com/mockompa](http://www.swimsolo.com/mockompa, "swimsolo.com/mockompa")
+* The web presentation folder contains the css and javascript files that create [swimsolo.com/mockompa](http://www.swimsolo.com/mockompa)
 * These files are admittedly not standalone, as the html template is loaded using django templating
