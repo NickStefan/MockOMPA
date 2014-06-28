@@ -9,6 +9,19 @@ from subprocess import call
 #deletes json file
 #call(["rm items.json"], shell=True)
 
+#proxy for counting number of swimmers per team
+# 8under freestyle girls and boys
+# 9up freestyle girls and boys
+call(["scrapy crawl countspider -a ttloage='3' -a tthiage='8' -a ttgenders='F' -a ttstrokes='1' -a ttdistances='25' -o JSONdata/count/eightundergirlsfree.json -t json"], shell=True)
+sleep(randint(15,45))
+call(["scrapy crawl countspider -a ttloage='3' -a tthiage='8' -a ttgenders='M' -a ttstrokes='1' -a ttdistances='25' -o JSONdata/count/eightunderboysfree.json -t json"], shell=True)
+sleep(randint(15,45))
+call(["scrapy crawl countspider -a ttloage='9' -a tthiage='18' -a ttgenders='F' -a ttstrokes='1' -a ttdistances='50' -o JSONdata/count/nineupgirlsfree.json -t json"], shell=True)
+sleep(randint(15,45))
+call(["scrapy crawl countspider -a ttloage='9' -a tthiage='18' -a ttgenders='M' -a ttstrokes='1' -a ttdistances='50' -o JSONdata/count/nineupboysfree.json -t json"], shell=True)
+sleep(randint(15,45))
+
+# get the actual data for the scoring program
 #6under girls free,breast,back,fly
 call(["scrapy crawl ompaspider -a ttloage='3' -a tthiage='6' -a ttgenders='F' -a ttstrokes='1' -a ttdistances='25' -o JSONdata/sixundergirlsfree.json -t json"], shell=True)
 sleep(randint(15,45))

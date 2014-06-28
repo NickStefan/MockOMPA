@@ -42,6 +42,40 @@ def ParseScrapyData(JSONlist):
             temp = LoadScrapyData(jsonitem)
             output.append(temp)
     return output
+    
+def SwimmerCountWrapper(JSONlist,teamlist,callback):
+    import ompapresetvariables as ov
+    
+    output = []
+    
+    for jsonitem in JSONlist:
+        temp = callback(jsonitem,teamlist)
+        output.append(temp)
+    
+    ov.TeamSwimmerCount = ReduceDictionaries(output)
+
+def SwimmerCount(jsonitem,teamlist):
+    import json, ast
+    
+    output = {}
+    
+    for team in teamlist:
+        output[team] = 0
+
+    jsonscrapy = "JSONdata/count/" + jsonitem
+    
+    with open(jsonscrapy) as json_file:
+        json_data = json.load(json_file)
+        json_data = ast.literal_eval(json.dumps(json_data))
+    
+    for swimmers in json_data:
+        teamname = swimmers["team"]
+        if len(teamname) > 0:
+            output[teamname[0]] += 1
+        
+    return output
+        
+    
 
 def LoadScrapyData(jsonscrapy):
 
@@ -1412,6 +1446,22 @@ def TotalPoints(arr,diction):
         pointsArr
         )))
         
+def PointsPerSwimmer(arr,diction,arrTeam,dictionPerSwimmer):
+    pointsArr = []
+    
+    for keys in arr:
+        pointsArr.append(diction[keys])
+    
+    total = ReduceDictionaries(pointsArr)
+    
+    for team in arrTeam:
+        temp = float(total[team]) / float(dictionPerSwimmer[team])
+        total[team] = float("%.2f" % temp)
+    
+    return str(OrderedScores(total))
+    
+    
+        
 def ThreeBar(string):
     
     width = 50
@@ -1765,6 +1815,16 @@ def TeamScores(f):
     f.write(ThreeBar("Total Team Points"))
     f.write("\n")
     f.write(TotalPoints(ov.AgeGroupPointsKeys,ov.AgeGroupPoints)+"\n")
+    f.write("\n")
+    
+def TeamScoresPerSwimmer(f):
+    import ompapresetvariables as ov
+    
+    f.write("\n")
+    f.write(ThreeBar("Points Per Swimmer"))
+    f.write("\n")
+    f.write(PointsPerSwimmer(ov.AgeGroupPointsKeys,ov.AgeGroupPoints,ov.SwimTeamList,ov.TeamSwimmerCount) + "\n")
+    f.write("\n")
     f.write("\n")
         
 

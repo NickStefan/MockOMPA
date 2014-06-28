@@ -62,7 +62,10 @@ ofunc.ScoreMedleyRelaysWrapper(FreeRelays, ov.ScoringScheme2, ov.SwimTeamList, o
 
 ofunc.ScoreFreeRelaysWrapper(MedleyRelays, ov.ScoringScheme2, ov.SwimTeamList, ofunc.ScoreEvent)
 
+#####################################################################
+### CALCULATE POINTS PER SWIMMER
 
+ofunc.SwimmerCountWrapper(ov.SwimmerCountJSONs,ov.SwimTeamList,ofunc.SwimmerCount)
 
 
 #####################################################################
@@ -82,6 +85,8 @@ f.write("=======================================================================
 
 ### these each take the file object (f) and internally call f.write(--stuff to be outputed--)
 ofunc.TeamScores(f)
+
+ofunc.TeamScoresPerSwimmer(f)
 
 ofunc.TeamStrokeScores(f)
 

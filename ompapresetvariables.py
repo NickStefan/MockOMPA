@@ -36,6 +36,18 @@ ScoringScheme3 = [5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]
 # traditional dual meet relay scoring system
 ScoringScheme4 = [7,3]
 
+# JSON data from web scraper only used to calculate number of swimmers per team
+# including those who are not (fast enough to be) scoring
+
+SwimmerCountJSONs = [
+    "eightunderboysfree.json",
+    "eightundergirlsfree.json",
+    "nineupboysfree.json",
+    "nineupgirlsfree.json"
+]
+
+TeamSwimmerCount = {}
+
 # JSON data from the web scraper
 AgeGroupStrokeJSONs = [
     "sixundergirlsfree.json",

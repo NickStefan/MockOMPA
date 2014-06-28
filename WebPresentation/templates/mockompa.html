@@ -10,12 +10,30 @@
 			<div class="col-sm-12">
 				<div id='ompaBox' class="col-sm-12 transparent-black">
 							<br>
-							<h4>Mock OMPA - June 22, 2014</h4>
-              <ol id='mockompa'>
-              </ol>
-              <p><a style='color:#fff;' href='/static/txt/mockompa2014june22.txt'>Click Here For Full Results</a></p>
-              <p id='mockompalegend'></p>
-              <canvas id='mockompachart'></canvas>
+              <h4>Mock OMPA - June 22, 2014</h4>
+              
+              <div class='col-sm-3'>
+                <h5>Total Points</h5>
+                <ol id='mockompa'>
+                </ol>
+              </div>
+              
+              <div class='col-sm-3'>
+                <h5>Points Per Swimmer</h5>
+                <ol id='mockompaperswimmer'>
+                </ol>
+              </div>
+              
+              <div class='col-sm-6'>
+                <p><a style='color:#fff;' href='/static/txt/mockompa2014june22.txt'>Click Here For Full Results</a></p>
+              </div>
+              <br>
+              <div class='row'>
+                <div class='col-sm-12'>
+                <p id='mockompalegend'></p>
+                <canvas id='mockompachart'></canvas>
+                </div>
+              </div>
 
 				</div>	
 			</div>
@@ -36,6 +54,7 @@
               <h6>Text Output File</h6>
               <ul>
                 <li>The total predicted team scores</li>
+                <li>Team Points Per Swimmer</li>
                 <li>Team score broken down by stroke</li>
                 <li>Scores broken down by interesting macro groups: 8/under, 9/12, and 13/up</li>
                 <li>Age group scores</li>
@@ -58,7 +77,7 @@
 
               <h5>Past Mock OMPAs</h5>
               <ul>
-                <li><a href='/static/txt/mockompa2014june22.txt'>Jun 22, 2014  (added medley relays calculations)</a></li>
+                <li><a href='/static/txt/mockompa2014june22.txt'>Jun 22, 2014  (added points per swimmer and medley relays)</a></li>
                 <li><a href='/static/txt/mockompa2014june13.txt'>Jun 13, 2014 (missing Mira and CCC data) </a></li>
                 <li><a href='/static/txt/mockompa2014pretimetrials.txt'>Jan 30, 2014 (2013 data 'aged up')</a></li>
                 <li><a href='/static/txt/mockompa2013postOMPA.txt'>Aug 4, 2013 (post OMPA)</a></li>

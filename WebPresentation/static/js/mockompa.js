@@ -28,6 +28,35 @@ function ompaCurrent(){
   
 }
 
+function ompaPerSwimmer(){
+  var scores, scoresList, scoreStr;
+  
+  scores = {
+    OCC: 13.58,
+    SH: 11.23,
+    MEAD: 12.09,
+    PARK: 10.72,
+    MCC: 8.34,
+    MRSC: 11.15,
+    MIRA: 6.96,
+    MVP: 10.26,
+    CCC: 6.9
+  };
+  
+  scoresList = Object.keys(scores).sort( function(a,b){
+    return scores[b] - scores[a];
+  });
+  
+  scoresList.forEach( function(element,index,array){
+    scoreStr = ['<li>',element,'&emsp;',scores[element],'</li>'];
+    scoreStr = scoreStr.join("");
+    
+    $("#mockompaperswimmer").append(scoreStr);
+  });
+  
+}
+
+
 /// mock ompa chart
 
 var data = {
@@ -233,6 +262,7 @@ if (document.getElementById('mockompa')){
   var chartHeight, chartWidth;
   
   ompaCurrent();
+  ompaPerSwimmer();
   ompaChart(data,options);
   ompaChartLegend(data);
 
