@@ -19,7 +19,8 @@ class MySpider(BaseSpider):
     name = "countspider"
     start_urls = ["http://www.acornswim.com",
     "http://www.acornswim.com/Database/index.php?league=ompa",
-    "http://www.acornswim.com/Database/search/ttsearch.php?sttchoice=Search+Top+Times"]
+    # "http://www.acornswim.com/Database/search/ttsearch.php?sttchoice=Search+Top+Times"
+    ]
     
     def parse(self, response):
         #open_in_browser(response)

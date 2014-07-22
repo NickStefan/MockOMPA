@@ -58,9 +58,9 @@ AgeGroupGenderEvents = ofunc.AgeGroupWrapper(TeamAgeGroupGender,ov.SwimTeamList,
 # AgeGroupGenderEvents --> ScoreEventsWrapper() uses callback ScoreEvent() --> EventPoints and EventResults        
 ofunc.ScoreEventsWrapper(AgeGroupGenderEvents, ov.ScoringScheme1, ov.SwimTeamList, ofunc.ScoreEvent)
 
-ofunc.ScoreMedleyRelaysWrapper(FreeRelays, ov.ScoringScheme2, ov.SwimTeamList, ofunc.ScoreEvent)
+ofunc.ScoreMedleyRelaysWrapper(MedleyRelays, ov.ScoringScheme2, ov.SwimTeamList, ofunc.ScoreEvent)
 
-ofunc.ScoreFreeRelaysWrapper(MedleyRelays, ov.ScoringScheme2, ov.SwimTeamList, ofunc.ScoreEvent)
+ofunc.ScoreFreeRelaysWrapper(FreeRelays, ov.ScoringScheme2, ov.SwimTeamList, ofunc.ScoreEvent)
 
 #####################################################################
 ### CALCULATE POINTS PER SWIMMER

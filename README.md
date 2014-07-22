@@ -12,6 +12,10 @@
 * Created wrapper functions to loop through actions and use callback functions
 * Redesigned the output file writing to abstraction functions
 
+#### Use
+* $ python ompascrapymanager.py
+* $ python mockompa.py /sub/directory/filename.txt
+
 #### Description
 * Scrapes the OMPA website and scores an OMPA style championship meet
 * Swimmers are automatically entered into only their best events
