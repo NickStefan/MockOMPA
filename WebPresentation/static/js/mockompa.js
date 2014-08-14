@@ -4,15 +4,15 @@ function ompaCurrent(){
   var scores, scoresList, scoreStr;
   
   scores = {
-    OCC:3837,
-    SH:3080,
-    MEAD:2955,
-    PARK:2880,
-    MCC:2524,
-    MRSC:1817,
-    MIRA:1383,
-    MVP:1798,
-    CCC:1118
+    OCC:3961,
+    SH:3254,
+    MEAD:2855,
+    PARK:2657,
+    MCC:2732,
+    MRSC:1735,
+    MIRA:1347,
+    MVP:1782,
+    CCC:1073
   };
   
   scoresList = Object.keys(scores).sort( function(a,b){
@@ -28,19 +28,23 @@ function ompaCurrent(){
   
 }
 
+function cleanRound(points,swimmers){
+  return Math.round((points / swimmers)*100)/100;
+}
+
 function ompaPerSwimmer(){
   var scores, scoresList, scoreStr;
-  
+  // second parameter is taken from meet program ie number of swimmers
   scores = {
-    OCC: 12.3,
-    SH: 10.58,
-    MEAD: 10.59,
-    PARK: 10.0,
-    MCC: 7.42,
-    MRSC: 9.0,
-    MIRA: 7.09,
-    MVP: 9.83,
-    CCC: 7.17
+    OCC: cleanRound(3961,245),
+    SH: cleanRound(3254,235),
+    MEAD: cleanRound(2855,235),
+    PARK: cleanRound(2657,245),
+    MCC: cleanRound(2732,255),
+    MRSC: cleanRound(1735,159),
+    MIRA: cleanRound(1347,175),
+    MVP: cleanRound(1782,161),
+    CCC: cleanRound(1073,125)
   };
   
   scoresList = Object.keys(scores).sort( function(a,b){
@@ -60,7 +64,7 @@ function ompaPerSwimmer(){
 /// mock ompa chart
 
 var data = {
-  labels: ["8/4/13 OMPA","1/30/14 Age-Up","6/22/14","8/5/14"],
+  labels: ["8/4/13 OMPA","1/30/14 Age-Up","6/22/14","8/5/14","8/13/14 OMPA"],
   datasets: [
     {
       team: "OCC",
@@ -68,7 +72,7 @@ var data = {
       strokeColor: '#83F52C',
       pointColor: '#83F52C',
       pointStrokeColor: "#fff",
-      data: [3319,3312,3992,3837]
+      data: [3319,3312,3992,3837,3961]
     },
     
     {
@@ -77,7 +81,7 @@ var data = {
       strokeColor: '#0000cd',
       pointColor: '#0000cd',
       pointStrokeColor: "#fff",
-      data: [3032,3233,2919,3080]
+      data: [3032,3233,2919,3080,3254]
     },
     
     {
@@ -86,7 +90,7 @@ var data = {
       strokeColor: 'pink',
       pointColor: 'pink',
       pointStrokeColor: "#fff",
-      data: [2813,2404,3094,2955]
+      data: [2813,2404,3094,2955,2855]
     },
 
     {
@@ -95,7 +99,7 @@ var data = {
       strokeColor: '#228b22',
       pointColor: '#228b22',
       pointStrokeColor: "#fff",
-      data: [1898,1908,2643,2524]
+      data: [1898,1908,2643,2524,2732]
     },
 
     {
@@ -104,7 +108,7 @@ var data = {
       strokeColor: '#9400d3',
       pointColor: '#9400d3',
       pointStrokeColor: "#fff",
-      data: [1897,2140,2777,2880]
+      data: [1897,2140,2777,2880,2657]
     },
 
     {
@@ -113,7 +117,7 @@ var data = {
       strokeColor: '#ffff00',
       pointColor: '#ffff00',
       pointStrokeColor: "#fff",
-      data: [1264,1187,1611,1798]
+      data: [1264,1187,1611,1798,1782]
     },
     
     {
@@ -122,7 +126,7 @@ var data = {
       strokeColor: '#00ffff',
       pointColor: '#00ffff',
       pointStrokeColor: "#fff",
-      data: [1261,1667,2074,1817]
+      data: [1261,1667,2074,1817,1735]
     },
     
     {
@@ -131,7 +135,7 @@ var data = {
       strokeColor: '#ff8c00',
       pointColor: '#ff8c00',
       pointStrokeColor: "#fff",
-      data: [1103,968,993,1118]
+      data: [1103,968,993,1118,1073]
     },
     
     {
@@ -140,7 +144,7 @@ var data = {
       strokeColor: '#98fb98',
       pointColor: '#98fb98',
       pointStrokeColor: "#fff",
-      data: [868,821,1267,1383]
+      data: [868,821,1267,1383,1347]
     }
   ]
 };
