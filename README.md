@@ -1,6 +1,6 @@
 # MockOMPA.py
 
-## Current Outputs: [swimsolo.com/mockompa](http://www.swimsolo.com/mockompa)
+## Current Outputs: [nickstefan.pythonanywhere.com](http://nickstefan.pythonanywhere.com)
 
 #### Dependencies:
 * Scrapy python webscraping library release 0.20.2
