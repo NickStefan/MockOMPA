@@ -26,7 +26,7 @@ var currentSwimmers = {
 function ompaCurrent(){
   var scoresList, scoreStr;
   
-  scoresList = Object.keys(currenScores).sort( function(a,b){
+  scoresList = Object.keys(currentScores).sort( function(a,b){
     return scores[b] - scores[a];
   });
   
