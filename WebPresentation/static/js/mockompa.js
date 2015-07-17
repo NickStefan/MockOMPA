@@ -27,7 +27,7 @@ function ompaCurrent(){
   var scoresList, scoreStr;
   
   scoresList = Object.keys(currentScores).sort( function(a,b){
-    return scores[b] - scores[a];
+    return currentScores[b] - currentScores[a];
   });
   
   scoresList.forEach( function(element,index,array){
