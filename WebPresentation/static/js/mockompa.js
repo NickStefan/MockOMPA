@@ -31,7 +31,7 @@ function ompaCurrent(){
   });
   
   scoresList.forEach( function(element,index,array){
-    scoreStr = ['<li>',element,'&emsp;',scores[element],'</li>'];
+    scoreStr = ['<li>',element,'&emsp;',currentScores[element],'</li>'];
     scoreStr = scoreStr.join("");
     
     $("#mockompa").append(scoreStr);
